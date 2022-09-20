@@ -10,7 +10,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文 超清
 http://ott.mobaibox.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯 超清
-http://ott.mobaibox.com/PLTV/3/224/3221226923/index.m3u8
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳台",凤凰香港 超清
 http://ott.mobaibox.com/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1 极清
@@ -22,7 +22,7 @@ http://183.207.249.174/ott.js.chinamobile.com/PLTV/3/224/3221227546/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4 极清
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5 极清
-http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV5+ 极清
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K
@@ -112,7 +112,7 @@ http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/d1.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="体育",广东体育
 http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="体育",CCTV5 极清
-http://183.207.249.138/ott.js.chinamobile.com/PLTV/3/224/3221227617/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV5+ 极清
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="体育",CCTV16 4K
