@@ -25,9 +25,9 @@ https://cdn.hklive.tv/xxxx/85/index.m3u8
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://bkimg.cdn.bcebos.com/pic/7c1ed21b0ef41bd52b2e98065bda81cb38db3dc6?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5" group-title="港澳台",港台電視31
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="港澳台",港台電視31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://baike.baidu.com/pic/港台电视32/18059923/1/b219ebc4b74543a930de8d3e14178a82b801147e?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=b219ebc4b74543a930de8d3e14178a82b801147e" group-title="港澳台",港台電視32
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png",港台電視32
 https://cdn.hklive.tv/xxxx/32/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://baike.baidu.com/pic/港台电视33/22027934/1/c83d70cf3bc79f3d8c9192c2b0a1cd11738b29cb?fr=lemma&fromModule=lemma_top-image&ct=single#aid=1&pic=c83d70cf3bc79f3d8c9192c2b0a1cd11738b29cb" group-title="港澳台",港台電視33
 https://cdn.hklive.tv/xxxx/33/index.m3u8
