@@ -15,7 +15,7 @@ http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台HD
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",無綫新聞台HD
+#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台HD" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港澳台",無綫新聞台HD
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台HD
 https://cdn.hklive.tv/xxxx/84/index.m3u8
