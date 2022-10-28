@@ -19,7 +19,7 @@ https://cdn.hklive.tv/xxxx/82/index.m3u8
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台HD
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·資訊台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",無綫財經·資訊台HD
+#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·資訊台HD" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-finance.jpg" group-title="港澳台",無綫財經·資訊台HD
 https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV HD
 https://cdn.hklive.tv/xxxx/99/index.m3u8
