@@ -156,7 +156,7 @@ http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/d1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225534/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",SiTV都市剧场 高清
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合" tvg-logo="https://upload.112114.xyz/logo/WUXIxinwnezonghe.png" group-title="无锡",无锡新闻综合 高清
+#EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合" tvg-logo="https://upload.112114.xyz/logo/WUXIxinwen.png" group-title="无锡",无锡新闻综合 高清
 http://m.m3u8.wifiwx.com:80/live/wifiwx-239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡都市资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV3.png" group-title="无锡",无锡都市资讯 高清
 http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
