@@ -5,8 +5,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR42382022040913471411917
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台HD
-https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台HD" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="港澳台",無綫新聞台HD
 https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台HD
@@ -15,14 +13,6 @@ https://cdn.hklive.tv/xxxx/84/index.m3u8
 https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV HD
 https://cdn.hklive.tv/xxxx/99/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://upload.112114.xyz/logo/ViuTV6xin.png" group-title="港澳台",ViuTV Six
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://upload.112114.xyz/logo/RTHK31.png" group-title="港澳台",港台電視31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://upload.112114.xyz/logo/RTHK32.png" group-title="港澳台",港台電視32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://upload.112114.xyz/logo/RTHK33.png" group-title="港澳台",港台電視33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="香港國際財經台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港國際財經台
 https://cdn.hklive.tv/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="HOY资讯台" tvg-logo="https://upload.112114.xyz/logo/hoy%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="港澳台",HOY资讯台
@@ -75,6 +65,16 @@ http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17 高清
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://upload.112114.xyz/logo/ViuTV6xin.png" group-title="港澳台",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://upload.112114.xyz/logo/RTHK31.png" group-title="港澳台",港台電視31
+https://cdn.hklive.tv/xxxx/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://upload.112114.xyz/logo/RTHK32.png" group-title="港澳台",港台電視32
+https://cdn.hklive.tv/xxxx/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://upload.112114.xyz/logo/RTHK33.png" group-title="港澳台",港台電視33
+https://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台HD
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 极清
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 极清
