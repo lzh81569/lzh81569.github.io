@@ -177,6 +177,20 @@ http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/d1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225534/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",SiTV都市剧场 高清
 http://223.110.243.160/ott.js.chinamobile.com/PLTV/3/224/3221227710/index.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="News",凤凰资讯 超清
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR42382022040913471411917
+#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台HD" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="News",無綫新聞台HD
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="News",CCTV13 高清
+http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="News",明珠台HD
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·資訊台HD" tvg-logo="https://upload.112114.xyz/logo/TVBcaijingzixun-1.png" group-title="News",無綫財經·資訊台HD
+https://cdn.hklive.tv/xxxx/85/index.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港國際財經台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="News",香港國際財經台
+https://cdn.hklive.tv/xxxx/76/index.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="HOY资讯台" tvg-logo="https://upload.112114.xyz/logo/hoy%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="News",HOY资讯台
+https://cdn.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台 标清
 http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台 标清
