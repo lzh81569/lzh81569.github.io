@@ -227,7 +227,7 @@ http://tribaliptv.com:8080/Gustavo/123456/4930
 http://tribaliptv.com:8080/Gustavo/123456/12401
 #EXTINF:-1 group-title="4K频道",ODISEA UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/5195
-#EXTINF:-1 group-title="4K频道",Eleven Sports 1 4K
+#EXTINF:-1 tvg-id="6093" tvg-name="Eleven Sports 1 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="4K频道",Eleven Sports 1 4K
 http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
@@ -257,12 +257,6 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(1)
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(2)
-http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育频道",CCTV5-高清(3)
-http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 #EXTINF:-1 group-title="体育频道",五星体育1
 http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育频道",五星体育2
