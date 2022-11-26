@@ -229,8 +229,6 @@ http://tribaliptv.com:8080/Gustavo/123456/12401
 http://tribaliptv.com:8080/Gustavo/123456/5195
 #EXTINF:-1 tvg-id="6093" tvg-name="Eleven Sports 1 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="4K频道",Eleven Sports 1 4K
 http://cdn.spmr.tv:8080/x6xpbw/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
-http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Sport5 4k
 http://cdn.spmr.tv:8080/npu8r5/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",TRT 4k
