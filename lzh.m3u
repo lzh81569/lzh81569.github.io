@@ -217,7 +217,7 @@ http://117.136.156.3:80/000000001000/3000000010000005180/index.m3u8
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-HLG源-备用3" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-3
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="4K频道",Astro Super Sport 4K
+#EXTINF:-1 tvg-name="AstroSuperSport4K" tvg-logo="https://upload.112114.xyz/logo/ASTROSUPERSPORTUHD.png" group-title="4K频道",AstroSuperSport4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 #EXTINF:-1 group-title="4K频道",Hub Premier Sport 4K
 http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
