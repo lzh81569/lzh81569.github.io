@@ -71,7 +71,7 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="7117" tvg-name="HOY资讯台" tvg-logo="https://upload.112114.xyz/logo/hoy%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="港澳台",HOY资讯台
 https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://upload.112114.xyz/logo/ViuTV6xin.png" group-title="港澳台",ViuTV Six
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six"https://upload.112114.xyz/logo/VIUTV6.png" group-title="港澳台",ViuTV Six
 https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://upload.112114.xyz/logo/RTHK31.png" group-title="港澳台",港台電視31
 https://cdn.hklive.tv/xxxx/31/index.m3u8
