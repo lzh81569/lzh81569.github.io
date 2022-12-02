@@ -35,6 +35,12 @@ http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
 http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6 极清
 http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CCTV",动作电影 高清
+http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CCTV",家庭影院 高清
+http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CCTV",高清电影 高清
+http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV7 高清
 http://ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8 极清
@@ -287,9 +293,3 @@ http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台 标清
 http://120.84.96.62:808/hls/25/index.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CCTV",动作电影 高清
-http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="CCTV",家庭影院 高清
-http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CCTV",高清电影 高清
-http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
