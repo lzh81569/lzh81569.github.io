@@ -41,6 +41,8 @@ http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
 http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="CCTV",高清电影 高清
 http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
+http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV7 高清
 http://ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8 极清
