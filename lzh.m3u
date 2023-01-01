@@ -3,20 +3,10 @@
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯 超清
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR42382022040913471411917
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台HD" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="港澳台",無綫新聞台HD
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台HD
-https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="港澳台",TVBS新闻台
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV HD
-https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 tvg-name="Now Sports UHD" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS%204K%20616.png" group-title="体育",Now Sports UHD
-http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
-#EXTINF:-1 tvg-id="7117" tvg-name="香港國際財經台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="港澳台",香港國際財經台
-https://cdn.hklive.tv/xxxx/76/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1 极清
@@ -57,8 +47,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8
 http://223.110.243.165/ott.js.chinamobile.com/PLTV/3/224/3221227637/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV13 高清
 http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="News",CGTN 高清
-http://140.238.155.232:9000/jmsytb.m3u8?c=7
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV14 高清
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV15 高清
@@ -67,24 +55,16 @@ http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17 高清
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·資訊台HD" tvg-logo="https://upload.112114.xyz/logo/TVBcaijingzixun-1.png" group-title="港澳台",無綫財經·資訊台HD
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="HOY资讯台" tvg-logo="https://upload.112114.xyz/logo/hoy%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="港澳台",HOY资讯台
-https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://upload.112114.xyz/logo/ViuTV6xin.png" group-title="港澳台",ViuTV Six
-https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://upload.112114.xyz/logo/RTHK31.png" group-title="港澳台",港台電視31
-https://cdn.hklive.tv/xxxx/31/index.m3u8
-#EXTINF:-1 tvg-id="891" tvg-name="港台電視32" tvg-logo="https://upload.112114.xyz/logo/RTHK32.png" group-title="港澳台",港台電視32
-https://cdn.hklive.tv/xxxx/32/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="港台電視33" tvg-logo="https://upload.112114.xyz/logo/RTHK33.png" group-title="港澳台",港台電視33
-https://cdn.hklive.tv/xxxx/33/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台HD
-https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 极清
 http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 极清
+http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 极清
+http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 极清
+http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 极清
+http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 极清
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 极清
@@ -93,16 +73,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 极清
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 极清
-http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 极清
-http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 极清
-http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视 极清
 http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 极清
-http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视 极清
 http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 极清
