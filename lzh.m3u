@@ -9,6 +9,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="News",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="https://upload.112114.xyz/logo/JSBC.png" group-title="News", 江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWORLD" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan (1080p)
