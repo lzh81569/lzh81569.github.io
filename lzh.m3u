@@ -11,10 +11,10 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="https://upload.112114.xyz/logo/JSBC.png" group-title="News", 江苏8K测试
-http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="NHKWORLD" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="https://upload.112114.xyz/logo/JSBC.png" group-title="News", 江苏8K测试
+http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1极清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1 极清
@@ -167,29 +167,3 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="上海",游戏风云 8M
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="上海",热门综艺 8M
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="News",凤凰资讯 超清
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR42382022040913471411917
-#EXTINF:-1 tvg-id="130" tvg-name="無綫新聞台HD" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="News",無綫新聞台HD
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="News",CCTV13 高清
-http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="News",TVBS新闻台
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="News",有线新闻台
-http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="News",明珠台HD
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-id="133" tvg-name="無綫財經·資訊台HD" tvg-logo="https://upload.112114.xyz/logo/TVBcaijingzixun-1.png" group-title="News",無綫財經·資訊台HD
-https://cdn.hklive.tv/xxxx/85/index.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-name="Bloomberg" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="News", Bloomberg 4K
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-name="HOY资讯台" tvg-logo="https://upload.112114.xyz/logo/hoy%E8%B5%84%E8%AE%AF%E5%8F%B0.png" group-title="News",HOY资讯台
-https://cdn.hklive.tv/xxxx/78/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台 标清
-http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经资讯台 标清
-https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台 标清
-http://120.84.96.62:808/hls/25/index.m3u8?blog.ntnas.top
