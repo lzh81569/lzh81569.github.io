@@ -119,6 +119,12 @@ http://m.m3u8.wifiwx.com/live/wifiwx-240.m3u8
 http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡娱乐" tvg-logo="https://upload.112114.xyz/logo/WUXIyule.png" group-title="无锡",无锡娱乐 高清
 http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV HD
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://upload.112114.xyz/logo/ViuTV6xin.png" group-title="港澳台",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上海新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻综合 高清
 http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
