@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文 超清
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯 超清
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR42382022040913471411917
 #EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="News",半岛国际新闻台
@@ -60,63 +56,63 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/
 #EXTINF:-1 tvg-id="7245" tvg-name="CETV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="CCTV",CETV-4 高清
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 极清
 https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视 极清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/scws8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=scwshd/8000000
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视 8M
+https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8  
+https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 #EXTINF:-1 tvg-id="1874" tvg-name="北京科教高清" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV%E7%A7%91%E6%95%99.png" group-title="卫视",北京科教 高清
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿 高清
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓高清" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="卫视",快乐垂钓 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=klcd8m/8000000
 #EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合" tvg-logo="https://upload.112114.xyz/logo/WUXIzonghe.png" group-title="无锡",无锡新闻综合 高清
 http://m.m3u8.wifiwx.com:80/live/wifiwx-239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡都市资讯" tvg-logo="https://upload.112114.xyz/logo/WUXIdushi.png" group-title="无锡",无锡都市资讯 高清
@@ -142,7 +138,7 @@ https://cdn.hklive.tv/xxxx/33/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2台HD
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上海新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻综合 高清
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1,tvg-id="1989" tvg-name="上海都市" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市 8M
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="1986" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实 8M
@@ -152,7 +148,7 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/
 #EXTINF:-1,tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="1991" tvg-name="上视外语" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="1956" tvg-name="SITV七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="上海",七彩戏剧
@@ -164,7 +160,7 @@ http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf
 #EXTINF:-1,tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="上海",新视觉
