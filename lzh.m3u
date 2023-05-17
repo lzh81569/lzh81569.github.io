@@ -7,10 +7,12 @@ http://cntv.sbs/ipv6?id=test2
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛英语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="News",半岛国际新闻台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",NBC News
-http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",BBCWORLDNEWS
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",NBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="News", 江苏8K测试
@@ -129,15 +131,7 @@ http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/inde
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/SITV劲爆体育.png" group-title="上海",劲爆体育
-https://tv.fanmingming.com/?id=lqhxjcHDH265
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
+https://cntv.sbs/live?id=wxty
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="湖南",湖南经视 
-http://[2409:8087:5050:20::3023]/000000001000/HD-8000k-1080P-hunanjingshi/index.m3u8
-#EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="湖南",湖南娱乐
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="湖南都市" tvg-name="湖南都市" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="湖南",湖南都市
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000041/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="湖南电影" tvg-name="湖南电影" tvg-logo="https://live.fanmingming.com/tv/hunan.png" group-title="湖南",湖南电影
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
