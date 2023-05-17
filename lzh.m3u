@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="238" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文 HD
-http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://cntv.sbs/ipv6?id=test1
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯 HD
-http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://cntv.sbs/ipv6?id=test2
 #EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛英语" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="News",半岛国际新闻台
@@ -10,7 +10,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="News", 江苏8K测试
