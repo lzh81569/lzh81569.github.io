@@ -9,8 +9,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",BBCWORLDNEWS
+#EXTINF:-1 tvg-id=" " tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/BBCWORLDNEWS.png" group-title="News",BBCWORLDNEWS
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-id="079" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
