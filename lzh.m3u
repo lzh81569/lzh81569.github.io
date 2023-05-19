@@ -19,7 +19,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经资讯" tvg-logo="https://upload.112114.xyz/logo/TVBcaijingzixun-1.png" group-title="港澳台",無綫財經·資訊台HD
 http://r.jdshipin.com/jUx8K
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳台",有线新闻台
 http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="News", 江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
