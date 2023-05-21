@@ -11,6 +11,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/BBCWORLDNEWS.png" group-title="News",BBCWORLDNEWS
 https://epg.pw/stream/e6447f99794cbd68bf5207de89d876fca54c3000ebf3e799f5aca6711be3ec38.m3u8
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-id="079" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBC%20News.png" group-title="News",NBC News
@@ -29,7 +30,6 @@ http://r.jdshipin.com/vSJvl
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 tvg-id="" tvg-name="NHK BS Premium" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="news",NHK BS Premium
 https://epg.pw/stream/1a7e26ef45196713899689a176dc80481914f7c236b74593d94af460a0a051a5.m3u8
-https://epg.pw/stream/42e2434fb094c6f0f455fc3cd8f9572cceed910b24f5d18a0007d218dfc2d11e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK BS1" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155023988525_66.jpg" group-title="news",NHK BS1
 https://epg.pw/stream/a46b6b19601284371670ae9a28de32cffec66b0c42ed30e36132d3fd4586d706.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="NBA" tvg-logo="https://upload.112114.xyz/logo/NBA.png" group-title="体育",NBA
@@ -156,5 +156,4 @@ http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 https://cntv.sbs/live?id=wxty
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/BBCWORLDNEWS.png" group-title="News",BBCWORLDNEWS
-http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+
