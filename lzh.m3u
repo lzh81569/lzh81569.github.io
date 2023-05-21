@@ -156,4 +156,21 @@ http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 https://cntv.sbs/live?id=wxty
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="NHKG" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",NHKG
+http://203.162.235.41:14093
+http://203.162.235.41:15094
+#EXTINF:-1 tvg-id="" tvg-name="日本电视台" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",日本电视台
+http://203.162.235.41:16095
+#EXTINF:-1 tvg-id="" tvg-name="东京电视台" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",东京电视台
+http://203.162.235.41:19098
+#EXTINF:-1 tvg-id="" tvg-name="NHKBS1" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",NHKBS1
+http://203.162.235.41:20099
+#EXTINF:-1 tvg-id="" tvg-name="BS富士" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",BS富士
+http://203.162.235.41:22101
+http://203.162.235.41:23102
+http://203.162.235.41:24103
+#EXTINF:-1 tvg-id="" tvg-name="NHK BS Premium" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",NHK BS Premium
+http://203.162.235.41:25104
+http://203.162.235.41:26105
+#EXTINF:-1 tvg-id="" tvg-name="富士台" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="日本",富士台
+BS朝日,http://203.162.235.41:29108
