@@ -27,6 +27,8 @@ http://r.jdshipin.com/62WM7
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2 HD
 http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="" tvg-name="NHK BS Premium" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513155153270265_70.jpg" group-title="news",NHK BS Premium
+https://epg.pw/stream/1a7e26ef45196713899689a176dc80481914f7c236b74593d94af460a0a051a5.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="NBA" tvg-logo="https://upload.112114.xyz/logo/NBA.png" group-title="体育",NBA
 http://143.244.60.97/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="ESPN" tvg-logo="https://upload.112114.xyz/logo/ESPN.png" group-title="体育",ESPN
