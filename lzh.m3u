@@ -151,3 +151,5 @@ http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/
 https://cntv.sbs/live?id=wxty
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="BBCWORLDNEWS" tvg-logo="https://upload.112114.xyz/logo/BBCWORLDNEWS.png" group-title="News",BBCWORLDNEWS
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
