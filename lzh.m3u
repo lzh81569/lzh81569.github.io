@@ -86,7 +86,8 @@ http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://upload.112114.xyz/logo/JSBC.png" group-title="卫视",江苏卫视 HD
-http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
+#http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
+#http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 HD
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227482/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 HD
@@ -109,24 +110,26 @@ http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 HD
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视 HD
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视 HD
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视 HD
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 HD
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 HD
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视 HD
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视 HD
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 HD
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",海南卫视 HD
+http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="信号测试" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTVEFEL.png" group-title="卫视",TEST 信号测试
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="https://upload.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS新闻台
@@ -146,7 +149,8 @@ http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/inde
 #EXTINF:-1 tvg-id="1991" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/shanghaiwaiyu.png" group-title="上海",上海ICS外语
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 #EXTINF:-1 tvg-id="1986" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
+#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
+#http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
