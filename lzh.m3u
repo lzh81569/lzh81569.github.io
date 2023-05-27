@@ -44,17 +44,17 @@ http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="UHD", Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="loupe 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/loupe.png" group-title="UHD",loupe 4K
+#EXTINF:-1 tvg-name="loupe 4K" tvg-logo="http://jp.muyiyun.top:516/Picon/loupe.png" group-title="UHD",loupe4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="UHD",SiTV欢笑剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="UHD",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="UHD",Fashion4K
+#EXTINF:-1 tvg-id="Fashion" tvg-logo="https://upload.112114.xyz/logo/FASHIONONE.png" group-title="UHD",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="UHD",Clarity4K
+#EXTINF:-1 tvg-id="Clarity" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="UHD",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="UHD",爱自然
+#EXTINF:-1 tvg-id="love nature" tvg-logo="https://upload.112114.xyz/logo/Love%20Nature.png" group-title="UHD",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
