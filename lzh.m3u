@@ -96,7 +96,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 HD
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://upload.112114.xyz/logo/BRTV.png" group-title="卫视",北京卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
@@ -143,10 +143,13 @@ http://m.m3u8.wifiwx.com/live/wifiwx-245.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡娱乐" tvg-logo="https://upload.112114.xyz/logo/WUXIyule.png" group-title="无锡",无锡娱乐 HD
 http://m.m3u8.wifiwx.com/live/wifiwx-243.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/shangshixinwen.png" group-title="上海",上海新闻综合
+https://cntv.sbs/sh?id=xwzh
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/shanghaidushi.jpg" group-title="上海",上海都市
+https://cntv.sbs/sh?id=ds
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1318BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKOQsN8ofCczbUX1AjxZYMpKdI1PJQPlp0I5RTtUrbQtTuwS%2FH1VLbdWY%2FeIxpxvfA%3D%3D
 #EXTINF:-1 tvg-id="1991" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/shanghaiwaiyu.png" group-title="上海",上海ICS外语
+https://cntv.sbs/sh?id=ics
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
 #EXTINF:-1 tvg-id="1986" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
