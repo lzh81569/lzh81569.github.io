@@ -176,5 +176,4 @@ http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="Astro" tvg-logo="https://upload.112114.xyz/logo/Astro%20SuperSport.png" group-title="体育",Astro SuperSport
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
 
