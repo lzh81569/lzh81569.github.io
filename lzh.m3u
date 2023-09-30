@@ -19,14 +19,14 @@ http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="News",NBC News
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/9a8d0a338744ebf848bcec0c9ff9d72a6159a726.jpg?tbpicau=2023-10-01-05_53a0b1f0b4b4c5de4a4e5815954b3d97" group-title="港澳台",無綫新聞台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/8260af773912b31bbb903a1ac018367adbb4e177.jpg?tbpicau=2023-10-02-05_17c5436ff9008601b8b458549fa6fb15" group-title="港澳台",無綫新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
 http://www.nettvpro.live/hls/tvb.php?id=1
 http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",無綫財經資訊台HD
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/8260af773912b31bbb903a1ac018367adbb4e177.jpg?tbpicau=2023-10-02-05_17c5436ff9008601b8b458549fa6fb15" group-title="港澳台",無綫財經資訊台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
