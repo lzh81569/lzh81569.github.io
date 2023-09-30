@@ -18,7 +18,7 @@ http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=6cf0733675fa828bd1239debcd1e41cd/3210fa039245d68804f14597e2c27d1ed31b2404.jpg?tbpicau=2023-10-02-05_f33a88b14ecb05b31c495ee981c5b2a5" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=3cc6ea3b5930e924cfa49c397c096e66/431645166d224f4a1b6a84204ff790529922d104.jpg?tbpicau=2023-10-02-05_eac09665fa7aac34f142d0e04faf02f4" group-title="News",NBC News
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/8260af773912b31bbb903a1ac018367adbb4e177.jpg?tbpicau=2023-10-02-05_17c5436ff9008601b8b458549fa6fb15" group-title="港澳台",無綫新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
