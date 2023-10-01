@@ -42,6 +42,7 @@ http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV8K" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/CCTV-8K.png/revision/latest?cb=20220508121910&path-prefix=vi" group-title="CCTV",CCTV8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV4K
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
