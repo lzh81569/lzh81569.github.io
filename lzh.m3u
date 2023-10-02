@@ -184,7 +184,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
 http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海",生活时尚
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
