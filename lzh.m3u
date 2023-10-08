@@ -21,7 +21,7 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://zh.wikipedia.org/wiki/NBC%E6%96%B0%E8%81%9E#/media/File:NBC_News_2011.svg" group-title="News",NBC News
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBCNEWS.png" group-title="News",NBC News
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
