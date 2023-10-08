@@ -16,6 +16,8 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWORLDNEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWORLDNEWS
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-id=" " group-title="News",ABC新闻
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=6cf0733675fa828bd1239debcd1e41cd/3210fa039245d68804f14597e2c27d1ed31b2404.jpg?tbpicau=2023-10-02-05_f33a88b14ecb05b31c495ee981c5b2a5" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
@@ -32,7 +34,7 @@ http://radius.8866.org:800/hls/82/index.m3u8
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/8260af773912b31bbb903a1ac018367adbb4e177.jpg?tbpicau=2023-10-02-05_17c5436ff9008601b8b458549fa6fb15" group-title="港澳台",無綫財經資訊台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://tiebapic.baidu.com/forum/pic/item/8260af773912b31bbb903a1ac018367adbb4e177.jpg?tbpicau=2023-10-02-05_17c5436ff9008601b8b458549fa6fb15" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 http://162.19.247.76:22222/live/tvbfc/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV HD
@@ -101,7 +103,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 HD
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
