@@ -212,9 +212,5 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="体育",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=579bde4c3ef0f736d8fe4c093a54b382/42f18101a18b87d6db80432c410828381e30fd36.jpg?tbpicau=2023-10-04-05_43e3f9d30947971337f94fdeeb0e1ee4" group-title="央视风云",电视指南
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="http://tiebapic.baidu.com/forum/w%3D580/sign=7235ea98453b5bb5bed720f606d3d523/fd1937adcbef7609113772ac68dda3cc7cd99e37.jpg?tbpicau=2023-10-04-05_455d2eba79955f186cd7aa58aad751ad" group-title="央视风云",中国天气
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="Now Sports" tvg-logo="https://upload.112114.xyz/logo/Astro%20SuperSport.png" group-title="体育",Now Sports
 
