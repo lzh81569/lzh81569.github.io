@@ -16,16 +16,16 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWORLDNEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWORLDNEWS
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1 tvg-id=" "  tvg-name="ABCNEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="News",ABC新闻
+#EXTINF:-1 tvg-id=" "  tvg-name="ABCNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/ABC_News_logo_2021.svg" group-title="News",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="News",FOXNEWS
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="News",NBC News
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://zh.wikipedia.org/wiki/NBC%E6%96%B0%E8%81%9E#/media/File:NBC_News_2011.svg" group-title="News",NBC News
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",無綫新聞台
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="港澳台",無綫新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
 http://www.nettvpro.live/hls/tvb.php?id=1
