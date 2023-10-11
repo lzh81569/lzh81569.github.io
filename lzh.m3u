@@ -23,6 +23,8 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="KBS国际" tvg-logo="https://upload.112114.xyz/logo/KBSWORLD.png" group-title="News",KBS国际
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="港澳台",無綫新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
@@ -44,8 +46,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV4K 32M
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228242/1.m3u8
-http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228472/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
 http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2
