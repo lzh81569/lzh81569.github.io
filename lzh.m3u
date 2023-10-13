@@ -28,22 +28,26 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name="SBS" tvg-logo="https://upload.112114.xyz/logo/KBSWORLD.png" group-title="News",SBS
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://upload.112114.xyz/logo/TVBNEWS-1.png" group-title="港澳台",無綫新聞台
+https://sc2022.stream-link.org/tv2306.php?id=h04
 http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
 http://www.nettvpro.live/hls/tvb.php?id=1
 http://radius.8866.org:800/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="9999" tvg-name="Now新聞台" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png" group-title="Now",Now新聞台
+https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/TVBcaijingzixun-1.png" group-title="港澳台",無綫財經資訊台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+https://sc2022.stream-link.org/tv2306.php?id=h05
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="港澳台",翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h02
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-http://162.19.247.76:22222/live/tvbfc/index.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV HD
-http://r.jdshipin.com/vSJvl
+#EXTINF:-1 tvg-id="9999" tvg-name="澳視澳門" tvg-logo="https://www.stream-link.org/tv_logo/tdm_91.png" group-title="港澳台",澳視澳門
+https://sc2022.stream-link.org/tv2306.php?id=h10
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2 HD
+https://sc2022.stream-link.org/tv2306.php?id=h03
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
-http://r.jdshipin.com/ndGgS
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV8K" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/65/CCTV-8K.png/revision/latest?cb=20220508121910&path-prefix=vi" group-title="CCTV",CCTV8K 40M
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="CCTV",CCTV4K 32M
