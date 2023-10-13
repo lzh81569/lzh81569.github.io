@@ -18,8 +18,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa86
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://upload.112114.xyz/logo/NBCNEWS.png" group-title="News",NBC News
 http://41.205.93.154/NBC/index.m3u8
-#EXTINF:-1 tvg-id=" "  tvg-name="ABCNEWS" tvg-logo="https://upload.112114.xyz/logo/ABC.png" group-title="News",ABC新闻
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
@@ -33,7 +31,7 @@ http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
 http://www.nettvpro.live/hls/tvb.php?id=1
 http://radius.8866.org:800/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="9999" tvg-name="Now新聞台" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png" group-title="Now",Now新聞台
+#EXTINF:-1 tvg-id="9999" tvg-name="Now新聞台" tvg-logo="https://www.stream-link.org/tv_logo/now_332.png" group-title="港澳台",Now新聞台
 https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="港澳台",明珠台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
