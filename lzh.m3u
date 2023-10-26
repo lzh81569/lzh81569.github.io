@@ -30,10 +30,10 @@ http://www.nettvpro.live/hls/tvb.php?id=1
 http://radius.8866.org:800/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://i.imgs.ovh/2023/10/20/2b5wo.png" group-title="港澳台",明珠台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165429mpedo8xex8eea4dh.png" group-title="港澳台",無綫財經資訊台HD
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://z1.ax1x.com/2023/10/26/piZJBzq.png" group-title="港澳台",無綫財經資訊台HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
 https://sc2022.stream-link.org/tv2306.php?id=h05
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165429mpedo8xex8eea4dh.png" group-title="港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://z1.ax1x.com/2023/10/26/piZJ0Wn.png" group-title="港澳台",翡翠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳台",J2 HD
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
