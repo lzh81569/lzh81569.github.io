@@ -13,14 +13,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="News",半岛国际新闻台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="News",CNN
+https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWORLDNEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWORLDNEWS
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
-http://41.205.93.154/NBC/index.m3u8
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOXNEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
