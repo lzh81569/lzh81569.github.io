@@ -22,7 +22,7 @@ https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
 EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBCNews FHD
+#EXTINF:-1 tvg-id="688" tvg-name="NBCNews" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBCNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165417gynyjqjdadrqdnjr.png" group-title="News",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
