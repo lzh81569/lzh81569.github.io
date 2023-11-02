@@ -10,7 +10,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" group-title="臺灣 🇹🇼️丨ladder",ANN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/ANN_logo.svg" group-title="News",ANN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="News",半岛国际新闻台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
