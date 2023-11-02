@@ -19,19 +19,15 @@ https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWorldNews
-http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-#EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
-http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News FHD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
+EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://upload.112114.xyz/logo/FOXNEWS.png" group-title="News",FOX NEWS
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBCNews FHD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165417gynyjqjdadrqdnjr.png" group-title="News",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCNEWS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="News",ABC NEWS
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCNEWS" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/02/221802as74ssx4sgtgv7g4.png" group-title="News",ABC NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="News",france24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
@@ -39,6 +35,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/30/234759tsjxjhrmjl5lrjl8.png" group-title="News",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWorldNews
+http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
+http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/29/193214icyy5b05yycfjlyl.png" group-title="港澳台",無綫新聞台
 http://live.cooltv.top/tv/tvb.php?id=0
 http://r.jdshipin.com/CkuBd
