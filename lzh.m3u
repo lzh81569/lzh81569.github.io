@@ -209,29 +209,43 @@ http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡娱乐" tvg-logo="https://upload.112114.xyz/logo/WUXIyule.png" group-title="江苏",无锡娱乐 HD
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150024ok4sxx5q41tikxz1.png" group-title="江苏",南京新闻综合 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南京信息" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150024ok4sxx5q41tikxz1.png" group-title="江苏",南京信息 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南京娱乐" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150024ok4sxx5q41tikxz1.png" group-title="江苏",南京娱乐 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常州新闻综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150041we2e422mzer2qss6.png" group-title="江苏",常州新闻综合 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常州公共" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150041we2e422mzer2qss6.png" group-title="江苏",常州公共 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常州生活" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150041we2e422mzer2qss6.png" group-title="江苏",常州生活 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常州都市" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150041we2e422mzer2qss6.png" group-title="江苏",常州都市 HD
-http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
-http://ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="知否知否" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="江苏",知否知否
-http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="盐城综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/144143okutwf3dxxwo4kkn.png" group-title="江苏",盐城综合 HD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228435/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="盐城2" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/144143okutwf3dxxwo4kkn.png" group-title="江苏",盐城2 HD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228433/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="盐城3" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/144143okutwf3dxxwo4kkn.png" group-title="江苏",盐城3 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u
+#EXTINF:-1 tvg-id="" tvg-name="徐州" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151730pmo9p3apmua9lojl.png" group-title="江苏",徐州 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州2" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151730pmo9p3apmua9lojl.png" group-title="江苏",徐州2 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州3" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151730pmo9p3apmua9lojl.png" group-title="江苏",徐州3 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州4" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151730pmo9p3apmua9lojl.png" group-title="江苏",徐州4 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="连云港新闻综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151749p7iit7whkit2tk23.png" group-title="江苏",连云港新闻综合 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="连云港公共" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151749p7iit7whkit2tk23.png" group-title="江苏",连云港公共 HD
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/31/133530t3xeyn5334b2answ.png" group-title="上海",上海新闻频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",东方影视
