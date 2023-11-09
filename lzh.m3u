@@ -233,7 +233,7 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32212284
 #EXTINF:-1 tvg-id="" tvg-name="盐城2" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/144143okutwf3dxxwo4kkn.png" group-title="江苏",盐城2 HD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228433/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="盐城3" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/144143okutwf3dxxwo4kkn.png" group-title="江苏",盐城3 HD
-http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228436/1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="徐州" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151730pmo9p3apmua9lojl.png" group-title="江苏",徐州 HD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="徐州2" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/151730pmo9p3apmua9lojl.png" group-title="江苏",徐州2 HD
