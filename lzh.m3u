@@ -60,18 +60,22 @@ http://159.75.85.63:8654/xx8k50fps.php
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV1
+http://[2409:8087:2004:20:2800:0:df6e:ec21]/wh7f454c46tw3997260203_1403144048/ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8?icpid=4&RTS=1678666195&from=40&popid=40&hms_devid=2294&prioritypopid=40&vqe=3
 http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV2
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV3
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV4
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="体育",CCTV5+
 http://223.110.236.20/ott.js.chinamobile.com/PLTV/3/224/3221228176/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV6
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="CCTV",动作电影
 http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
@@ -82,6 +86,7 @@ http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV7
 http://ott.mobaibox.com/PLTV/3/224/3221227690/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV8
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV9
 http://223.110.236.23/ott.js.chinamobile.com/PLTV/3/224/3221227614/index.m3u8
