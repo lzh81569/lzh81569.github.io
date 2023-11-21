@@ -277,11 +277,11 @@ http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
 http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/173136s4x3eecuuqbx0bt7.png" group-title="上海",金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/173136s4x3eecuuqbx0bt7.png" group-title="湖南",金鹰纪实
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-name="垂钓频道" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/173136s4x3eecuuqbx0bt7.png" group-title="上海",垂钓频道
+#EXTINF:-1 tvg-id="6595" tvg-name="垂钓频道" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/173136s4x3eecuuqbx0bt7.png" group-title="湖南",垂钓频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/173136s4x3eecuuqbx0bt7.png" group-title="上海",茶频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/173136s4x3eecuuqbx0bt7.png" group-title="湖南",茶频道
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/170431kkkpptt90tux973y.png" group-title="央视风云",兵器科技
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
