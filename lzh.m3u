@@ -205,6 +205,7 @@ http://stream.thmz.com/wxtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州新闻综合 HD
 https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡都市资讯" tvg-logo="https://upload.112114.xyz/logo/WUXIdushi.png" group-title="江苏",无锡都市资讯 HD
+http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=8c239d731700804619
 http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州社会经济" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州社会经济 HD
 https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
@@ -213,10 +214,13 @@ https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州生活资讯" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州生活资讯 HD
 https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡生活" tvg-logo="https://upload.112114.xyz/logo/WUXIjingji.png" group-title="江苏",无锡生活 HD
+http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=02b95b7f1700804850
 http://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡经济" tvg-logo="https://upload.112114.xyz/logo/WUXIjingji.png" group-title="江苏",无锡经济 HD
+http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=6b7b7e1a1700804803
 http://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡娱乐" tvg-logo="https://upload.112114.xyz/logo/WUXIyule.png" group-title="江苏",无锡娱乐 HD
+http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=410c959e1700804778
 http://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150024ok4sxx5q41tikxz1.png" group-title="江苏",南京新闻综合 HD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
