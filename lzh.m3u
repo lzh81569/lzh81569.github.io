@@ -115,7 +115,7 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32212280
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227482/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/26/200134gmoojlfrvp3lmcpz.png" group-title="卫视",浙江卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227491/1.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing.png" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
