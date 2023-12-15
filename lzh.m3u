@@ -8,9 +8,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="News",亚洲新闻台
+#EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="News",ANN News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/03/231746mrv1oy1zorb1rzil.png" group-title="News",ANN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="半岛国际新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="News",半岛国际新闻台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
