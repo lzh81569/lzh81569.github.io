@@ -116,7 +116,7 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228407/1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227511/1.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://i.imgs.ovh/2023/10/20/2bcDW.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228097/1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan.png" group-title="卫视",湖南卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227482/1.m3u8
