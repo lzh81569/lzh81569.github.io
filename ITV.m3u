@@ -105,3 +105,5 @@ http://218.4.60.218:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.4.60.218:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong.png" group-title="卫视",山东卫视
 http://218.4.60.218:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong1.png" group-title="卫视",山东齐鲁
+http://221.2.146.228:8888/newlive/live/hls/49/live.m3u8
