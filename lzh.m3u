@@ -352,6 +352,17 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="love nature" tvg-logo="https://upload.112114.xyz/logo/Love%20Nature.png" group-title="UHD",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="CRI环球资讯广播" tvg-logo="https://github.com/fanmingming/live/blob/main/radio/%E7%8E%AF%E7%90%83%E8%B5%84%E8%AE%AF%E5%B9%BF%E6%92%AD.png" group-title="广播",CRI环球资讯广播
+http://satellitepull.cnr.cn/live/wxhqzx01/playlist.m3u8
+#EXTINF:-1 tvg-id="CRI轻松调频" tvg-logo="https://github.com/fanmingming/live/blob/main/radio/%E8%BD%BB%E6%9D%BE%E8%B0%83%E9%A2%91.png" group-title="广播",CRI轻松调频
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-id="CNR中国之声" tvg-logo="https://github.com/fanmingming/live/blob/main/radio/%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A3%B0.png" group-title="广播",CNR中国之声
+https://live-play.cctvnews.cctv.com/cctv/zgzs192.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="江苏交通广播" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="广播",江苏交通广播
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1763959902_917285009/ott.mobaibox.com/PLTV/3/224/3221227937/index.m3u8?icpid=3&RTS=1674386174&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏故事广播" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="广播",江苏故事广播
