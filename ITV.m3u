@@ -54,7 +54,7 @@ http://218.4.60.218:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.4.60.218:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://223.112.219.174:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV11
-
+http://218.3.138.25:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV12
 http://218.4.60.218:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV13
@@ -63,9 +63,9 @@ http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid
 http://218.4.60.218:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://223.112.219.174:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV15
-
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16
-
+http://218.3.138.25:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K
+http://218.3.138.25:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV",CCTV17
 http://218.4.60.218:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
@@ -85,9 +85,9 @@ http://223.112.219.174:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
 http://218.4.60.218:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
-
+http://218.3.138.25:9901/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Anhui.png" group-title="卫视",安徽卫视
-
+http://218.3.138.25:9901/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Tianjin.png" group-title="卫视",天津卫视
 http://218.4.60.218:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
@@ -96,3 +96,9 @@ http://218.4.60.218:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.4.60.218:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shandong1.png" group-title="卫视",山东齐鲁
 http://221.2.146.228:8888/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan.png" group-title="卫视",河南卫视
+http://218.3.138.25:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongnan.png" group-title="卫视",东南卫视
+http://218.3.138.25:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Liaoning.png" group-title="卫视",辽宁卫视
+http://218.3.138.25:9901/tsfile/live/1025_1.m3u8
