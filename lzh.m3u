@@ -88,10 +88,9 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV",CCTV7
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV",CCTV8
-http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
 http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV",CCTV9
-http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228303/1.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV10
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV11
@@ -281,24 +280,23 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="上海",上海都市
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/shanghaiwaiyu.png" group-title="上海",上海ICS外语
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
+
 #EXTINF:-1 tvg-id="1986" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
-http://ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8
+
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="上海",生活时尚
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="体育",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="上海",五星体育
+
 #EXTINF:-1,tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/174255w2sg3ozsdfw9xgw1.png" group-title="体育",劲爆体育
 
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
+
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan9.png" group-title="湖南",金鹰纪实
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan11.png" group-title="湖南",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
+
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan12.png" group-title="湖南",茶频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
+
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="央视风云",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="央视风云",怀旧剧场
