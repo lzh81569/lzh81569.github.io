@@ -51,7 +51,6 @@ http://222.186.212.25:9901/tsfile/live/0008_1.m3u8
 http://221.226.4.10:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV10
 http://221.226.4.10:9901/tsfile/live/0010_1.m3u8
-http://223.112.219.174:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV11
 http://218.3.138.25:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV12
@@ -71,8 +70,8 @@ http://218.3.138.25:9901/tsfile/live/1016_1.m3u8
 http://221.226.4.10:9901/tsfile/live/1013_1.m3u8
 http://223.112.219.174:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
-http://49.84.197.249:9901/tsfile/live/0127_1.m3u8
-http://223.112.219.174:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+http://221.226.4.10:9901/tsfile/live/1006_1.m3u8
+http://222.186.212.25:9901/tsfile/live/0127_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="卫视",江苏新闻
 http://221.226.4.10:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="卫视",江苏体育休闲
