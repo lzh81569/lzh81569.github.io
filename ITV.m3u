@@ -29,64 +29,48 @@ http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="港澳台",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="CCTV",CCTV8K
-http://mtw.so/5xRPVl
+
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="CCTV",CCTV4K
-http://mtw.so/5Fofqw
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV",CCTV1
-http://mtw.so/5UqsjP
 http://222.185.245.194:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.226.4.10:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV",CCTV2
-http://mtw.so/69sStd
 http://221.226.4.10:9901/tsfile/live/0002_1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="CCTV",CCTV3
-http://mtw.so/6gZ5xU
 http://221.226.4.10:9901/tsfile/live/0003_1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="CCTV",CCTV4
-http://mtw.so/6oviAZ
 http://221.226.4.10:9901/tsfile/live/0004_1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="CCTV",CCTV5
-http://mtw.so/5x7cQz
 http://221.226.4.10:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="体育",CCTV5+
-http://mtw.so/6pfT4t
 http://221.226.4.10:9901/tsfile/live/0005_1.m3u8
 http://218.3.138.25:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="CCTV",CCTV6
-http://mtw.so/6pfG2z
 http://221.226.4.10:9901/tsfile/live/0006_1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV",CCTV7
-http://mtw.so/5M9CJP
 http://222.186.212.25:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV",CCTV8
-http://mtw.so/5UqsjZ
 http://222.186.212.25:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV",CCTV9
-http://mtw.so/61WFoG
 http://221.226.4.10:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV10
-http://mtw.so/69sStn
 http://221.226.4.10:9901/tsfile/live/0010_1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV11
-http://mtw.so/6gZ5ws
 http://218.3.138.25:9901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV12
-http://mtw.so/6w1vFQ
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV13
-http://mtw.so/5x7cQJ
 http://223.112.219.174:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV",CGTN 高清
-http://mtw.so/5Fo2ZS
+
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV",CCTV14
-http://mtw.so/5EDpFi
+
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV15
-http://mtw.so/5MUffs
+
 http://222.186.212.25:9901/tsfile/live/0015_1.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV16 4K
-http://mtw.so/5Uqsk9
 http://218.3.138.25:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV",CCTV17
-http://mtw.so/61WFoQ
 http://218.3.138.25:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
 http://223.112.219.174:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
