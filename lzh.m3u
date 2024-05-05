@@ -96,7 +96,7 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212276
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV13
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228324/1.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV",CGTN 高清
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV",CCTV14
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV15
