@@ -110,23 +110,18 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32212275
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228097/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="卫视",江苏新闻
-http://221.226.4.10:9901/tsfile/live/1011_1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw352016925_-1280546318/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8?icpid=3&RTS=1674380467&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="卫视",江苏体育休闲
-http://221.226.4.10:9901/tsfile/live/1009_1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw1936200520_-1076627390/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8?icpid=3&RTS=1674386346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="卫视",江苏城市
-http://221.226.4.10:9901/tsfile/live/1007_1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1570826537_-1187714480/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="卫视",江苏影视
-http://221.226.4.10:9901/tsfile/live/1010_1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571003773_1055968907/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="卫视",江苏综艺
-http://221.226.4.10:9901/tsfile/live/1008_1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571344065_739761579/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="卫视",江苏教育
@@ -210,6 +205,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228103/1.m3u8
 http://stream.thmz.com/wxtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州新闻综合
+http://ott.mobaibox.com/PLTV/2/224/3221226944/index.m3u8
 https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡都市资讯" tvg-logo="https://upload.112114.xyz/logo/WUXIdushi.png" group-title="江苏",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=8c239d731700804619
