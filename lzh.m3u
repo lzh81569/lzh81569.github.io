@@ -278,7 +278,7 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212278
 #EXTINF:-1 tvg-id="1991" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/shanghaiwaiyu.png" group-title="上海",上海ICS外语
 
 #EXTINF:-1 tvg-id="1986" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
-
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227635/1.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="上海",生活时尚
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="体育",五星体育
