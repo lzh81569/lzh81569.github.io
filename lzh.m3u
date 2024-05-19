@@ -237,6 +237,8 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32212277
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="南京娱乐" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150024ok4sxx5q41tikxz1.png" group-title="江苏",南京娱乐
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="南京少儿" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150024ok4sxx5q41tikxz1.png" group-title="江苏",南京少儿
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227733/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常州新闻综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150041we2e422mzer2qss6.png" group-title="江苏",常州新闻综合
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
