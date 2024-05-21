@@ -247,8 +247,13 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212279
 #EXTINF:-1 tvg-id="" tvg-name="常州都市" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/150041we2e422mzer2qss6.png" group-title="江苏",常州都市
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="知否知否" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="江苏",知否知否
+#EXTINF:-1 tvg-id="" tvg-name="庆余年" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="轮播",庆余年
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="来自星星的你" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="轮播",来自星星的你
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228664/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="太阳的后裔" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="轮播",太阳的后裔
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228666/1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="真4K" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="江苏",真4K
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228141/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="盐城综合" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/09/144143okutwf3dxxwo4kkn.png" group-title="江苏",盐城综合
@@ -305,15 +310,15 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视风云",央视文化精品
 
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视风云",央视台球
-
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228668/1.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视风云",央视高网
 
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="央视风云",风云剧场
-
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228662/1.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="央视风云",风云音乐
-
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228665/1.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="央视风云",第一剧场
-
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228659/1.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="央视风云",女性时尚
 
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="体育",风云足球
