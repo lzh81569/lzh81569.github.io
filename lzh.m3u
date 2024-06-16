@@ -267,12 +267,12 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?
 #EXTINF:-1 tvg-id="1986" tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227635/1.m3u8
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228637/1.m3u8
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="上海",生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="Drama" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="上海",Drama
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236208/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="体育",五星体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1,tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/174255w2sg3ozsdfw9xgw1.png" group-title="体育",劲爆体育
-
+#EXTINF:-1,tvg-id="1964" tvg-name="Y+" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/17/174255w2sg3ozsdfw9xgw1.png" group-title="上海",Y+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan9.png" group-title="湖南",金鹰纪实
