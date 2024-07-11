@@ -40,9 +40,9 @@ http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=
 #EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/29/193214icyy5b05yycfjlyl.png" group-title="港澳台",無綫新聞台
-http://live.cooltv.top/tv/tvb.php?id=0#http://www.nettvpro.live/hls/tvb.php?id=1#http://radius.8866.org:800/hls/82/index.m3u8
+
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="港澳台",翡翠台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
+
 
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://i.imgs.ovh/2023/10/20/2b5wo.png" group-title="港澳台",明珠台
 
