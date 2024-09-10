@@ -305,7 +305,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw335987399_819129170/o
 #EXTINF:-1 tvg-id="" tvg-name="咪咕5" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="咪咕",咪咕6
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/wh7f454c46tw336300127_-934579930/ott.mobaibox.com/PLTV/3/224/3221228234/index.m3u8?icpid=3&RTS=1674380451&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="咪咕6" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="咪咕",咪咕7
-http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw359257769_1895127265/ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8?icpid=3&RTS=1674380474&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+https://hlslive.video.iqiyi.com/tslive/c65_ssports_20240910_5p50sjjl_hevc_1080p50_chst2_t4/c65_ssports_20240910_5p50sjjl_hevc_1080p50_chst2_t4.m3u8?pv=0.2&qd_tvid=4989972926687823&qd_vipres=2&qd_scc=c2b7598612fd1b81e0d5b698ea7b2122&qd_sc=8535894e28880e893833bddf66bdac21&qd_sft=0&qd_did=&qd_ip=2f741aeb&qd_index=&qd_vip=0&qd_uid=2109649631&qd_tm=1725968516129&qd_p=2f741aeb&qd_src=01014351010000000000&qdv=3&qd_k=96fdd67b4df98c28ab95084c7a6ece5e&qd_bid=610
 #EXTINF:-1 tvg-id=" " tvg-name="江苏8K测试" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="UHD", 江苏8K测试
 http://ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 #EXTINF:-1 tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="UHD", Bloomberg TV+ 4K
