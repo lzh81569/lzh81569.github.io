@@ -12,7 +12,7 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212285
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="港澳台",翡翠台
-http://avd.iptviptv.site:9694/hls/902/index.m3u8&http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&http://avd.iptviptv.site:9694/hls/98/index.m3u8&http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&http://avd.iptviptv.site:9694/hls/902/index.m3u8&http://avd.iptviptv.site:9694/hls/98/index.m3u8&http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/03/231746mrv1oy1zorb1rzil.png" group-title="News",ANN News
