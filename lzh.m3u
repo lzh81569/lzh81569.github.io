@@ -298,8 +298,8 @@ https://42890dd08f6e424e94c882424ced89c3.mediatailor.us-east-1.amazonaws.com/v1/
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" group-title="UHD",SiTV欢笑剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-#EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="UHD",斗鱼4K
-http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-name="KPOP" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="UHD",KPOP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fashionone.png" group-title="UHD",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-logo="https://upload.112114.xyz/logo/Clarity4K.png" group-title="UHD",Clarity4K
