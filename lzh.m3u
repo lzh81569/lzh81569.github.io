@@ -44,7 +44,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 #EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-#EXTINF:-1 tvg-id="416" tvg-name="明珠台" tvg-logo="https://i.imgs.ovh/2023/10/20/2b5wo.png" group-title="港澳台",明珠台
+#EXTINF:-1 tvg-id="416" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="港澳台",明珠台
 http://avd.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="港澳台",TVB PLUS
 http://avd.iptviptv.site:9694/hls/905/index.m3u8
