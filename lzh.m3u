@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165417gynyjqjdadrqdnjr.png" group-title="News",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8#https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCNEWS" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/26/195545q6kz4m54im9e337m.png" group-title="News",ABC NEWS
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+https://stream1.freetv.fun/5e04f2bef9c3f4368586a8bcbc892a9f559a5285caffee245e5bb1a43ab8c737.m3u8#https://stream1.freetv.fun/1984823e24cfb7408feb0d2add91985441264c874ec4917b6ba14c89ee3adb57.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="FRANCE24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="News",france24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",DW
