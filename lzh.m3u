@@ -182,7 +182,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png" group-title="港澳台",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://stream1.freetv.fun/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合" tvg-logo="https://upload.112114.xyz/logo/WUXIzonghe.png" group-title="江苏",无锡新闻综合
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228103/1.m3u8#http://stream.thmz.com/wxtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州新闻综合
