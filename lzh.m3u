@@ -33,14 +33,14 @@ https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8#https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SKYNEWS" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/30/234759tsjxjhrmjl5lrjl8.png" group-title="News",Sky News
 https://stream1.freetv.fun/ede2386f6b5bfcefdc33944ec06d4dddf0737cf5468c9ad476b4610082250fe8.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
-http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1 tvg-id="7100" tvg-name="ABCNEWS" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/26/195545q6kz4m54im9e337m.png" group-title="News",ABC NEWS
 https://stream1.freetv.fun/5e04f2bef9c3f4368586a8bcbc892a9f559a5285caffee245e5bb1a43ab8c737.m3u8#https://stream1.freetv.fun/1984823e24cfb7408feb0d2add91985441264c874ec4917b6ba14c89ee3adb57.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",DW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8#https://stream1.freetv.fun/56339b1e1a4b7699b5378e3d2cbf061f74b59799dd49c3b98dcf776c7ad5c60f.m3u8
 #EXTINF:-1 tvg-id="734" tvg-name="FRANCE24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="News",france24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="News",DW
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
+http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1 tvg-id="416" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="港澳台",明珠台
 http://qwe.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="港澳台",TVB PLUS
