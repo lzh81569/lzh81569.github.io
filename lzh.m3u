@@ -174,17 +174,12 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228626/1.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Qinghai.png" group-title="卫视",青海卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="港澳台",中视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="港澳台",华视
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港澳台",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="港澳台",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8#https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="港澳台",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 #EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="港澳台",TVBS
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET2.png" group-title="港澳台",三立inews新闻
@@ -196,11 +191,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#https://ythls.
 #EXTINF:-1 tvg-id="6143" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Mnews.png" group-title="港澳台",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8#https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 #EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="港澳台",台视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://stream1.freetv.fun/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8#https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8#https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8#https://stream1.freetv.fun/a68a66899669d90058ad8baacda8c9e59ba8b2c5ab1fb74e50ac7d3bc971e25b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡新闻综合" tvg-logo="https://upload.112114.xyz/logo/WUXIzonghe.png" group-title="江苏",无锡新闻综合
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228103/1.m3u8#http://stream.thmz.com/wxtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州新闻综合
-http://ott.mobaibox.com/PLTV/3/224/3221227725/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="无锡都市资讯" tvg-logo="https://upload.112114.xyz/logo/WUXIdushi.png" group-title="江苏",无锡都市资讯
 http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=8c239d731700804619#http://stream.thmz.com/wxtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="苏州社会经济" tvg-logo="https://upload.112114.xyz/logo/SBSSUZHOU.png" group-title="江苏",苏州社会经济
