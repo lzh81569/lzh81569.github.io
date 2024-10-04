@@ -43,17 +43,17 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 http://50.7.238.114:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
 #EXTINF:-1 tvg-id="416" tvg-name="HOY TV" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港澳台",HOY TV
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="港澳台",RTHK TV 31
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="港澳台",RTHK TV 32
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="港澳台",RTHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-logo="https://i.imgur.com/2MProun.png" group-title="港澳台",RTHK TV 33
+#EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png" group-title="港澳台",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV34.hk" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="港澳台",RTHK TV 34
+#EXTINF:-1 tvg-id="RTHKTV34.hk" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="港澳台",RTHK34CGTN纪录
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-logo="" group-title="港澳台",RTHK TV 35
+#EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="港澳台",RTHK TV 35CGTN
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV36.hk" tvg-logo="" group-title="港澳台",RTHK TV 36
+#EXTINF:-1 tvg-id="RTHKTV36.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK TV 36体育
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="港澳台",明珠台
 http://qwe.iptviptv.site:9694/hls/103/index.m3u8
