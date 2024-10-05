@@ -113,17 +113,17 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/32212275
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227552/1.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228097/1.m3u8
 #EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="卫视",江苏新闻
-http://qwe.iptviptv.site:9694/hls/605/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
 #EXTINF:-1 tvg-id="江苏休闲体育" tvg-name="江苏休闲体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="卫视",江苏体育休闲
-http://qwe.iptviptv.site:9694/hls/600/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="卫视",江苏城市
-http://qwe.iptviptv.site:9694/hls/601/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="卫视",江苏影视
-http://qwe.iptviptv.site:9694/hls/602/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="卫视",江苏综艺
-http://qwe.iptviptv.site:9694/hls/604/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="卫视",江苏教育
-http://qwe.iptviptv.site:9694/hls/603/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
+http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan.png" group-title="卫视",湖南卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227482/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视
