@@ -38,6 +38,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8#https://stream
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
 
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港澳台",HOY TV
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="港澳台",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK33.png" group-title="港澳台",RTHK33央视
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="港澳台",RTHK34CGTN纪录
@@ -45,7 +51,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="港澳台",RTHK35CGTN
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV36.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK36体育
-
 
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="CCTV",CCTV8K
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
@@ -298,12 +303,6 @@ http://qwe.iptviptv.site:9694/hls/906/index.m3u8
 http://qwe.iptviptv.site:9694/hls/103/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="不稳定",TVB PLUS
 http://qwe.iptviptv.site:9694/hls/905/index.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="不稳定",HOY TV
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="不稳定",RTHK31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK32.png" group-title="不稳定",RTHK32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="不稳定",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="不稳定",中天新闻
