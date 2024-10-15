@@ -23,8 +23,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd#https://raw.githubusercont
 https://stream1.freetv.fun/a3a41590f423f3132a6913875251e0aae350ff9be85cfaf24e2930680e8306d1.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_eu_nbcnewsnow_003.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWorldNews
 https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0a96c020534c.ctv#https://stream1.freetv.fun/e396bdb2652b81b6d4b0c760c339374da578dc52c999a5caf9a8d5556fc94c64.ctv#https://stream1.freetv.fun/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
 #EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165417gynyjqjdadrqdnjr.png" group-title="News",FOX NEWS
@@ -291,6 +290,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1575803292_-104336831
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw361161076_-929143252/ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8?icpid=3&RTS=1674380476&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="" tvg-name="江苏健康广播" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/164852q2afs832d2713uur.png" group-title="广播",江苏健康广播
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw359865952_96153757/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8?icpid=3&RTS=1674380475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="不稳定",無綫新聞台
 http://qwe.iptviptv.site:9694/hls/906/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="不稳定",明珠台
