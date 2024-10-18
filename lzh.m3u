@@ -40,7 +40,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="News",BBCWorldNews
 https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0a96c020534c.ctv#https://stream1.freetv.fun/e396bdb2652b81b6d4b0c760c339374da578dc52c999a5caf9a8d5556fc94c64.ctv#https://stream1.freetv.fun/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX-NEWS" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165417gynyjqjdadrqdnjr.png" group-title="News",FOX NEWS
+#EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX-NEWS" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165417gynyjqjdadrqdnjr.png" group-title="News",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8#https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/30/234759tsjxjhrmjl5lrjl8.png" group-title="News",Sky News
 https://stream1.freetv.fun/ede2386f6b5bfcefdc33944ec06d4dddf0737cf5468c9ad476b4610082250fe8.m3u8
