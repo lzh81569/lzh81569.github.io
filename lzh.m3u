@@ -16,7 +16,9 @@ http://192.168.50.135:5500/stream/tvb/null/master.m3u8?u=admin&p=df6af7a3b83cfc7
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="MYTV",翡翠台
 http://192.168.50.135:5500/stream/tvb/null-1/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="MYTV",明珠台
-
+http://192.168.50.135:5500/stream/tvb/tvbplus/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="MYTV",TVB Plus
+http://192.168.50.135:5500/stream/tvb/tvbplus-1/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOYTV-資訊台" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港澳台",HOYTV资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="港台電視-31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK31
