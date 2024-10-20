@@ -31,16 +31,6 @@ http://192.168.50.135:5500/stream/tvb/null/master.m3u8?u=admin&p=df6af7a3b83cfc7
 http://192.168.50.135:5500/stream/tvb/null-2/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="MYTV",明珠台
 http://192.168.50.135:5500/stream/tvb/null-1/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="MYTV",TVB Plus
-http://192.168.50.135:5500/stream/tvb/tvbplus/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-3" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-3.png" group-title="MYTV",myTV SUPER 直播足球3台
-http://192.168.50.135:5500/stream/tvb/3/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-4" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-4.png" group-title="MYTV",myTV SUPER 直播足球4台
-http://192.168.50.135:5500/stream/tvb/4/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-5" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-5.png" group-title="MYTV",myTV SUPER 直播足球5台
-http://192.168.50.135:5500/stream/tvb/5/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="myTV-SUPER-Football-6" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Football-6.png" group-title="MYTV",myTV SUPER 直播足球6台
-http://192.168.50.135:5500/stream/tvb/6/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/03/231746mrv1oy1zorb1rzil.png" group-title="News",ANN News
