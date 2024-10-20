@@ -11,8 +11,16 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="240" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="港澳台",翡翠台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#https://stream1.freetv.fun/bcc3b37d4563a9b1907324fc914e8a5f60d904fd6e0edaea3c4b63c356c57a55.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-id="130" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="MYTV",無綫新聞台
+http://192.168.50.135:5500/stream/tvb/null/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95#http://qwe.iptviptv.site:9694/hls/906/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="MYTV",翡翠台4K
+http://192.168.50.135:5500/stream/tvb/4k/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="MYTV",翡翠台
+http://192.168.50.135:5500/stream/tvb/null-2/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="MYTV",明珠台
+http://192.168.50.135:5500/stream/tvb/null-1/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="MYTV",TVB PLUS
+http://192.168.50.135:5500/stream/tvb/tvbplus/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOYTV-資訊台" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港澳台",HOYTV资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="港台電視-31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK31
@@ -297,12 +305,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw361161076_-929143252/
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw359865952_96153757/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8?icpid=3&RTS=1674380475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="無線新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="不稳定",無綫新聞台
-http://qwe.iptviptv.site:9694/hls/906/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="不稳定",明珠台
-http://qwe.iptviptv.site:9694/hls/103/index.m3u8
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="不稳定",TVB PLUS
-http://qwe.iptviptv.site:9694/hls/905/index.m3u8
+
+
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="不稳定",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="不稳定",中天新闻
