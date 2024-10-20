@@ -59,8 +59,6 @@ http://192.168.50.135:5500/stream/tvb/null-6/master.m3u8?u=admin&p=df6af7a3b83cf
 http://192.168.50.135:5500/stream/tvb/thrill/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="MYTV",天映經典頻道
 http://192.168.50.135:5500/stream/tvb/null-7/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="MYTV",中國電影頻道
-http://192.168.50.135:5500/stream/tvb/null-8/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="MYTV",黃金翡翠台
 http://192.168.50.135:5500/stream/tvb/null-9/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="MYTV",千禧經典台
