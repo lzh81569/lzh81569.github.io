@@ -33,11 +33,11 @@ http://192.168.50.135:5500/stream/tvb/4k/master.m3u8?u=admin&p=df6af7a3b83cfc738
 http://192.168.50.135:5500/stream/tvb/null-2/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVB明珠台.png" group-title="MYTV",明珠台
 http://192.168.50.135:5500/stream/tvb/null-1/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="新聞財經",無線衛星亞洲台
+#EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://assets.livednow.com/logo/無線衛星亞洲台.png" group-title="MYTV",無線衛星亞洲台
 http://192.168.50.135:5500/stream/tvb/null-5/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://assets.livednow.com/logo/無線衛星新聞台.png" group-title="MYTV",無線衛星新聞台
 http://192.168.50.135:5500/stream/tvb/null-4/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB PLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="MYTV",TVB PLUS
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/TVBPlus.png" group-title="MYTV",TVB Plus
 http://192.168.50.135:5500/stream/tvb/tvbplus/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="MYTV",娛樂新聞台
 http://192.168.50.135:5500/stream/tvb/null-3/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
@@ -53,23 +53,23 @@ http://192.168.50.135:5500/stream/tvb/6/master.m3u8?u=admin&p=df6af7a3b83cfc738c
 http://192.168.50.135:5500/stream/tvb/1/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="MYTV",互動窗 2
 http://192.168.50.135:5500/stream/tvb/2/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="戲劇電影",美亞電影台
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="MYTV",美亞電影台
 http://192.168.50.135:5500/stream/tvb/null-6/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="戲劇電影",Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="MYTV",Thrill
 http://192.168.50.135:5500/stream/tvb/thrill/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="戲劇電影",天映經典頻道
+#EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://assets.livednow.com/logo/天映經典頻道.png" group-title="MYTV",天映經典頻道
 http://192.168.50.135:5500/stream/tvb/null-7/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="戲劇電影",中國電影頻道
+#EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://assets.livednow.com/logo/中國電影頻道.png" group-title="MYTV",中國電影頻道
 http://192.168.50.135:5500/stream/tvb/null-8/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="戲劇電影",黃金翡翠台
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png" group-title="MYTV",黃金翡翠台
 http://192.168.50.135:5500/stream/tvb/null-9/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="戲劇電影",千禧經典台
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="MYTV",千禧經典台
 http://192.168.50.135:5500/stream/tvb/null-10/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="戲劇電影",華語劇台
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="MYTV",華語劇台
 http://192.168.50.135:5500/stream/tvb/null-11/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="戲劇電影",亞洲劇台
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="MYTV",亞洲劇台
 http://192.168.50.135:5500/stream/tvb/null-12/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
-#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="戲劇電影",黃金華劇台
+#EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://assets.livednow.com/logo/黃金華劇台.png" group-title="MYTV",黃金華劇台
 http://192.168.50.135:5500/stream/tvb/null-13/master.m3u8?u=admin&p=df6af7a3b83cfc738cc00f6fa45807faaf1317c42a40a6c30cdb18cefea91a95
 #EXTINF:-1 tvg-id="6139" tvg-name="亚洲新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="News",亚洲新闻台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
