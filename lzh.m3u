@@ -303,8 +303,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw361161076_-929143252/
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw359865952_96153757/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8?icpid=3&RTS=1674380475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="688" tvg-name="NBC News" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-
-
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/26/213036l7t7e7r497w4dzdm.png" group-title="不稳定",翡翠台
+http://43.156.243.88:47961/stream/mytv/null/master.m3u8
 #EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="不稳定",东森财经新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="不稳定",中天新闻
