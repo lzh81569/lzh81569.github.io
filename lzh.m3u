@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="体育",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="体育",CCTV16 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="体育",CCTV 5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="体育",CCTV 5
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="体育",CCTV 5+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="体育",CCTV 5+
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228176/1.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰卫视中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="港澳台",凤凰中文
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰卫视香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="港澳台",凤凰香港
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="MYTV",無綫新聞台
 http://192.168.50.135:60359/stream/tvb/null/master.m3u8
@@ -20,7 +20,7 @@ http://192.168.50.135:60359/stream/tvb/null-2/master.m3u8
 http://192.168.50.135:60359/stream/4k/4k/master.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="MYTV",明珠台
 http://192.168.50.135:60359/stream/tvb/null-1/master.m3u8
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="MYTV",TVB Plus
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVBPlus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="MYTV",TVB Plus
 http://192.168.50.135:60359/stream/tvb/tvbplus/master.m3u8
 #EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOYTV-資訊台" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港澳台",HOYTV资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
@@ -36,18 +36,18 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="RTHKTV36.hk" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK36体育
 
-#EXTINF:-1 tvg-id="CNA-亞洲新聞台" tvg-name="CNA 亞洲新聞台" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="News",CNA 亞洲新聞台
+#EXTINF:-1 tvg-id="CNA-亞洲新聞台" tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="News",CNA 亞洲新聞台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/03/231746mrv1oy1zorb1rzil.png" group-title="News",ANN News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="News",半岛国际新闻台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="News",CNN 國際新聞台
+#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="News",CNN 國際新聞台
 https://astro.ttvb.eu.org/stream/astro/2v1m4h64/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea#https://stream1.freetv.fun/a3a41590f423f3132a6913875251e0aae350ff9be85cfaf24e2930680e8306d1.m3u8#https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="NBC" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News NOW
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_eu_nbcnewsnow_003.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
 
-#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBC World News" tvg-logo="https://assets.livednow.com/logo/BBC-World-News.png" group-title="News",BBC World News
+#EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBCWorldNews" tvg-logo="https://assets.livednow.com/logo/BBC-World-News.png" group-title="News",BBC World News
 https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0a96c020534c.ctv#https://stream1.freetv.fun/e396bdb2652b81b6d4b0c760c339374da578dc52c999a5caf9a8d5556fc94c64.ctv#https://stream1.freetv.fun/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
 #EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="News",FOX NEWS
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8#https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -55,60 +55,60 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#https://i.mjh.nz/SamsungT
 https://stream1.freetv.fun/ede2386f6b5bfcefdc33944ec06d4dddf0737cf5468c9ad476b4610082250fe8.m3u8
 #EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="News",ABC News
 https://stream1.freetv.fun/5e04f2bef9c3f4368586a8bcbc892a9f559a5285caffee245e5bb1a43ab8c737.m3u8#https://stream1.freetv.fun/1984823e24cfb7408feb0d2add91985441264c874ec4917b6ba14c89ee3adb57.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 tvg-id="DW" tvg-name="DW 德國之聲" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="News",DW 德國之聲
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="News",DW 德國之聲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8#https://stream1.freetv.fun/56339b1e1a4b7699b5378e3d2cbf061f74b59799dd49c3b98dcf776c7ad5c60f.m3u8
-#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France 24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="News",france24
+#EXTINF:-1 tvg-id="France-24-HK" tvg-name="France24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="News",france24
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 #EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
 
-#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="CCTV",CCTV 8K
+#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="CCTV",CCTV 8K
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="CCTV",CCTV 4K
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="CCTV",CCTV 4K
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8#http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV",CCTV 1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV",CCTV 1
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
-#EXTINF:-1 -id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV",CCTV 2
+#EXTINF:-1 -id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV",CCTV 2
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="CCTV",CCTV 3
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="CCTV",CCTV 3
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="CCTV",CCTV 4
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="CCTV",CCTV 4
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228091/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="CCTV",CCTV 5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="CCTV",CCTV 5
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="体育",CCTV 5+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="体育",CCTV 5+
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228176/1.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="CCTV",CCTV 6
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="CCTV",CCTV 6
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8#http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="CCTV",动作电影
+#EXTINF:-1 tvg-id="CHC-动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="CCTV",动作电影
 http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="CCTV",家庭影院
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="CCTV",家庭影院
 http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy#https://stream1.freetv.fun/bac600b1515e7261bc1d626fe8ffe12f5ce3d5a200eb19c49c4ce869862557fc.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="CCTV",影迷频道
+#EXTINF:-1 tvg-id="CHC-高清电影" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="CCTV",影迷频道
 http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV",CCTV 7
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV",CCTV 7
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV",CCTV 8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV",CCTV 8
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228578/1.m3u8
 http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV",CCTV 9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV",CCTV 9
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV 10
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV 10
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV 11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV 11
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV 12
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV 12
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV 13
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV 13
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228324/1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV",CGTN
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV",CCTV 14
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV",CCTV 14
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV 15
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV 15
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV 16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV",CCTV 16
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV",CCTV 17
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV",CCTV 17
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221227511/1.m3u8
