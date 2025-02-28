@@ -13,15 +13,15 @@ http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212285
 #EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="港澳台",凤凰香港
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="MYTV",無綫新聞台
-http://43.156.243.88:47961/stream/tvb/null-1/master.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="MYTV",翡翠台
-http://43.156.243.88:47961/stream/tvb/null/master.m3u8
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="MYTV",翡翠台4K
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="MYTV",明珠台
-http://43.156.243.88:47961/stream/tvb/null-2/master.m3u8
+
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVBPlus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="MYTV",TVB Plus
-http://43.156.243.88:47961/stream/tvb/tvbplus/master.m3u8
+
 #EXTINF:-1 tvg-id="HOYTV-資訊台" tvg-name="HOYTV-資訊台" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="港澳台",HOYTV资讯
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 tvg-id="港台電視-31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK31
