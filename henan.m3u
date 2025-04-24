@@ -85,5 +85,17 @@ http://106.46.57.50:8888/hls/47/index.m3u8
 http://106.46.57.50:8888/hls/48/index.m3u8#http://106.46.57.50:8888/hls/49/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" group-title="卫视",金鹰卡通
 http://106.46.57.50:8888/hls/54/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="卫视",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="卫视",重温经典
 http://111.8.242.107:4085/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan1.png" group-title="卫视",河南都市
+http://106.46.57.50:8888/hls/17/index.m3u8
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan2.png" group-title="卫视",河南民生
+http://106.46.57.50:8888/hls/18/index.m3u8
+#EXTINF:-1 tvg-id="河南法制" tvg-name="河南法制" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan3.png" group-title="卫视",河南法制
+http://106.46.57.50:8888/hls/19/index.m3u8
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan4.png" group-title="卫视",河南电视剧
+http://106.46.57.50:8888/hls/20/index.m3u8
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan6.png" group-title="卫视",河南新闻
+http://106.46.57.50:8888/hls/21/index.m3u8
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Henan7.png" group-title="卫视",河南公共
+http://106.46.57.50:8888/hls/22/index.m3u8
