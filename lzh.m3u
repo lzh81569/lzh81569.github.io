@@ -39,26 +39,26 @@ https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 #EXTINF:-1 tvg-id="CNA-亞洲新聞台" tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="News",CNA 亞洲新聞台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202311/03/231746mrv1oy1zorb1rzil.png" group-title="News",ANN News
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="News",半岛国际新闻台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 #EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="News",CNN 國際新聞台
-https://stream1.freetv.fun/a3a41590f423f3132a6913875251e0aae350ff9be85cfaf24e2930680e8306d1.m3u8
+
 #EXTINF:-1 tvg-id="688" tvg-name="NBC" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/20/165352yrnhj1l3hf1thhtn.png" group-title="News",NBC News NOW
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_eu_nbcnewsnow_003.m3u8#https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8#https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+
 
 #EXTINF:-1 tvg-id="BBC-World-News" tvg-name="BBCWorldNews" tvg-logo="https://assets.livednow.com/logo/BBC-World-News.png" group-title="News",BBC World News
-https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0a96c020534c.ctv#https://stream1.freetv.fun/e396bdb2652b81b6d4b0c760c339374da578dc52c999a5caf9a8d5556fc94c64.ctv#https://stream1.freetv.fun/3fb619b19ffafed5e48547fb307201687690c1c40f4ae989b8c90ed270757097.m3u8
+
 #EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX NEWS" tvg-logo="https://assets.livednow.com/logo/FOX-NEWS.png" group-title="News",FOX NEWS
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8#https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://bbs.pcbeta.com/data/attachment/forum/202310/30/234759tsjxjhrmjl5lrjl8.png" group-title="News",Sky News
-https://stream1.freetv.fun/ede2386f6b5bfcefdc33944ec06d4dddf0737cf5468c9ad476b4610082250fe8.m3u8
+
 #EXTINF:-1 tvg-id="ABC-News" tvg-name="ABC News" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="News",ABC News
-https://stream1.freetv.fun/5e04f2bef9c3f4368586a8bcbc892a9f559a5285caffee245e5bb1a43ab8c737.m3u8#https://stream1.freetv.fun/1984823e24cfb7408feb0d2add91985441264c874ec4917b6ba14c89ee3adb57.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://assets.livednow.com/logo/DW-HK.png" group-title="News",DW 德國之聲
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8#https://stream1.freetv.fun/56339b1e1a4b7699b5378e3d2cbf061f74b59799dd49c3b98dcf776c7ad5c60f.m3u8
+
 #EXTINF:-1 tvg-id="France-24-HK" tvg-name="France24" tvg-logo="https://assets.livednow.com/logo/France-24-HK.png" group-title="News",france24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
 #EXTINF:-1 tvg-id="688" tvg-name="CBS News" tvg-logo="https://upload.112114.xyz/logo/CBS.png" group-title="News",CBS News
 
 #EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="CCTV",CCTV 8K
