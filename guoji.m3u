@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png" group-title="News" , CNN
 https://jmp2.uk/sam-ATBD800001VA.m3u8
-#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="News" , NBC News NOW
-https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="News" , BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="News" , NBC News NOW
+https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="News" , Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
 #EXTINF:-1 tvg-id="USBA370000104" tvg-name="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="News & Opinion" , CBS News 24/7
