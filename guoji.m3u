@@ -81,6 +81,8 @@ https://jmp2.uk/sam-USBD17000025J.m3u8
 https://jmp2.uk/sam-USBD1200020Y4.m3u8
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="USBA3400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" group-title="Movies" , Love Nature 4K
 https://jmp2.uk/sam-USBA3400003IP.m3u8
+#EXTINF:-1 tvg-id="USBB1000002TK" tvg-name="USBB1000002TK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20241112T000653SQUARE.png" group-title="Movies" , Loupe 4K
+https://jmp2.uk/sam-USBB1000002TK.m3u8
 #EXTINF:-1 tvg-id="US3700006XE" tvg-name="US3700006XE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png" group-title="Movies" , Dinos 24/7
 https://jmp2.uk/sam-US3700006XE.m3u8
 #EXTINF:-1 tvg-id="US3800007CR" tvg-name="US3800007CR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3800007CR_20250121T101229SQUARE.png" group-title="Movies" , WildEarth
