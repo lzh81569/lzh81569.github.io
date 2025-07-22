@@ -303,8 +303,6 @@ https://jmp2.uk/sam-USBD700017WC.m3u8
 https://jmp2.uk/sam-USBB1000003HL.m3u8
 #EXTINF:-1 tvg-id="USBC4400005HY" tvg-name="USBC4400005HY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400005HY_20240520T221526SQUARE.png" group-title="Home & Food" , Localish
 https://jmp2.uk/sam-USBC4400005HY.m3u8
-#EXTINF:-1 tvg-id="US2600007WJ" tvg-name="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250428T223450SQUARE.png" group-title="Sports & Outdoors" , NFL Channel
-https://jmp2.uk/sam-US2600007WJ.m3u8
 #EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250714T223133SQUARE.png" group-title="Sports & Outdoors" , MLB Channel
 https://jmp2.uk/sam-US1400001WV.m3u8
 #EXTINF:-1 tvg-id="US300062TG" tvg-name="US300062TG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300062TG_20250304T041517SQUARE.png" group-title="Sports & Outdoors" , NESN Nation
@@ -388,7 +386,7 @@ https://jmp2.uk/sam-USBD1200020Y4.m3u8
 #EXTINF:-1 tvg-id="USBC2400027NG" tvg-name="USBC2400027NG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20250714T223145SQUARE.png" group-title="Motor Sports" , Top Gear
 https://jmp2.uk/sam-USBC2400027NG.m3u8
 #EXTINF:-1 tvg-id="US700021SM" tvg-name="US700021SM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700021SM_20250505T232701SQUARE.png" group-title="Motor Sports" , NASCAR Channel
-https://jmp2.uk/sam-US700021SM.m3u8
+https://jmp2.uk/sam-US700021SM.m3u8sit
 #EXTINF:-1 tvg-id="US600011Q2" tvg-name="US600011Q2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20241112T001019SQUARE.png" group-title="Motor Sports" , Formula 1 Channel
 https://jmp2.uk/sam-US600011Q2.m3u8
 #EXTINF:-1 tvg-id="USBB5200027Z5" tvg-name="USBB5200027Z5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20250325T015326SQUARE.png" group-title="Motor Sports" , Torque
@@ -403,8 +401,6 @@ https://jmp2.uk/sam-USBD2500017XQ.m3u8
 https://jmp2.uk/sam-USBC3200019WF.m3u8
 #EXTINF:-1 tvg-id="USBD4200011W4" tvg-name="USBD4200011W4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png" group-title="Motor Sports" , Hagerty
 https://jmp2.uk/sam-USBD4200011W4.m3u8
-#EXTINF:-1 tvg-id="USAJ3504545A" tvg-name="USAJ3504545A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png" group-title="Motor Sports" , Cars
-https://jmp2.uk/sam-USAJ3504545A.m3u8
 #EXTINF:-1 tvg-id="US400002PS" tvg-name="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20250616T221707SQUARE.png" group-title="Comedy" , Animation+
 https://jmp2.uk/sam-US400002PS.m3u8
 #EXTINF:-1 tvg-id="US4000004N1" tvg-name="US4000004N1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000004N1_20250616T221720SQUARE.png" group-title="Comedy" , Letterman TV
@@ -431,12 +427,8 @@ https://jmp2.uk/sam-US3700002P0.m3u8
 https://jmp2.uk/sam-US4500009VV.m3u8
 #EXTINF:-1 tvg-id="USBD12000038K" tvg-name="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20250325T015254SQUARE.png" group-title="Comedy" , Portlandia
 https://jmp2.uk/sam-USBD12000038K.m3u8
-#EXTINF:-1 tvg-id="USBA300019WF" tvg-name="USBA300019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20241112T000748SQUARE.png" group-title="Comedy" , TV Land Sitcoms
-https://jmp2.uk/sam-USBA300019WF.m3u8
 #EXTINF:-1 tvg-id="US4100003MA" tvg-name="US4100003MA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100003MA_20241125T235018SQUARE.png" group-title="Comedy" , Who's The Boss?
 https://jmp2.uk/sam-US4100003MA.m3u8
-#EXTINF:-1 tvg-id="USBB3500003D6" tvg-name="USBB3500003D6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20241112T000627SQUARE.png" group-title="Comedy" , Family Ties
-https://jmp2.uk/sam-USBB3500003D6.m3u8
 #EXTINF:-1 tvg-id="US18000096O" tvg-name="US18000096O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000096O_20240722T230835SQUARE.png" group-title="Comedy" , Saved by the Bell
 https://jmp2.uk/sam-US18000096O.m3u8
 #EXTINF:-1 tvg-id="USBC4400004KK" tvg-name="USBC4400004KK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240722T230829SQUARE.png" group-title="Comedy" , Just for Laughs GAGS
@@ -467,8 +459,6 @@ https://jmp2.uk/sam-USBB4400018LR.m3u8
 https://jmp2.uk/sam-US19000017A.m3u8
 #EXTINF:-1 tvg-id="USBB2300002Q6" tvg-name="USBB2300002Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20241105T024252SQUARE.png" group-title="Reality Competition" , Fear Factor
 https://jmp2.uk/sam-USBB2300002Q6.m3u8
-#EXTINF:-1 tvg-id="USBB3500001O6" tvg-name="USBB3500001O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20241112T000750SQUARE.png" group-title="Reality Competition" , The Challenge
-https://jmp2.uk/sam-USBB3500001O6.m3u8
 #EXTINF:-1 tvg-id="USBD3500041ZF" tvg-name="USBD3500041ZF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20250526T230401SQUARE.png" group-title="Reality Competition" , American Pickers by History
 https://jmp2.uk/sam-USBD3500041ZF.m3u8
 #EXTINF:-1 tvg-id="USBD2700014QW" tvg-name="USBD2700014QW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20250623T224710SQUARE.png" group-title="Reality Competition" , Forged In Fire
@@ -481,14 +471,10 @@ https://jmp2.uk/sam-USBB5200020Z0.m3u8
 https://jmp2.uk/sam-USBD27000156I.m3u8
 #EXTINF:-1 tvg-id="USBB3500004RC" tvg-name="USBB3500004RC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20250505T232642SQUARE.png" group-title="Reality Competition" , Project Runway
 https://jmp2.uk/sam-USBB3500004RC.m3u8
-#EXTINF:-1 tvg-id="USBA300004TE" tvg-name="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20241112T000620SQUARE.png" group-title="Reality Competition" , Dallas Cowboys Cheer
-https://jmp2.uk/sam-USBA300004TE.m3u8
 #EXTINF:-1 tvg-id="USBB52000246M" tvg-name="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20250325T015150SQUARE.png" group-title="Reality Competition" , Deal Zone
 https://jmp2.uk/sam-USBB52000246M.m3u8
 #EXTINF:-1 tvg-id="USAK3508706A" tvg-name="USAK3508706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20250602T231449SQUARE.png" group-title="Reality Competition" , Xtreme Outdoor Presented by HISTORY
 https://jmp2.uk/sam-USAK3508706A.m3u8
-#EXTINF:-1 tvg-id="USAJ3504531A" tvg-name="USAJ3504531A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20241112T000723SQUARE.png" group-title="Reality Competition" , Pluto TV Pixel World
-https://jmp2.uk/sam-USAJ3504531A.m3u8
 #EXTINF:-1 tvg-id="USBD700021WG" tvg-name="USBD700021WG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20241105T024154SQUARE.png" group-title="Game Shows" , BUZZR
 https://jmp2.uk/sam-USBD700021WG.m3u8
 #EXTINF:-1 tvg-id="USAJ3400012FA" tvg-name="USAJ3400012FA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20240924T010837SQUARE.png" group-title="Game Shows" , Game Show Central
@@ -497,8 +483,6 @@ https://jmp2.uk/sam-USAJ3400012FA.m3u8
 https://jmp2.uk/sam-USBC44000087O.m3u8
 #EXTINF:-1 tvg-id="USBB4400017N3" tvg-name="USBB4400017N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400017N3_20240625T011308SQUARE.png" group-title="Game Shows" , Deal or No Deal
 https://jmp2.uk/sam-USBB4400017N3.m3u8
-#EXTINF:-1 tvg-id="USBA3000100X" tvg-name="USBA3000100X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20241112T000832SQUARE.png" group-title="Game Shows" , Wild 'N Out
-https://jmp2.uk/sam-USBA3000100X.m3u8
 #EXTINF:-1 tvg-id="US26000201N" tvg-name="US26000201N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US26000201N_20250428T223438SQUARE.png" group-title="Lifestyle & Pop Culture" , Biography: The Icons
 https://jmp2.uk/sam-US26000201N.m3u8
 #EXTINF:-1 tvg-id="US700005ID" tvg-name="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" group-title="Lifestyle & Pop Culture" , WWE Superstar Central
@@ -509,8 +493,6 @@ https://jmp2.uk/sam-USBD700012OA.m3u8
 https://jmp2.uk/sam-USBB32000251N.m3u8
 #EXTINF:-1 tvg-id="USAJ3504714A" tvg-name="USAJ3504714A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20250428T223355SQUARE.png" group-title="Lifestyle & Pop Culture" , Cheddar News
 https://jmp2.uk/sam-USAJ3504714A.m3u8
-#EXTINF:-1 tvg-id="USBB1500001GD" tvg-name="USBB1500001GD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png" group-title="Lifestyle & Pop Culture" , USA Today
-https://jmp2.uk/sam-USBB1500001GD.m3u8
 #EXTINF:-1 tvg-id="US70001475" tvg-name="US70001475" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US70001475_20250707T234407SQUARE.png" group-title="Lifestyle & Pop Culture" , Dr Phil's MeritTV
 https://jmp2.uk/sam-US70001475.m3u8
 #EXTINF:-1 tvg-id="USAJ34000022E" tvg-name="USAJ34000022E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20250610T231807SQUARE.png" group-title="Lifestyle & Pop Culture" , Nosey
