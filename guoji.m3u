@@ -7,10 +7,10 @@ https://jmp2.uk/sam-USBB2200014DK.m3u8
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="News" , Sky News
 https://jmp2.uk/sam-USBB52000022Q.m3u8
-#EXTINF:-1 tvg-id="USBC4400003OU" tvg-name="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20241112T000921SQUARE.png" group-title="News" , CBC News
-https://jmp2.uk/sam-CABC2300009KD.m3u8
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="News" , LiveNOW from FOX
 https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1 tvg-id="USBC4400003OU" tvg-name="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20241112T000921SQUARE.png" group-title="News" , CBC News
+https://jmp2.uk/sam-CABC2300009KD.m3u8
 #EXTINF:-1 tvg-id="USBD3000073N" tvg-name="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png" group-title="News" , Scripps News
 https://jmp2.uk/sam-USBD3000073N.m3u8
 #EXTINF:-1 tvg-id="USBD700003L7" tvg-name="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" group-title="News" , FOX Weather
