@@ -4,7 +4,7 @@ https://jmp2.uk/sam-ATBD800001VA.m3u8
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="News" , BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="News" , NBC News NOW
-https://jmp2.uk/sam-USBB2200014DK.m3u8
+https://jmp2.uk/sam-USBB2200014DK.m3u8&https://jmp2.uk/sam-ESBC400003YM.m3u8
 #EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E5%8D%8A%E5%B2%9B%E6%96%B0%E9%97%BB.png" group-title="News",半岛国际新闻台
