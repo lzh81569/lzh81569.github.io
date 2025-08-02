@@ -1,5 +1,4 @@
-#EXTM3U
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京新闻高清
 http://172.31.203.136:8006/jscn/NanJingXinWenHD.m3u8
 #EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",文旅纪录高清
