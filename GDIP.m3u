@@ -137,3 +137,5 @@ http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
 http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
 #EXTINF:-1 group-title="广电市县",深圳卫视4K
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
+#EXTINF:-1 group-title="广电市县",高邮新闻高清
+http://172.31.203.136:8006/jscn/GaoYou1HD.m3u8
