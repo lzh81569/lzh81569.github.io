@@ -17,9 +17,9 @@ http://172.31.203.136:8006/jscn/SuZhouShengHuoHD.m3u8
 http://172.31.203.136:8006/jscn/YanChengXinWenHD.m3u8
 #EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="广电市县",江阴新闻高清
 http://172.31.203.136:8006/jscn/JiangYinXinWenHD.m3u8
-#EXTINF:-1 group-title="广电市县",宜兴新闻高清
+#EXTINF:-1 tvg-id="宜兴新闻" tvg-name="宜兴新闻" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113531&size=1024&m=133986851307772519&x=MlMsov1KOw7AVgErjn4PScO1M2CN3Rft" group-title="广电市县",宜兴新闻高清
 http://172.31.203.136:8006/jscn/YiXingXinWenHD.m3u8
-#EXTINF:-1 group-title="广电市县",吴江新闻高清
+#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113503&size=1024&m=133986848974349463&x=cPGXkqfBrRUhKST91ZYBtNnQzmajLM57" group-title="广电市县",吴江新闻高清
 http://172.31.203.136:8006/jscn/WuJiangXinWenHD.m3u8
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山综合高清
 http://172.31.203.136:8006/jscn/KunShanXinWenHD.m3u8
