@@ -33,9 +33,9 @@ http://172.31.203.136:8006/jscn/KunShanDianYingHD.m3u8
 http://172.31.203.136:8006/jscn/TaiCangXinWenHD.m3u8
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="广电市县",太仓娄东民生高清
 http://172.31.203.136:8006/jscn/LouDongMinShengHD.m3u8
-#EXTINF:-1 group-title="广电市县",常熟新闻高清
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="广电市县",常熟新闻高清
 http://172.31.203.136:8006/jscn/ChangShuXinWenHD.m3u8
-#EXTINF:-1 group-title="广电市县",张家港新闻高清
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113592&size=240&m=133986856824608276&x=U30NrxVrFQUB3gg1k8bGns35dcYXcNCA" group-title="广电市县",张家港新闻高清
 http://172.31.203.136:8006/jscn/ZhangJiaGangXinWenHD.m3u8
 #EXTINF:-1 group-title="广电市县",溧水新闻高清
 http://172.31.203.136:8006/jscn/LiShuiXinWenHD.m3u8
