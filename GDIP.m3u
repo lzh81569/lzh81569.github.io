@@ -15,7 +15,7 @@ http://172.31.203.136:8006/jscn/SuZhouDianYingHD.m3u8
 http://172.31.203.136:8006/jscn/SuZhouShengHuoHD.m3u8
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1032777229&size=240&m=133964213258430000&x=5YnkWolPU2eZhh6D2kFyuMJGgOAJ5xjc" group-title="广电市县",盐城新闻综合高清
 http://172.31.203.136:8006/jscn/YanChengXinWenHD.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="广电市县",江阴新闻高清
+#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="广电市县",江阴新闻高清
 http://172.31.203.136:8006/jscn/JiangYinXinWenHD.m3u8
 #EXTINF:-1 group-title="广电市县",宜兴新闻高清
 http://172.31.203.136:8006/jscn/YiXingXinWenHD.m3u8
