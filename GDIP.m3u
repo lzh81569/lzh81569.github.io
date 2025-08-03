@@ -13,6 +13,30 @@ http://172.31.203.136:8006/jscn/SuZhouWenHuaHD.m3u8
 http://172.31.203.136:8006/jscn/SuZhouDianYingHD.m3u8
 #EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="广电市县",苏州生活资讯高清
 http://172.31.203.136:8006/jscn/SuZhouShengHuoHD.m3u8
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1032777229&size=240&m=133964213258430000&x=5YnkWolPU2eZhh6D2kFyuMJGgOAJ5xjc" group-title="广电市县",盐城新闻综合高清
+http://172.31.203.136:8006/jscn/YanChengXinWenHD.m3u8
+#EXTINF:-1 group-title="广电市县",江阴新闻高清
+http://172.31.203.136:8006/jscn/JiangYinXinWenHD.m3u8
+#EXTINF:-1 group-title="广电市县",宜兴新闻高清
+http://172.31.203.136:8006/jscn/YiXingXinWenHD.m3u8
+#EXTINF:-1 group-title="广电市县",吴江新闻高清
+http://172.31.203.136:8006/jscn/WuJiangXinWenHD.m3u8
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山综合高清
+http://172.31.203.136:8006/jscn/KunShanXinWenHD.m3u8
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山社会生活高清
+http://172.31.203.136:8006/jscn/KunShanSheHuiHD.m3u8
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山电视剧高清
+http://172.31.203.136:8006/jscn/KunShanDianShiJuHD.m3u8
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山电影高清
+http://172.31.203.136:8006/jscn/KunShanDianYingHD.m3u8
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="广电市县",太仓新闻高清
+http://172.31.203.136:8006/jscn/TaiCangXinWenHD.m3u8
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="广电市县",太仓娄东民生高清
+http://172.31.203.136:8006/jscn/LouDongMinShengHD.m3u8
+#EXTINF:-1 group-title="广电市县",常熟新闻高清
+http://172.31.203.136:8006/jscn/ChangShuXinWenHD.m3u8
+#EXTINF:-1 group-title="广电市县",张家港新闻高清
+http://172.31.203.136:8006/jscn/ZhangJiaGangXinWenHD.m3u8
 #EXTINF:-1 group-title="广电市县",溧水新闻高清
 http://172.31.203.136:8006/jscn/LiShuiXinWenHD.m3u8
 #EXTINF:-1 group-title="广电市县",浦口新闻高清
@@ -41,28 +65,6 @@ http://172.31.203.136:8006/jscn/WuJinShengHuoHD.m3u8
 http://172.31.203.136:8006/jscn/WuJinYingShiHD.m3u8
 #EXTINF:-1 group-title="广电市县",溧阳新闻
 http://172.31.203.136:8006/jscn/LiYangXinWen.m3u8
-#EXTINF:-1 group-title="广电市县",江阴新闻高清
-http://172.31.203.136:8006/jscn/JiangYinXinWenHD.m3u8
-#EXTINF:-1 group-title="广电市县",宜兴新闻高清
-http://172.31.203.136:8006/jscn/YiXingXinWenHD.m3u8
-#EXTINF:-1 group-title="广电市县",吴江新闻高清
-http://172.31.203.136:8006/jscn/WuJiangXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山综合高清
-http://172.31.203.136:8006/jscn/KunShanXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山社会生活高清
-http://172.31.203.136:8006/jscn/KunShanSheHuiHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山电视剧高清
-http://172.31.203.136:8006/jscn/KunShanDianShiJuHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="广电市县",昆山电影高清
-http://172.31.203.136:8006/jscn/KunShanDianYingHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="广电市县",太仓新闻高清
-http://172.31.203.136:8006/jscn/TaiCangXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="广电市县",太仓娄东民生高清
-http://172.31.203.136:8006/jscn/LouDongMinShengHD.m3u8
-#EXTINF:-1 group-title="广电市县",常熟新闻高清
-http://172.31.203.136:8006/jscn/ChangShuXinWenHD.m3u8
-#EXTINF:-1 group-title="广电市县",张家港新闻高清
-http://172.31.203.136:8006/jscn/ZhangJiaGangXinWenHD.m3u8
 #EXTINF:-1 group-title="广电市县",扬州新闻高清
 http://172.31.203.136:8006/jscn/YangZhouXinWenHD.m3u8
 #EXTINF:-1 group-title="广电市县",扬州2高清
