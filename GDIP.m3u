@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视
+http://172.31.203.136:8006/jscn/JiangSuTV.m3u8
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京新闻综合
 http://172.31.203.136:8006/jscn/NanJingXinWenHD.m3u8
 #EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京文旅纪录
@@ -141,3 +143,30 @@ http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
 #EXTINF:-1 group-title="广电市县",高邮新闻高清
 http://172.31.203.136:8006/jscn/GaoYou1HD.m3u8
+
+风云足球
+http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
+电视指南
+http://172.31.203.136:8006/jscn/DianShiZhiNanHD.m3u8
+兵器科技
+http://172.31.203.136:8006/jscn/BingQiKeJiHD.m3u8
+怀旧剧场
+http://172.31.203.136:8006/jscn/HuaiJiuJuChangHD.m3u8
+世界地理
+http://172.31.203.136:8006/jscn/ShiJieDiLiHD.m3u8
+央视文化精品
+http://172.31.203.136:8006/jscn/YangShiJingPinHD.m3u8
+央视台球
+http://172.31.203.136:8006/jscn/YangShiTaiQiuHD.m3u8
+高尔夫网球
+http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
+风云剧场高清
+http://172.31.203.136:8006/jscn/FengYunJuChangHD.m3u8
+风云音乐
+http://172.31.203.136:8006/jscn/FengYunYinYueHD.m3u8
+第一剧场
+http://172.31.203.136:8006/jscn/DiYiJuChangHD.m3u8
+女性时尚
+http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
+卫生健康
+http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
