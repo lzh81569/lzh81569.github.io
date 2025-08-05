@@ -116,9 +116,9 @@ http://172.31.203.136:8006/jscn/JuRongShengHuoHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹阳新闻高清
 http://172.31.203.136:8006/jscn/DanYangXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
-http://172.31.203.136:8006/jscn/DanTuZongHe.m3u8
+http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",扬中综合
-http://172.31.203.136:8006/jscn/YangZhongZongHe.m3u8
+http://172.31.203.136:8006/jscn/YangZhongXinWen.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",邗江高清
 http://172.31.203.136:8006/jscn/YangZhouHanJiangHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",江都高清(本区)
