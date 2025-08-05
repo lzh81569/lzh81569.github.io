@@ -139,13 +139,17 @@ http://172.31.203.136:8006/jscn/NanJingJiaoKeHD.m3u8
 http://172.31.203.136:8006/jscn/NanJingShaoErHD.m3u8
 #EXTINF:-1 group-title="广电市县",十八•生活高清
 http://172.31.203.136:8006/jscn/ShiBaShengHuoHD.m3u8
-#EXTINF:-1 group-title="广电市县",北京卫视4K
-http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
-#EXTINF:-1 group-title="广电市县",CCTV5+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV16
+http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5
+http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5+
 http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
-#EXTINF:-1 group-title="广电市县",广东卫视4K
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",北京卫视4K
+http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",广东卫视4K
 http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
-#EXTINF:-1 group-title="广电市县",深圳卫视4K
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",深圳卫视4K
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
 #EXTINF:-1 group-title="广电市县",高邮新闻高清
 http://172.31.203.136:8006/jscn/GaoYou1HD.m3u8
