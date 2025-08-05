@@ -157,7 +157,6 @@ http://172.31.203.136:8006/jscn/FengXianXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/PeiXianXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",建湖综合高清
 http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",响水综合
 http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
@@ -224,7 +223,7 @@ http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视4K
 http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",测试节目-1
-http://172.31.203.136:8006/jscn/JSCNTest-1.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",测试节目-2
-http://172.31.203.136:8006/jscn/JSCNTest-2.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",凤凰中文
+http://172.31.203.136:8006/jscn/FengHuangZhongWen.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",凤凰资讯
+http://172.31.203.136:8006/jscn/FengHuangZiXun.m3u8
