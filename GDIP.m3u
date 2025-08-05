@@ -115,6 +115,8 @@ http://172.31.203.136:8006/jscn/GuanNanZongHe.m3u8
 http://172.31.203.136:8006/jscn/FuNing1.m3u8
 #EXTINF:-1 group-title="广电市县",赣榆综合高清
 http://172.31.203.136:8006/jscn/GanYuZongHeHD.m3u8
+#EXTINF:-1 group-title="广电市县",高邮新闻高清
+http://172.31.203.136:8006/jscn/GaoYou1HD.m3u8
 #EXTINF:-1 group-title="HDTV",青海卫视
 http://172.31.203.136:8006/jscn/QingHaiTVHD.m3u8
 #EXTINF:-1 group-title="HDTV",三沙卫视
@@ -139,20 +141,6 @@ http://172.31.203.136:8006/jscn/NanJingJiaoKeHD.m3u8
 http://172.31.203.136:8006/jscn/NanJingShaoErHD.m3u8
 #EXTINF:-1 group-title="广电市县",十八•生活高清
 http://172.31.203.136:8006/jscn/ShiBaShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV16
-http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5
-http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5+
-http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",北京卫视4K
-http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",广东卫视4K
-http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",深圳卫视4K
-http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
-#EXTINF:-1 group-title="广电市县",高邮新闻高清
-http://172.31.203.136:8006/jscn/GaoYou1HD.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="广电市县",风云足球
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="广电市县",电视指南
@@ -179,3 +167,15 @@ http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="广电市县",卫生健康
 http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV16
+http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5
+http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5+
+http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",北京卫视4K
+http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",广东卫视4K
+http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",深圳卫视4K
+http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
