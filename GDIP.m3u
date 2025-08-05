@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="广电市县",凤凰中文高清
+http://172.31.203.136:8006/jscn/JSCNTest-4.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="广电市县",凤凰资讯高清
+http://172.31.203.136:8006/jscn/JSCNTest-5.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV1
 http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8?playseek=20250803190000-20250807233200
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京新闻综合
@@ -223,7 +227,7 @@ http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视4K
 http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="广电市县",凤凰中文
 http://172.31.203.136:8006/jscn/FengHuangZhongWen.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="广电市县",凤凰资讯
 http://172.31.203.136:8006/jscn/FengHuangZiXun.m3u8
