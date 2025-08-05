@@ -115,6 +115,10 @@ http://172.31.203.136:8006/jscn/JuRongZongHeHD.m3u8
 http://172.31.203.136:8006/jscn/JuRongShengHuoHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹阳新闻高清
 http://172.31.203.136:8006/jscn/DanYangXinWenHD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
+http://172.31.203.136:8006/jscn/DanTuZongHe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",扬中综合
+http://172.31.203.136:8006/jscn/YangZhongZongHe.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",邗江高清
 http://172.31.203.136:8006/jscn/YangZhouHanJiangHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",江都高清(本区)
@@ -209,11 +213,5 @@ http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
 http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="广电市县",深圳卫视4K
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",测试2
-http://172.31.203.136:8006/jscn/JSCNTest-2.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视4K
 http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
-http://172.31.203.136:8006/jscn/DanTuZongHe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",扬中综合
-http://172.31.203.136:8006/jscn/YangZhongZongHe.m3u8
