@@ -115,10 +115,6 @@ http://172.31.203.136:8006/jscn/JuRongZongHeHD.m3u8
 http://172.31.203.136:8006/jscn/JuRongShengHuoHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹阳新闻高清
 http://172.31.203.136:8006/jscn/DanYangXinWenHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
-http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",扬中综合
-http://172.31.203.136:8006/jscn/YangZhongXinWen.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",邗江高清
 http://172.31.203.136:8006/jscn/YangZhouHanJiangHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",江都高清(本区)
@@ -131,6 +127,10 @@ http://172.31.203.136:8006/jscn/YiZhengXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/JingJiangXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",泰兴综合高清
 http://172.31.203.136:8006/jscn/TaiXingZongHeHD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",兴化新闻综合高清
+http://172.31.203.136:8006/jscn/XingHua1HD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",兴化生活娱乐
+http://172.31.203.136:8006/jscn/XingHua2.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",启东新闻高清
 http://172.31.203.136:8006/jscn/QiDongXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",海门综合高清
@@ -145,6 +145,10 @@ http://172.31.203.136:8006/jscn/FengXianXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/PeiXianXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",建湖综合高清
 http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
+http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",扬中综合
+http://172.31.203.136:8006/jscn/YangZhongXinWen.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",灌南综合
 http://172.31.203.136:8006/jscn/GuanNanZongHe.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",阜宁新闻
