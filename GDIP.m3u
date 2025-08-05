@@ -147,6 +147,8 @@ http://172.31.203.136:8006/jscn/FengXianXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/PeiXianXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",建湖综合高清
 http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",响水综合
+http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
 http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",扬中综合
