@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="广电市县",CCTV1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV1
 http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8?playseek=20250805193000-20250807193200
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京新闻综合
 http://172.31.203.136:8006/jscn/NanJingXinWenHD.m3u8
@@ -167,15 +167,15 @@ http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="广电市县",卫生健康
 http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="广电市县",CCTV16
 http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5
 http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5+
 http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="广电市县",北京卫视4K
 http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="广电市县",广东卫视4K
 http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",深圳卫视4K
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="广电市县",深圳卫视4K
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
