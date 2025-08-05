@@ -183,8 +183,12 @@ http://172.31.203.136:8006/jscn/NanJingYingShi.m3u8
 http://172.31.203.136:8006/jscn/NanJingJiaoKe.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",南京少儿
 http://172.31.203.136:8006/jscn/NanJingShaoEr.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",十八•生活
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",南京十八•生活
 http://172.31.203.136:8006/jscn/NanJingShiBa.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",南京生活
+http://172.31.203.136:8006/jscn/ShiBaShengHuo.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",十八•生活
+http://172.31.203.136:8006/jscn/ShiBaShengHuo.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="广电市县",风云足球
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="广电市县",电视指南
