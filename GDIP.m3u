@@ -151,6 +151,16 @@ http://172.31.203.136:8006/jscn/FengXianXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/PeiXianXinWenHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",建湖综合高清
 http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
+#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京影视
+http://172.31.203.136:8006/jscn/NanJingYingShi.m3u8
+#EXTINF:-1 tvg-id="南京科教" tvg-name="南京科教" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京科教
+http://172.31.203.136:8006/jscn/NanJingJiaoKe.m3u8
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京少儿
+http://172.31.203.136:8006/jscn/NanJingShaoEr.m3u8
+#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京十八•生活
+http://172.31.203.136:8006/jscn/ShiBa•ShengHuoHD.m3u8
+#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京十八•生活
+http://172.31.203.136:8006/jscn/ShiBa•ShengHuo.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",响水综合
 http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",丹徒综合
@@ -177,16 +187,6 @@ http://172.31.203.136:8006/jscn/Shan1XiTV.m3u8
 http://172.31.203.136:8006/jscn/YunNanTVHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="卫视频道",广西卫视
 http://172.31.203.136:8006/jscn/GuangXiTVHD.m3u8
-#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京影视
-http://172.31.203.136:8006/jscn/NanJingYingShi.m3u8
-#EXTINF:-1 tvg-id="南京科教" tvg-name="南京科教" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京科教
-http://172.31.203.136:8006/jscn/NanJingJiaoKe.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京少儿
-http://172.31.203.136:8006/jscn/NanJingShaoEr.m3u8
-#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京十八•生活
-http://172.31.203.136:8006/jscn/ShiBa•ShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="广电市县",南京十八•生活
-http://172.31.203.136:8006/jscn/ShiBa•ShengHuo.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="广电市县",风云足球
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="广电市县",电视指南
