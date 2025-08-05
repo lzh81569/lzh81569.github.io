@@ -63,6 +63,10 @@ http://172.31.203.136:8006/jscn/YangZhou2HD.m3u8
 http://172.31.203.136:8006/jscn/YangZhou3HD.m3u8
 #EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="广电市县",镇江新闻综合高清
 http://172.31.203.136:8006/jscn/ZhenJiangXinWenHD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",测试节目-1
+http://172.31.203.136:8006/jscn/JSCNTest-1.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",测试节目-2
+http://172.31.203.136:8006/jscn/JSCNTest-2.m3u8
 #EXTINF:-1 tvg-id="泰州一套" tvg-name="泰州一套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="广电市县",泰州一套高清
 http://172.31.203.136:8006/jscn/TaiZhou1HD.m3u8
 #EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="广电市县",泰州二套高清
