@@ -3,9 +3,9 @@
 #EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml"
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视HD
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="广电市县",凤凰中文HD
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="广电市县",凤凰中文台HD
 http://172.31.203.136:8006/jscn/JSCNTest-4.m3u8
-#EXTINF:-1 tvg-id="410355" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="广电市县",凤凰资讯HD
+#EXTINF:-1 tvg-id="410355" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="广电市县",凤凰资讯台HD
 http://172.31.203.136:8006/jscn/JSCNTest-5.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV1HD
 http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8
