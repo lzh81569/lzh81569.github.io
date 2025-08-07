@@ -215,35 +215,35 @@ http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="广电市县",卫生健康HD
 http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV2HD
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV2HD
 http://172.31.203.136:8006/jscn/CCTV-2HD.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV3HD
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV3HD
 http://172.31.203.136:8006/jscn/CCTV-3HD.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV4HD
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV4HD
 http://172.31.203.136:8006/jscn/CCTV-4HD.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV6HD
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV6HD
 http://172.31.203.136:8006/jscn/CCTV-6HD.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV7HD
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV7HD
 http://172.31.203.136:8006/jscn/CCTV-7HD.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV8HD
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV8HD
 http://172.31.203.136:8006/jscn/CCTV-8HD.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV9HD
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV9HD
 http://172.31.203.136:8006/jscn/CCTV-9HD.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV10HD
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV10HD
 http://172.31.203.136:8006/jscn/CCTV-10HD.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV11HD
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV11HD
 http://172.31.203.136:8006/jscn/CCTV-11HD.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV2HD
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV12HD
 http://172.31.203.136:8006/jscn/CCTV-12HD.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV13HD
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV13HD
 http://172.31.203.136:8006/jscn/CCTV-13HD.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV14HD
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV14HD
 http://172.31.203.136:8006/jscn/CCTV-14HD.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV15HD
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV15HD
 http://172.31.203.136:8006/jscn/CCTV-15HD.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV16HD
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV16HD
 http://172.31.203.136:8006/jscn/CCTV-16HD.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV17HD
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV17HD
 http://172.31.203.136:8006/jscn/CCTV-17HD.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV5+HD
 http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
