@@ -439,11 +439,11 @@ http://172.31.203.136:8006/jscn/NingXiaTVHD.m3u8
 http://172.31.203.136:8006/jscn/XinJiangTVHD.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo=" " group-title="卫视频道",青海卫视HD
 http://172.31.203.136:8006/jscn/QingHaiTVHD.m3u8
-#EXTINF:-1 ,CHC影迷电影 HD
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC影迷电影 HD
 http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
-#EXTINF:-1 ,CHC动作电影 HD
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC动作电影 HD
 http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
-#EXTINF:-1 ,CHC家庭影院 HD
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC家庭影院 HD
 http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",风云足球HD
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
@@ -519,9 +519,9 @@ http://172.31.203.136:8006/jscn/CCTV-15HD.m3u8
 http://172.31.203.136:8006/jscn/CCTV-16HD.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV17HD
 http://172.31.203.136:8006/jscn/CCTV-17HD.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV5+HD
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV5+HD
 http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV5HD
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV5HD
 http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="4K",CCTV16 4K
 http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
