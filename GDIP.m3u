@@ -615,4 +615,8 @@ http://172.31.203.136:8006/jscn/CGTN-E.m3u8
 http://172.31.203.136:8006/jscn/CGTN-R.m3u8
 #EXTINF:-1 ,CGTN-A
 http://172.31.203.136:8006/jscn/CGTN-A.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",上海都市
+http://172.31.203.136:8006/jscn/ShangHaiDuShi.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="广电市县",第一财经
+http://172.31.203.136:8006/jscn/DiYiCaiJing.m3u8
 
