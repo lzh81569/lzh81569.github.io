@@ -189,6 +189,76 @@ http://172.31.203.136:8006/jscn/Shan1XiTV.m3u8
 http://172.31.203.136:8006/jscn/YunNanTVHD.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo=" " group-title="卫视频道",广西卫视HD
 http://172.31.203.136:8006/jscn/GuangXiTVHD.m3u8
+#EXTINF:-1 ,河北卫视 HD
+http://172.31.203.136:8006/jscn/HeBeiTVHD.m3u8
+#EXTINF:-1 ,山东教育卫视 HD
+http://172.31.203.136:8006/jscn/ShanDongJiaoYuTVHD.m3u8
+#EXTINF:-1 ,天津卫视
+http://172.31.203.136:8006/jscn/TianJinTV.m3u8
+#EXTINF:-1 ,广东卫视 HD
+http://172.31.203.136:8006/jscn/GuangDongTVHD.m3u8
+#EXTINF:-1 ,浙江卫视 HD
+http://172.31.203.136:8006/jscn/ZheJiangTVHD.m3u8
+#EXTINF:-1 ,北京卫视 HD
+http://172.31.203.136:8006/jscn/BeiJingTVHD.m3u8
+#EXTINF:-1 ,山东卫视 HD
+http://172.31.203.136:8006/jscn/ShanDongTVHD.m3u8
+#EXTINF:-1 ,安徽卫视 HD
+http://172.31.203.136:8006/jscn/AnhuiTVHD.m3u8
+#EXTINF:-1 ,东方卫视 HD
+http://172.31.203.136:8006/jscn/DongFangTVHD.m3u8
+#EXTINF:-1 ,湖南卫视 HD
+http://172.31.203.136:8006/jscn/HuNanTVHD.m3u8
+#EXTINF:-1 ,深圳卫视 HD
+http://172.31.203.136:8006/jscn/ShenZhenTVHD.m3u8
+#EXTINF:-1 ,东南卫视 HD
+http://172.31.203.136:8006/jscn/DongNanTVHD.m3u8
+#EXTINF:-1 ,辽宁卫视 HD
+http://172.31.203.136:8006/jscn/LiaoNingTVHD.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://172.31.203.136:8006/jscn/NeiMengGuTV.m3u8
+#EXTINF:-1 ,兵团卫视 HD
+http://172.31.203.136:8006/jscn/BingTuanTVHD.m3u8
+#EXTINF:-1 ,卡酷少儿 HD
+http://172.31.203.136:8006/jscn/KaKuShaoErHD.m3u8
+#EXTINF:-1 ,四川卫视 HD
+http://172.31.203.136:8006/jscn/SiChuanTVHD.m3u8
+#EXTINF:-1 ,黑龙江卫视 HD
+http://172.31.203.136:8006/jscn/HeiLongJiangTVHD.m3u8
+#EXTINF:-1 ,河南卫视 HD
+http://172.31.203.136:8006/jscn/HeNanTVHD.m3u8
+#EXTINF:-1 ,吉林卫视 HD
+http://172.31.203.136:8006/jscn/JiLinTVHD.m3u8
+#EXTINF:-1 ,甘肃卫视 HD
+http://172.31.203.136:8006/jscn/GanSuTVHD.m3u8
+#EXTINF:-1 ,湖北卫视 HD
+http://172.31.203.136:8006/HuBeiTVHD.m3u8
+#EXTINF:-1 ,江西卫视 HD
+http://172.31.203.136:8006/jscn/JiangXiTVHD.m3u8
+#EXTINF:-1 ,金鹰卡通 HD
+http://172.31.203.136:8006/jscn/JinYingKaTongHD.m3u8
+#EXTINF:-1 ,CETV-1 HD
+http://172.31.203.136:8006/jscn/CETV-1HD.m3u8
+#EXTINF:-1 ,CETV-2
+http://172.31.203.136:8006/jscn/CETV-2.m3u8
+#EXTINF:-1 ,CETV-4
+http://172.31.203.136:8006/jscn/CETV-4.m3u8
+#EXTINF:-1 ,北京纪实科教 HD
+http://172.31.203.136:8006/jscn/DongAoJiShiHD.m3u8
+#EXTINF:-1 ,重庆卫视 HD
+http://172.31.203.136:8006/jscn/ChongQingTVHD.m3u8
+#EXTINF:-1 ,西藏卫视 HD
+http://172.31.203.136:8006/jscn/XiZangTVHD.m3u8
+#EXTINF:-1 ,宁夏卫视 HD
+http://172.31.203.136:8006/jscn/NingXiaTVHD.m3u8
+#EXTINF:-1 ,新疆卫视 HD
+http://172.31.203.136:8006/jscn/XinJiangTVHD.m3u8
+#EXTINF:-1 ,CHC影迷电影 HD
+http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
+#EXTINF:-1 ,CHC动作电影 HD
+http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
+#EXTINF:-1 ,CHC家庭影院 HD
+http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="广电市县",风云足球HD
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="广电市县",电视指南HD
@@ -215,6 +285,22 @@ http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="广电市县",卫生健康HD
 http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
+#EXTINF:-1 ,江苏新闻 HD
+http://172.31.203.136:8006/jscn/JiangSuXinWenHD.m3u8
+#EXTINF:-1 ,江苏综艺 HD
+http://172.31.203.136:8006/jscn/JiangSuZongYiHD.m3u8
+#EXTINF:-1 ,江苏城市 HD
+http://172.31.203.136:8006/jscn/JiangSuChengShiHD.m3u8
+#EXTINF:-1 ,江苏体育·休闲 HD
+http://172.31.203.136:8006/jscn/JiangSuTiYuHD.m3u8
+#EXTINF:-1 ,江苏教育
+http://172.31.203.136:8006/jscn/JiangSuJiaoYu.m3u8
+#EXTINF:-1 ,优漫卡通
+http://172.31.203.136:8006/jscn/YouManKaTong.m3u8
+#EXTINF:-1 ,江苏影视
+http://172.31.203.136:8006/jscn/JiangSuYingShi.m3u8
+#EXTINF:-1 ,重温经典 HD
+http://172.31.203.136:8006/jscn/ChongWenJingDianHD.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV2HD
 http://172.31.203.136:8006/jscn/CCTV-2HD.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV3HD
@@ -237,6 +323,8 @@ http://172.31.203.136:8006/jscn/CCTV-11HD.m3u8
 http://172.31.203.136:8006/jscn/CCTV-12HD.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV13HD
 http://172.31.203.136:8006/jscn/CCTV-13HD.m3u8
+#EXTINF:-1 ,CGTN HD
+http://172.31.203.136:8006/jscn/CGTNHD.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV14HD
 http://172.31.203.136:8006/jscn/CCTV-14HD.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="广电市县" tvg-logo=" " group-title="广电市县",CCTV15HD
