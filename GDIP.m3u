@@ -25,9 +25,9 @@ http://172.31.203.136:8006/jscn/SuZhouDianYingHD.m3u8
 http://172.31.203.136:8006/jscn/SuZhouShengHuoHD.m3u8
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="广电市县",盐城新闻综合HD
 http://172.31.203.136:8006/jscn/YanChengXinWenHD.m3u8
-#EXTINF:-1 ,盐城二套
+#EXTINF:-1 tvg-id="盐城二套" tvg-name="盐城二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="广电市县",盐城二套
 http://172.31.203.136:8006/jscn/YanCheng2.m3u8
-#EXTINF:-1 ,盐城三套
+#EXTINF:-1 tvg-id="盐城三套" tvg-name="盐城三套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="广电市县",盐城三套
 http://172.31.203.136:8006/jscn/YanCheng3.m3u8
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="广电市县",无锡新闻综合HD
 http://172.31.203.136:8006/jscn/WuXiXinWenHD.m3u8
