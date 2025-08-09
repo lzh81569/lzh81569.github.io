@@ -213,20 +213,20 @@ http://172.31.203.136:8006/jscn/TianJinTV.m3u8
 http://172.31.203.136:8006/jscn/ShenZhenTVHD.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视频道",安徽卫视 HD
 http://172.31.203.136:8006/jscn/AnhuiTVHD.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视频道",山东卫视 HD
+http://172.31.203.136:8006/jscn/ShanDongTVHD.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="卫视频道",河南卫视 HD
+http://172.31.203.136:8006/jscn/HeNanTVHD.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视频道",河北卫视 HD
+http://172.31.203.136:8006/jscn/HeBeiTVHD.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视频道",广东卫视 HD
 http://172.31.203.136:8006/jscn/GuangDongTVHD.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视频道",东南卫视 HD
 http://172.31.203.136:8006/jscn/DongNanTVHD.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo=" " group-title="卫视频道",江西卫视 HD
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视频道",江西卫视 HD
 http://172.31.203.136:8006/jscn/JiangXiTVHD.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo=" " group-title="卫视频道",湖北卫视 HD
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视频道",湖北卫视 HD
 http://172.31.203.136:8006/HuBeiTVHD.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo=" " group-title="卫视频道",山东卫视 HD
-http://172.31.203.136:8006/jscn/ShanDongTVHD.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo=" " group-title="卫视频道",河南卫视 HD
-http://172.31.203.136:8006/jscn/HeNanTVHD.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo=" " group-title="卫视频道",河北卫视 HD
-http://172.31.203.136:8006/jscn/HeBeiTVHD.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo=" " group-title="卫视频道",四川卫视 HD
 http://172.31.203.136:8006/jscn/SiChuanTVHD.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo=" " group-title="卫视频道",贵州卫视 HD
@@ -235,17 +235,17 @@ http://172.31.203.136:8006/jscn/GuiZhouTVHD.m3u8
 http://172.31.203.136:8006/jscn/YunNanTVHD.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视频道",广西卫视HD
 http://172.31.203.136:8006/jscn/GuangXiTVHD.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo=" " group-title="卫视频道",海南卫视HD
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="卫视频道",海南卫视HD
 http://172.31.203.136:8006/jscn/HaiNanTVHD.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo=" " group-title="卫视频道",三沙卫视HD
 http://172.31.203.136:8006/jscn/SanShaTVHD.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo=" " group-title="卫视频道",辽宁卫视 HD
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="卫视频道",辽宁卫视 HD
 http://172.31.203.136:8006/jscn/LiaoNingTVHD.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo=" " group-title="卫视频道",吉林卫视 HD
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="卫视频道",吉林卫视 HD
 http://172.31.203.136:8006/jscn/JiLinTVHD.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo=" " group-title="卫视频道",黑龙江卫视 HD
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="卫视频道",黑龙江卫视 HD
 http://172.31.203.136:8006/jscn/HeiLongJiangTVHD.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo=" " group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="卫视频道",内蒙古卫视
 http://172.31.203.136:8006/jscn/NeiMengGuTV.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo=" " group-title="卫视频道",山西卫视HD
 http://172.31.203.136:8006/jscn/Shan1XiTV.m3u8
@@ -253,9 +253,9 @@ http://172.31.203.136:8006/jscn/Shan1XiTV.m3u8
 http://172.31.203.136:8006/jscn/ShanXiTVHD.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视频道",甘肃卫视 HD
 http://172.31.203.136:8006/jscn/GanSuTVHD.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo=" " group-title="卫视频道",宁夏卫视 HD
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="卫视频道",宁夏卫视 HD
 http://172.31.203.136:8006/jscn/NingXiaTVHD.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo=" " group-title="卫视频道",青海卫视HD
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="卫视频道",青海卫视HD
 http://172.31.203.136:8006/jscn/QingHaiTVHD.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo=" " group-title="卫视频道",新疆卫视 HD
 http://172.31.203.136:8006/jscn/XinJiangTVHD.m3u8
