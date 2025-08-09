@@ -1,7 +1,9 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml"
 #EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml"
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="4K",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="4K",CCTV4K
+http://172.31.203.136:8006/jscn/CCTV-4K.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="4K",CCTV16 4K
 http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="4K",北京卫视 4K
 http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
