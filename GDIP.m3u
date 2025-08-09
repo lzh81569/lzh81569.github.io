@@ -271,7 +271,7 @@ http://172.31.203.136:8006/jscn/ShanDongJiaoYuTVHD.m3u8
 http://172.31.203.136:8006/jscn/JinYingKaTongHD.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="卫视频道",卡酷少儿 HD
 http://172.31.203.136:8006/jscn/KaKuShaoErHD.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo=" " group-title="卫视频道",重温经典 HD
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="卫视频道",重温经典 HD
 http://172.31.203.136:8006/jscn/ChongWenJingDianHD.m3u8
 #EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="卫视频道",CETV-1 HD
 http://172.31.203.136:8006/jscn/CETV-1HD.m3u8
@@ -537,8 +537,6 @@ http://172.31.203.136:8006/jscn/JiaJiaKaTong.m3u8
 http://172.31.203.136:8006/jscn/QiXia1.m3u8
 #EXTINF:-1 ,栖霞2
 http://172.31.203.136:8006/jscn/QiXia2.m3u8
-
-
 #EXTINF:-1 ,东方财经 HD
 http://172.31.203.136:8006/jscn/DongFangCaiJingHD.m3u8
 #EXTINF:-1 ,中国天气 HD
