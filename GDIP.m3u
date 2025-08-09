@@ -1,11 +1,25 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml"
 #EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml"
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="广电市县",江苏卫视HD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏卫视HD
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="广电市县",凤凰中文台HD
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏体育·休闲 HD
+http://172.31.203.136:8006/jscn/JiangSuTiYuHD.m3u8
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏新闻 HD
+http://172.31.203.136:8006/jscn/JiangSuXinWenHD.m3u8
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏城市 HD
+http://172.31.203.136:8006/jscn/JiangSuChengShiHD.m3u8
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏教育
+http://172.31.203.136:8006/jscn/JiangSuJiaoYu.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",优漫卡通
+http://172.31.203.136:8006/jscn/YouManKaTong.m3u8
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏影视
+http://172.31.203.136:8006/jscn/JiangSuYingShi.m3u8
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name=江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏综艺 HD
+http://172.31.203.136:8006/jscn/JiangSuZongYiHD.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="CCTV",凤凰中文台HD
 http://172.31.203.136:8006/jscn/JSCNTest-4.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="广电市县",凤凰资讯台HD
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="CCTV",凤凰资讯台HD
 http://172.31.203.136:8006/jscn/JSCNTest-5.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV1HD
 http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8
@@ -471,20 +485,7 @@ http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="CCTV",卫生健康HD
 http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
-#EXTINF:-1 ,江苏新闻 HD
-http://172.31.203.136:8006/jscn/JiangSuXinWenHD.m3u8
-#EXTINF:-1 ,江苏综艺 HD
-http://172.31.203.136:8006/jscn/JiangSuZongYiHD.m3u8
-#EXTINF:-1 ,江苏城市 HD
-http://172.31.203.136:8006/jscn/JiangSuChengShiHD.m3u8
-#EXTINF:-1 ,江苏体育·休闲 HD
-http://172.31.203.136:8006/jscn/JiangSuTiYuHD.m3u8
-#EXTINF:-1 ,江苏教育
-http://172.31.203.136:8006/jscn/JiangSuJiaoYu.m3u8
-#EXTINF:-1 ,优漫卡通
-http://172.31.203.136:8006/jscn/YouManKaTong.m3u8
-#EXTINF:-1 ,江苏影视
-http://172.31.203.136:8006/jscn/JiangSuYingShi.m3u8
+
 #EXTINF:-1 ,重温经典 HD
 http://172.31.203.136:8006/jscn/ChongWenJingDianHD.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV2HD
