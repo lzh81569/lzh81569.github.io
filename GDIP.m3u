@@ -1,6 +1,90 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml"
 #EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml"
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="4K",CCTV16 4K
+http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="4K",北京卫视4K
+http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="4K",广东卫视4K
+http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="4K",深圳卫视4K
+http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="4K",江苏卫视4K
+http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV",CCTV1HD
+http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV",CCTV2HD
+http://172.31.203.136:8006/jscn/CCTV-2HD.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="CCTV",CCTV3HD
+http://172.31.203.136:8006/jscn/CCTV-3HD.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="CCTV",CCTV4HD
+http://172.31.203.136:8006/jscn/CCTV-4HD.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="CCTV",CCTV5HD
+http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="CCTV",CCTV5+HD
+http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="CCTV",CCTV6HD
+http://172.31.203.136:8006/jscn/CCTV-6HD.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV",CCTV7HD
+http://172.31.203.136:8006/jscn/CCTV-7HD.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV",CCTV8HD
+http://172.31.203.136:8006/jscn/CCTV-8HD.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV",CCTV9HD
+http://172.31.203.136:8006/jscn/CCTV-9HD.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV10HD
+http://172.31.203.136:8006/jscn/CCTV-10HD.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV11HD
+http://172.31.203.136:8006/jscn/CCTV-11HD.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV12HD
+http://172.31.203.136:8006/jscn/CCTV-12HD.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV13HD
+http://172.31.203.136:8006/jscn/CCTV-13HD.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="CCTV",凤凰中文台HD
+http://172.31.203.136:8006/jscn/JSCNTest-4.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="CCTV",凤凰资讯台HD
+http://172.31.203.136:8006/jscn/JSCNTest-5.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CGTN HD
+http://172.31.203.136:8006/jscn/CGTNHD.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV",CCTV14HD
+http://172.31.203.136:8006/jscn/CCTV-14HD.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV15HD
+http://172.31.203.136:8006/jscn/CCTV-15HD.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="CCTV",CCTV16HD
+http://172.31.203.136:8006/jscn/CCTV-16HD.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV",CCTV17HD
+http://172.31.203.136:8006/jscn/CCTV-17HD.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC影迷电影 HD
+http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC动作电影 HD
+http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC家庭影院 HD
+http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",风云足球HD
+http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV",央视台球HD
+http://172.31.203.136:8006/jscn/YangShiTaiQiuHD.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV",高尔夫网球HD
+http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="CCTV",电视指南HD
+http://172.31.203.136:8006/jscn/DianShiZhiNanHD.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="CCTV",风云剧场HD
+http://172.31.203.136:8006/jscn/FengYunJuChangHD.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="CCTV",第一剧场HD
+http://172.31.203.136:8006/jscn/DiYiJuChangHD.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="CCTV",怀旧剧场HD
+http://172.31.203.136:8006/jscn/HuaiJiuJuChangHD.m3u8
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="CCTV",风云音乐HD
+http://172.31.203.136:8006/jscn/FengYunYinYueHD.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="CCTV",兵器科技HD
+http://172.31.203.136:8006/jscn/BingQiKeJiHD.m3u8
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="CCTV",世界地理HD
+http://172.31.203.136:8006/jscn/ShiJieDiLiHD.m3u8
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="CCTV",央视文化精品HD
+http://172.31.203.136:8006/jscn/YangShiJingPinHD.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="CCTV",女性时尚HD
+http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
+#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="CCTV",卫生健康HD
+http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏卫视HD
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏体育·休闲 HD
@@ -17,12 +101,6 @@ http://172.31.203.136:8006/jscn/YouManKaTong.m3u8
 http://172.31.203.136:8006/jscn/JiangSuYingShi.m3u8
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name=江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏综艺 HD
 http://172.31.203.136:8006/jscn/JiangSuZongYiHD.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="CCTV",凤凰中文台HD
-http://172.31.203.136:8006/jscn/JSCNTest-4.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="CCTV",凤凰资讯台HD
-http://172.31.203.136:8006/jscn/JSCNTest-5.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="广电市县",CCTV1HD
-http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京新闻综合HD
 http://172.31.203.136:8006/jscn/NanJingXinWenHD.m3u8
 #EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京文旅纪录HD
@@ -453,91 +531,9 @@ http://172.31.203.136:8006/jscn/NingXiaTVHD.m3u8
 http://172.31.203.136:8006/jscn/XinJiangTVHD.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo=" " group-title="卫视频道",青海卫视HD
 http://172.31.203.136:8006/jscn/QingHaiTVHD.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC影迷电影 HD
-http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC动作电影 HD
-http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC家庭影院 HD
-http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",风云足球HD
-http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="CCTV",电视指南HD
-http://172.31.203.136:8006/jscn/DianShiZhiNanHD.m3u8
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="CCTV",风云剧场HD
-http://172.31.203.136:8006/jscn/FengYunJuChangHD.m3u8
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="CCTV",风云音乐HD
-http://172.31.203.136:8006/jscn/FengYunYinYueHD.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="CCTV",第一剧场HD
-http://172.31.203.136:8006/jscn/DiYiJuChangHD.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="CCTV",兵器科技HD
-http://172.31.203.136:8006/jscn/BingQiKeJiHD.m3u8
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="CCTV",怀旧剧场HD
-http://172.31.203.136:8006/jscn/HuaiJiuJuChangHD.m3u8
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="CCTV",世界地理HD
-http://172.31.203.136:8006/jscn/ShiJieDiLiHD.m3u8
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="CCTV",央视文化精品HD
-http://172.31.203.136:8006/jscn/YangShiJingPinHD.m3u8
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV",央视台球HD
-http://172.31.203.136:8006/jscn/YangShiTaiQiuHD.m3u8
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV",高尔夫网球HD
-http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="CCTV",女性时尚HD
-http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="CCTV",卫生健康HD
-http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
-
 #EXTINF:-1 ,重温经典 HD
 http://172.31.203.136:8006/jscn/ChongWenJingDianHD.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV2HD
-http://172.31.203.136:8006/jscn/CCTV-2HD.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV3HD
-http://172.31.203.136:8006/jscn/CCTV-3HD.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV4HD
-http://172.31.203.136:8006/jscn/CCTV-4HD.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV6HD
-http://172.31.203.136:8006/jscn/CCTV-6HD.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV7HD
-http://172.31.203.136:8006/jscn/CCTV-7HD.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV8HD
-http://172.31.203.136:8006/jscn/CCTV-8HD.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV9HD
-http://172.31.203.136:8006/jscn/CCTV-9HD.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV10HD
-http://172.31.203.136:8006/jscn/CCTV-10HD.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV11HD
-http://172.31.203.136:8006/jscn/CCTV-11HD.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV12HD
-http://172.31.203.136:8006/jscn/CCTV-12HD.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV13HD
-http://172.31.203.136:8006/jscn/CCTV-13HD.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CGTN HD
-http://172.31.203.136:8006/jscn/CGTNHD.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV14HD
-http://172.31.203.136:8006/jscn/CCTV-14HD.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV15HD
-http://172.31.203.136:8006/jscn/CCTV-15HD.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV16HD
-http://172.31.203.136:8006/jscn/CCTV-16HD.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV17HD
-http://172.31.203.136:8006/jscn/CCTV-17HD.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV5+HD
-http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="广电市县" tvg-logo=" " group-title="CCTV",CCTV5HD
-http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="4K",CCTV16 4K
-http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="4K",北京卫视4K
-http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="4K",广东卫视4K
-http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="4K",深圳卫视4K
-http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="4K",江苏卫视4K
-http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="CCTV",凤凰中文
-http://172.31.203.136:8006/jscn/FengHuangZhongWen.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="CCTV",凤凰资讯
-http://172.31.203.136:8006/jscn/FengHuangZiXun.m3u8
+
 #EXTINF:-1 ,东方财经 HD
 http://172.31.203.136:8006/jscn/DongFangCaiJingHD.m3u8
 #EXTINF:-1 ,中国天气 HD
