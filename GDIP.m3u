@@ -537,37 +537,37 @@ http://172.31.203.136:8006/jscn/HongZe1.m3u8
 http://172.31.203.136:8006/jscn/QiXia1.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",栖霞2
 http://172.31.203.136:8006/jscn/QiXia2.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",上海都市东方财经 HD
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="数字频道-IP",东方财经 HD
 http://172.31.203.136:8006/jscn/DongFangCaiJingHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中国天气 HD
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" group-title="数字频道-IP",中国天气 HD
 http://172.31.203.136:8006/jscn/ZhongGuoTianQiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",生活时尚 HD
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="数字频道-IP",生活时尚 HD
 http://172.31.203.136:8006/jscn/ShengHuoShiShangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",法治天地 HD
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="数字频道-IP",法治天地 HD
 http://172.31.203.136:8006/jscn/FaZhiTianDiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",金色学堂 HD
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="数字频道-IP",金色学堂 HD
 http://172.31.203.136:8006/jscn/JinSePinDaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",欢笑剧场 HD
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="数字频道-IP",欢笑剧场 HD
 http://172.31.203.136:8006/jscn/HuanXiaoJuChangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",乐游 HD
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="数字频道-IP",乐游 HD
 http://172.31.203.136:8006/jscn/QuanJiShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",劲爆体育 HD
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jbty.png" group-title="数字频道-IP",劲爆体育 HD
 http://172.31.203.136:8006/jscn/JinBaoTiYuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",新视觉 HD
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="数字频道-IP",新视觉 HD
 http://172.31.203.136:8006/jscn/XinShiJueHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",都市剧场 HD
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="数字频道-IP",都市剧场 HD
 http://172.31.203.136:8006/jscn/DuShiJuChangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",游戏风云 HD
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo=" " group-title="数字频道-IP",游戏风云 HD
 http://172.31.203.136:8006/jscn/YouXiFengYunHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",动漫秀场 HD
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo=" " group-title="数字频道-IP",动漫秀场 HD
 http://172.31.203.136:8006/jscn/DongManXiuChangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",快乐垂钓 HD
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="数字频道-IP",快乐垂钓 HD
 http://172.31.203.136:8006/jscn/KuaiLeChuiDiaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",茶频道 HD
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="数字频道-IP",茶频道 HD
 http://172.31.203.136:8006/jscn/ChaPinDaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",求索纪录 HD
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" group-title="数字频道-IP",求索纪录 HD
 http://172.31.203.136:8006/jscn/QiuSuoJiLuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",精彩影视 HD
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jcys.png" group-title="数字频道-IP",精彩影视 HD
 http://172.31.203.136:8006/jscn/JingCaiYingShiHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",梨园频道 HD
 http://172.31.203.136:8006/jscn/LiYuanPinDaoHD.m3u8
