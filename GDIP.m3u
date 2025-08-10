@@ -1,624 +1,624 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_HK.xml"
 #EXTM3U url-tvg="https://iptv.crestekk.cn/epgphp/t.xml"
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="4K",CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="4K-IP",CCTV4K
 http://172.31.203.136:8006/jscn/CCTV-4K.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="4K",CCTV16 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="4K-IP",CCTV16 4K
 http://172.31.203.136:8006/jscn/CCTV-16-4K.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="4K",北京卫视 4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="4K-IP",北京卫视 4K
 http://172.31.203.136:8006/jscn/BeiJingTV-4K.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="4K",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="4K-IP",广东卫视4K
 http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="4K",深圳卫视 4K
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="4K-IP",深圳卫视 4K
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="4K",江苏卫视 4K
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="4K-IP",江苏卫视 4K
 http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV",CCTV1 HD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV-IP",CCTV1 HD
 http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV",CCTV2 HD
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV-IP",CCTV2 HD
 http://172.31.203.136:8006/jscn/CCTV-2HD.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="CCTV",CCTV3 HD
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" group-title="CCTV-IP",CCTV3 HD
 http://172.31.203.136:8006/jscn/CCTV-3HD.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="CCTV",CCTV4 HD
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" group-title="CCTV-IP",CCTV4 HD
 http://172.31.203.136:8006/jscn/CCTV-4HD.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="CCTV",CCTV5 HD
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" group-title="CCTV-IP",CCTV5 HD
 http://172.31.203.136:8006/jscn/CCTV-5HD.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="CCTV",CCTV5+ HD
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" group-title="CCTV-IP",CCTV5+ HD
 http://172.31.203.136:8006/jscn/CCTV-5PLUSHD.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="CCTV",CCTV6 HD
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" group-title="CCTV-IP",CCTV6 HD
 http://172.31.203.136:8006/jscn/CCTV-6HD.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV",CCTV7 HD
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" group-title="CCTV-IP",CCTV7 HD
 http://172.31.203.136:8006/jscn/CCTV-7HD.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV",CCTV8 HD
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" group-title="CCTV-IP",CCTV8 HD
 http://172.31.203.136:8006/jscn/CCTV-8HD.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV",CCTV9 HD
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" group-title="CCTV-IP",CCTV9 HD
 http://172.31.203.136:8006/jscn/CCTV-9HD.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV",CCTV10 HD
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" group-title="CCTV-IP",CCTV10 HD
 http://172.31.203.136:8006/jscn/CCTV-10HD.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV",CCTV11 HD
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" group-title="CCTV-IP",CCTV11 HD
 http://172.31.203.136:8006/jscn/CCTV-11HD.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV",CCTV12 HD
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" group-title="CCTV-IP",CCTV12 HD
 http://172.31.203.136:8006/jscn/CCTV-12HD.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CCTV13 HD
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV-IP",CCTV13 HD
 http://172.31.203.136:8006/jscn/CCTV-13HD.m3u8
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="CCTV",凤凰中文台 HD
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="CCTV-IP",凤凰中文台 HD
 http://172.31.203.136:8006/jscn/JSCNTest-4.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="CCTV",凤凰资讯台 HD
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="CCTV-IP",凤凰资讯台 HD
 http://172.31.203.136:8006/jscn/JSCNTest-5.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV",CGTN HD
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" group-title="CCTV-IP",CGTN HD
 http://172.31.203.136:8006/jscn/CGTNHD.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV",CCTV14 HD
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" group-title="CCTV-IP",CCTV14 HD
 http://172.31.203.136:8006/jscn/CCTV-14HD.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV",CCTV15 HD
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="CCTV-IP",CCTV15 HD
 http://172.31.203.136:8006/jscn/CCTV-15HD.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="CCTV",CCTV16 HD
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="CCTV-IP",CCTV16 HD
 http://172.31.203.136:8006/jscn/CCTV-16HD.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV",CCTV17 HD
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV-IP",CCTV17 HD
 http://172.31.203.136:8006/jscn/CCTV-17HD.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC影迷电影 HD
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV-IP",CHC影迷电影 HD
 http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC动作电影 HD
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV-IP",CHC动作电影 HD
 http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",CHC家庭影院 HD
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV-IP",CHC家庭影院 HD
 http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV",风云足球 HD
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV-IP",风云足球 HD
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8 
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV",央视台球 HD
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV-IP",央视台球 HD
 http://172.31.203.136:8006/jscn/YangShiTaiQiuHD.m3u8
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV",高尔夫网球 HD
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV-IP",高尔夫网球 HD
 http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="CCTV",电视指南 HD
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="CCTV-IP",电视指南 HD
 http://172.31.203.136:8006/jscn/DianShiZhiNanHD.m3u8
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="CCTV",风云剧场 HD
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="CCTV-IP",风云剧场 HD
 http://172.31.203.136:8006/jscn/FengYunJuChangHD.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="CCTV",第一剧场 HD
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="CCTV-IP",第一剧场 HD
 http://172.31.203.136:8006/jscn/DiYiJuChangHD.m3u8
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="CCTV",怀旧剧场 HD
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="CCTV-IP",怀旧剧场 HD
 http://172.31.203.136:8006/jscn/HuaiJiuJuChangHD.m3u8
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="CCTV",风云音乐 HD
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="CCTV-IP",风云音乐 HD
 http://172.31.203.136:8006/jscn/FengYunYinYueHD.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="CCTV",兵器科技 HD
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="CCTV-IP",兵器科技 HD
 http://172.31.203.136:8006/jscn/BingQiKeJiHD.m3u8
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="CCTV",世界地理 HD
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="CCTV-IP",世界地理 HD
 http://172.31.203.136:8006/jscn/ShiJieDiLiHD.m3u8
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="CCTV",央视文化精品 HD
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="CCTV-IP",央视文化精品 HD
 http://172.31.203.136:8006/jscn/YangShiJingPinHD.m3u8
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="CCTV",女性时尚 HD
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="CCTV-IP",女性时尚 HD
 http://172.31.203.136:8006/jscn/NvXingShiShangHD.m3u8
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="CCTV",卫生健康 HD
+#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVwsjk.png" group-title="CCTV-IP",卫生健康 HD
 http://172.31.203.136:8006/jscn/WeiShengJianKangHD.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏卫视 HD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏卫视 HD
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏体育·休闲 HD
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏体育·休闲 HD
 http://172.31.203.136:8006/jscn/JiangSuTiYuHD.m3u8
-#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏新闻 HD
+#EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏新闻 HD
 http://172.31.203.136:8006/jscn/JiangSuXinWenHD.m3u8
-#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏城市 HD
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏城市 HD
 http://172.31.203.136:8006/jscn/JiangSuChengShiHD.m3u8
-#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏教育
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏教育
 http://172.31.203.136:8006/jscn/JiangSuJiaoYu.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",优漫卡通
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",优漫卡通
 http://172.31.203.136:8006/jscn/YouManKaTong.m3u8
-#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏影视
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏影视
 http://172.31.203.136:8006/jscn/JiangSuYingShi.m3u8
-#EXTINF:-1 tvg-id="江苏综艺" tvg-name=江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏市县",江苏综艺 HD
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name=江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="江苏省市-IP",江苏综艺 HD
 http://172.31.203.136:8006/jscn/JiangSuZongYiHD.m3u8
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京新闻综合 HD
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京新闻综合 HD
 http://172.31.203.136:8006/jscn/NanJingXinWenHD.m3u8
-#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京文旅纪录 HD
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京文旅纪录 HD
 http://172.31.203.136:8006/jscn/WenLvJiLuHD.m3u8
-#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏市县",苏州新闻综合 HD
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏省市-IP",苏州新闻综合 HD
 http://172.31.203.136:8006/jscn/SuZhouXinWenHD.m3u8
-#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏市县",苏州社会经济 HD
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-name="南京文旅纪录" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏省市-IP",苏州社会经济 HD
 http://172.31.203.136:8006/jscn/SuZhouSheHuiHD.m3u8
-#EXTINF:-1 tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏市县",苏州文化生活 HD
+#EXTINF:-1 tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏省市-IP",苏州文化生活 HD
 http://172.31.203.136:8006/jscn/SuZhouWenHuaHD.m3u8
-#EXTINF:-1 tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏市县",苏州电影娱乐 HD
+#EXTINF:-1 tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏省市-IP",苏州电影娱乐 HD
 http://172.31.203.136:8006/jscn/SuZhouDianYingHD.m3u8
-#EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏市县",苏州生活资讯 HD
+#EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏省市-IP",苏州生活资讯 HD
 http://172.31.203.136:8006/jscn/SuZhouShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏市县",盐城新闻综合 HD
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城新闻综合 HD
 http://172.31.203.136:8006/jscn/YanChengXinWenHD.m3u8
-#EXTINF:-1 tvg-id="盐城二套" tvg-name="盐城二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏市县",盐城二套
+#EXTINF:-1 tvg-id="盐城二套" tvg-name="盐城二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城二套
 http://172.31.203.136:8006/jscn/YanCheng2.m3u8
-#EXTINF:-1 tvg-id="盐城三套" tvg-name="盐城三套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏市县",盐城三套
+#EXTINF:-1 tvg-id="盐城三套" tvg-name="盐城三套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城三套
 http://172.31.203.136:8006/jscn/YanCheng3.m3u8
-#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏市县",无锡新闻综合 HD
+#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡新闻综合 HD
 http://172.31.203.136:8006/jscn/WuXiXinWenHD.m3u8
-#EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏市县",无锡都市资讯 HD
+#EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡都市资讯 HD
 http://172.31.203.136:8006/jscn/WuXiDuShiHD.m3u8
-#EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏市县",无锡娱乐 HD
+#EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡娱乐 HD
 http://172.31.203.136:8006/jscn/WuXiYuLeHD.m3u8
-#EXTINF:-1 tvg-id="无锡影视" tvg-name="无锡影视" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏市县",无锡影视 HD
+#EXTINF:-1 tvg-id="无锡影视" tvg-name="无锡影视" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡影视 HD
 http://172.31.203.136:8006/jscn/WuXiYingShiHD.m3u8
-#EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏市县",无锡生活 HD
+#EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡生活 HD
 http://172.31.203.136:8006/jscn/WuXiShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏市县",无锡经济 HD
+#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡经济 HD
 http://172.31.203.136:8006/jscn/WuXiJingJiHD.m3u8
-#EXTINF:-1 tvg-id="无锡教育" tvg-name="无锡教育" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1032777231&size=240&m=133964213262030000&x=OuNu5YaKYqxYxm1wKAfykIKLB231wRXB" group-title="江苏市县",无锡教育 HD
+#EXTINF:-1 tvg-id="无锡教育" tvg-name="无锡教育" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1032777231&size=240&m=133964213262030000&x=OuNu5YaKYqxYxm1wKAfykIKLB231wRXB" group-title="江苏省市-IP",无锡教育 HD
 http://172.31.203.136:8006/jscn/WuXiJiaoYuHD.m3u8
-#EXTINF:-1 tvg-id="常州新闻综合" tvg-name="常州新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏市县",常州新闻综合 HD
+#EXTINF:-1 tvg-id="常州新闻综合" tvg-name="常州新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏省市-IP",常州新闻综合 HD
 http://172.31.203.136:8006/jscn/ChangZhouXinWenHD.m3u8
-#EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏市县",常州生活 HD
+#EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏省市-IP",常州生活 HD
 http://172.31.203.136:8006/jscn/ChangZhouShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏市县",徐州新闻 HD
+#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州新闻 HD
 http://172.31.203.136:8006/jscn/XuZhouXinWenHD.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏市县",徐州文艺
+#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州文艺
 http://172.31.203.136:8006/jscn/XuZhouWenYi.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏市县",徐州经济
+#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州经济
 http://172.31.203.136:8006/jscn/XuZhouJingJi.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏市县",徐州公共
+#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州公共
 http://172.31.203.136:8006/jscn/XuZhouGongGong.m3u8
-#EXTINF:-1 tvg-id="连云港新闻" tvg-name="连云港新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏市县",连云港新闻 HD
+#EXTINF:-1 tvg-id="连云港新闻" tvg-name="连云港新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港新闻 HD
 http://172.31.203.136:8006/jscn/LianYunGangZongHeHD.m3u8
-#EXTINF:-1 tvg-id="连云港生活" tvg-name="连云港生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏市县",连云港生活 HD
+#EXTINF:-1 tvg-id="连云港生活" tvg-name="连云港生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港生活 HD
 http://172.31.203.136:8006/jscn/LianYunGangGongGongHD.m3u8
-#EXTINF:-1 tvg-id="淮安综合" tvg-name="淮安综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏市县",淮安综合 HD
+#EXTINF:-1 tvg-id="淮安综合" tvg-name="淮安综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安综合 HD
 http://172.31.203.136:8006/jscn/HuaiAnXinWenHD.m3u8
-#EXTINF:-1 tvg-id="淮安影视" tvg-name="淮安影视" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏市县",淮安影视 HD
+#EXTINF:-1 tvg-id="淮安影视" tvg-name="淮安影视" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安影视 HD
 http://172.31.203.136:8006/jscn/HuaiAnYingShiHD.m3u8
-#EXTINF:-1 tvg-id="淮安公共" tvg-name="淮安公共" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏市县",淮安公共 HD
+#EXTINF:-1 tvg-id="淮安公共" tvg-name="淮安公共" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安公共 HD
 http://172.31.203.136:8006/jscn/HuaiAnGongGongHD.m3u8
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏市县",南通新闻综合 HD
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通新闻综合 HD
 http://172.31.203.136:8006/jscn/NanTong1HD.m3u8
-#EXTINF:-1 tvg-id="南通-2" tvg-name="南通-2" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏市县",南通-2 HD
+#EXTINF:-1 tvg-id="南通-2" tvg-name="南通-2" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通-2 HD
 http://172.31.203.136:8006/jscn/NanTong2HD.m3u8
-#EXTINF:-1 tvg-id="南通公共崇" tvg-name="南通公共崇" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏市县",南通公共崇川 HD
+#EXTINF:-1 tvg-id="南通公共崇" tvg-name="南通公共崇" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通公共崇川 HD
 http://172.31.203.136:8006/jscn/NanTong3HD.m3u8
-#EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏市县",扬州新闻 HD
+#EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏省市-IP",扬州新闻 HD
 http://172.31.203.136:8006/jscn/YangZhouXinWenHD.m3u8
-#EXTINF:-1 tvg-id="扬州2" tvg-name="扬州2" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏市县",扬州2 HD
+#EXTINF:-1 tvg-id="扬州2" tvg-name="扬州2" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏省市-IP",扬州2 HD
 http://172.31.203.136:8006/jscn/YangZhou2HD.m3u8
-#EXTINF:-1 tvg-id="扬州3" tvg-name="扬州3" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏市县",扬州3 HD
+#EXTINF:-1 tvg-id="扬州3" tvg-name="扬州3" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏省市-IP",扬州3 HD
 http://172.31.203.136:8006/jscn/YangZhou3HD.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏市县",镇江新闻综合 HD
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江新闻综合 HD
 http://172.31.203.136:8006/jscn/ZhenJiangXinWenHD.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏市县",镇江电视台二套
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江电视台二套
 http://172.31.203.136:8006/jscn/ZhenJiangMinShengHD.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏市县",镇江电视台三套
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江电视台三套
 http://172.31.203.136:8006/jscn/ZhenJiangChengShiHD.m3u8
-#EXTINF:-1 tvg-id="泰州一套" tvg-name="泰州一套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏市县",泰州一套 HD
+#EXTINF:-1 tvg-id="泰州一套" tvg-name="泰州一套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州一套 HD
 http://172.31.203.136:8006/jscn/TaiZhou1HD.m3u8
-#EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏市县",泰州二套 HD
+#EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州二套 HD
 http://172.31.203.136:8006/jscn/TaiZhou2HD.m3u8
-#EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏市县",泰州三套 HD
+#EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州三套 HD
 http://172.31.203.136:8006/jscn/TaiZhou3HD.m3u8
-#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏市县",宿迁新闻综合 HD
+#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏省市-IP",宿迁新闻综合 HD
 http://172.31.203.136:8006/jscn/SuQianZongHeHD.m3u8
-#EXTINF:-1 tvg-id="宿迁公共" tvg-name="宿迁公共" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏市县",宿迁公共 HD
+#EXTINF:-1 tvg-id="宿迁公共" tvg-name="宿迁公共" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏省市-IP",宿迁公共 HD
 http://172.31.203.136:8006/jscn/SuQianGongGongHD.m3u8
-#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京影视
+#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京影视
 http://172.31.203.136:8006/jscn/NanJingYingShi.m3u8
-#EXTINF:-1 tvg-id="南京科教" tvg-name="南京科教" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京科教
+#EXTINF:-1 tvg-id="南京科教" tvg-name="南京科教" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京科教
 http://172.31.203.136:8006/jscn/NanJingJiaoKe.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京少儿
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京少儿
 http://172.31.203.136:8006/jscn/NanJingShaoEr.m3u8
-#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京十八•生活
+#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京十八•生活
 http://172.31.203.136:8006/jscn/ShiBaShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏市县",南京十八•生活
+#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京十八•生活
 http://172.31.203.136:8006/jscn/ShiBaShengHuo.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视频道",东方卫视 HD
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视频道-IP",东方卫视 HD
 http://172.31.203.136:8006/jscn/DongFangTVHD.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视频道",江苏卫视HD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视频道-IP",江苏卫视HD
 http://172.31.203.136:8006/jscn/JiangSuTVHD.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视频道",湖南卫视 HD
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视频道-IP",湖南卫视 HD
 http://172.31.203.136:8006/jscn/HuNanTVHD.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视频道",浙江卫视 HD
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视频道-IP",浙江卫视 HD
 http://172.31.203.136:8006/jscn/ZheJiangTVHD.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视频道",北京卫视 HD
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视频道-IP",北京卫视 HD
 http://172.31.203.136:8006/jscn/BeiJingTVHD.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="卫视频道",重庆卫视 HD
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="卫视频道-IP",重庆卫视 HD
 http://172.31.203.136:8006/jscn/ChongQingTVHD.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="卫视频道-IP",天津卫视
 http://172.31.203.136:8006/jscn/TianJinTV.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视频道",深圳卫视 HD
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视频道-IP",深圳卫视 HD
 http://172.31.203.136:8006/jscn/ShenZhenTVHD.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视频道",安徽卫视 HD
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视频道-IP",安徽卫视 HD
 http://172.31.203.136:8006/jscn/AnhuiTVHD.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视频道",山东卫视 HD
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视频道-IP",山东卫视 HD
 http://172.31.203.136:8006/jscn/ShanDongTVHD.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="卫视频道",河南卫视 HD
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="卫视频道-IP",河南卫视 HD
 http://172.31.203.136:8006/jscn/HeNanTVHD.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视频道",河北卫视 HD
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视频道-IP",河北卫视 HD
 http://172.31.203.136:8006/jscn/HeBeiTVHD.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视频道",广东卫视 HD
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视频道-IP",广东卫视 HD
 http://172.31.203.136:8006/jscn/GuangDongTVHD.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视频道",东南卫视 HD
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视频道-IP",东南卫视 HD
 http://172.31.203.136:8006/jscn/DongNanTVHD.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视频道",江西卫视 HD
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视频道-IP",江西卫视 HD
 http://172.31.203.136:8006/jscn/JiangXiTVHD.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视频道",湖北卫视 HD
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视频道-IP",湖北卫视 HD
 http://172.31.203.136:8006/jscn/HuBeiTVHD.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视频道",四川卫视 HD
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视频道-IP",四川卫视 HD
 http://172.31.203.136:8006/jscn/SiChuanTVHD.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视频道",贵州卫视 HD
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视频道-IP",贵州卫视 HD
 http://172.31.203.136:8006/jscn/GuiZhouTVHD.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" group-title="卫视频道",云南卫视HD
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" group-title="卫视频道-IP",云南卫视HD
 http://172.31.203.136:8006/jscn/YunNanTVHD.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="卫视频道",广西卫视HD
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="卫视频道-IP",广西卫视HD
 http://172.31.203.136:8006/jscn/GuangXiTVHD.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="卫视频道",海南卫视HD
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="卫视频道-IP",海南卫视HD
 http://172.31.203.136:8006/jscn/HaiNanTVHD.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="卫视频道",三沙卫视HD
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="卫视频道-IP",三沙卫视HD
 http://172.31.203.136:8006/jscn/SanShaTVHD.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="卫视频道",辽宁卫视 HD
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="卫视频道-IP",辽宁卫视 HD
 http://172.31.203.136:8006/jscn/LiaoNingTVHD.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="卫视频道",吉林卫视 HD
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="卫视频道-IP",吉林卫视 HD
 http://172.31.203.136:8006/jscn/JiLinTVHD.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="卫视频道",黑龙江卫视 HD
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="卫视频道-IP",黑龙江卫视 HD
 http://172.31.203.136:8006/jscn/HeiLongJiangTVHD.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="卫视频道-IP",内蒙古卫视
 http://172.31.203.136:8006/jscn/NeiMengGuTV.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" group-title="卫视频道",山西卫视HD
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" group-title="卫视频道-IP",山西卫视HD
 http://172.31.203.136:8006/jscn/Shan1XiTV.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视频道",陕西卫视HD
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视频道-IP",陕西卫视HD
 http://172.31.203.136:8006/jscn/ShanXiTVHD.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视频道",甘肃卫视 HD
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视频道-IP",甘肃卫视 HD
 http://172.31.203.136:8006/jscn/GanSuTVHD.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="卫视频道",宁夏卫视 HD
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="卫视频道-IP",宁夏卫视 HD
 http://172.31.203.136:8006/jscn/NingXiaTVHD.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="卫视频道",青海卫视HD
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="卫视频道-IP",青海卫视HD
 http://172.31.203.136:8006/jscn/QingHaiTVHD.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" group-title="卫视频道",新疆卫视 HD
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" group-title="卫视频道-IP",新疆卫视 HD
 http://172.31.203.136:8006/jscn/XinJiangTVHD.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视频道",西藏卫视 HD
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视频道-IP",西藏卫视 HD
 http://172.31.203.136:8006/jscn/XiZangTVHD.m3u8
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="卫视频道",兵团卫视 HD
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="卫视频道-IP",兵团卫视 HD
 http://172.31.203.136:8006/jscn/BingTuanTVHD.m3u8
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing5.png" group-title="卫视频道",北京纪实科教 HD
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing5.png" group-title="卫视频道-IP",北京纪实科教 HD
 http://172.31.203.136:8006/jscn/DongAoJiShiHD.m3u8
-#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandongjy.png" group-title="卫视频道",山东教育卫视 HD
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandongjy.png" group-title="卫视频道-IP",山东教育卫视 HD
 http://172.31.203.136:8006/jscn/ShanDongJiaoYuTVHD.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" group-title="卫视频道",金鹰卡通 HD
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" group-title="卫视频道-IP",金鹰卡通 HD
 http://172.31.203.136:8006/jscn/JinYingKaTongHD.m3u8
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="卫视频道",卡酷少儿 HD
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="卫视频道-IP",卡酷少儿 HD
 http://172.31.203.136:8006/jscn/KaKuShaoErHD.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="卫视频道",重温经典 HD
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="卫视频道-IP",重温经典 HD
 http://172.31.203.136:8006/jscn/ChongWenJingDianHD.m3u8
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="卫视频道",CETV-1 HD
+#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="卫视频道-IP",CETV-1 HD
 http://172.31.203.136:8006/jscn/CETV-1HD.m3u8
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png" group-title="卫视频道-IP",CETV-2
 http://172.31.203.136:8006/jscn/CETV-2.m3u8
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png" group-title="卫视频道-IP",CETV-4
 http://172.31.203.136:8006/jscn/CETV-4.m3u8
-#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县",江阴新闻 HD
+#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县-IP",江阴新闻 HD
 http://172.31.203.136:8006/jscn/JiangYinXinWenHD.m3u8
-#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县",江阴民生
+#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县-IP",江阴民生
 http://172.31.203.136:8006/jscn/JiangYinMinSheng.m3u8
-#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县",江阴经济
+#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县-IP",江阴经济
 http://172.31.203.136:8006/jscn/JiangYinJingJi.m3u8
-#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县",江阴电视剧
+#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县-IP",江阴电视剧
 http://172.31.203.136:8006/jscn/JiangYinDianShiJu.m3u8
-#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县",江阴城市
+#EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县-IP",江阴城市
 http://172.31.203.136:8006/jscn/JiangYinChengShi.m3u8
-#EXTINF:-1 tvg-id="宜兴新闻" tvg-name="宜兴新闻" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113687&size=240&m=133986876093942279&x=38jaGWevLnf476SvMsl2u0maofgcPsTE" group-title="江苏区县",宜兴新闻 HD
+#EXTINF:-1 tvg-id="宜兴新闻" tvg-name="宜兴新闻" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113687&size=240&m=133986876093942279&x=38jaGWevLnf476SvMsl2u0maofgcPsTE" group-title="江苏区县-IP",宜兴新闻 HD
 http://172.31.203.136:8006/jscn/YiXingXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县",昆山综合 HD
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县-IP",昆山综合 HD
 http://172.31.203.136:8006/jscn/KunShanXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县",昆山社会生活 HD
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县-IP",昆山社会生活 HD
 http://172.31.203.136:8006/jscn/KunShanSheHuiHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县",昆山电视剧 HD
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县-IP",昆山电视剧 HD
 http://172.31.203.136:8006/jscn/KunShanDianShiJuHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县",昆山电影 HD
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" group-title="江苏区县-IP",昆山电影 HD
 http://172.31.203.136:8006/jscn/KunShanDianYingHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="江苏区县",太仓新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="江苏区县-IP",太仓新闻 HD
 http://172.31.203.136:8006/jscn/TaiCangXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="江苏区县",太仓娄东民生 HD
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1039644161&size=240&m=133984843597800000&x=8bonMLz5Y5fvbirOtmT3Cx9A2ZwQNi0e" group-title="江苏区县-IP",太仓娄东民生 HD
 http://172.31.203.136:8006/jscn/LouDongMinShengHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县",常熟新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县-IP",常熟新闻 HD
 http://172.31.203.136:8006/jscn/ChangShuXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县",常熟民生经济
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县-IP",常熟民生经济
 http://172.31.203.136:8006/jscn/ChangShuMinSheng.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县",常熟城镇财经
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县-IP",常熟城镇财经
 http://172.31.203.136:8006/jscn/ChangShuChengZhen.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县",常熟影视娱乐
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113591&size=240&m=133986856816731040&x=Hen3MKz1De8YJ1brQsoDV4tF4uojNCVx" group-title="江苏区县-IP",常熟影视娱乐
 http://172.31.203.136:8006/jscn/ChangShuYingShi.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113592&size=240&m=133986856824608276&x=U30NrxVrFQUB3gg1k8bGns35dcYXcNCA" group-title="江苏区县",张家港新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113592&size=240&m=133986856824608276&x=U30NrxVrFQUB3gg1k8bGns35dcYXcNCA" group-title="江苏区县-IP",张家港新闻 HD
 http://172.31.203.136:8006/jscn/ZhangJiaGangXinWenHD.m3u8
-#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113898&size=240&m=133986896433853277&x=PyPmRrx4MZS8E769lf6fZBWwOhehf8am" group-title="江苏区县",吴江新闻 HD
+#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113898&size=240&m=133986896433853277&x=PyPmRrx4MZS8E769lf6fZBWwOhehf8am" group-title="江苏区县-IP",吴江新闻 HD
 http://172.31.203.136:8006/jscn/WuJiangXinWenHD.m3u8
-#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113898&size=240&m=133986896433853277&x=PyPmRrx4MZS8E769lf6fZBWwOhehf8am" group-title="江苏区县",吴江社会生活
+#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113898&size=240&m=133986896433853277&x=PyPmRrx4MZS8E769lf6fZBWwOhehf8am" group-title="江苏区县-IP",吴江社会生活
 http://172.31.203.136:8006/jscn/WuJiangSheHui.m3u8
-#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113898&size=240&m=133986896433853277&x=PyPmRrx4MZS8E769lf6fZBWwOhehf8am" group-title="江苏区县",吴江电视剧
+#EXTINF:-1 tvg-id="吴江新闻" tvg-name="吴江新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113898&size=240&m=133986896433853277&x=PyPmRrx4MZS8E769lf6fZBWwOhehf8am" group-title="江苏区县-IP",吴江电视剧
 http://172.31.203.136:8006/jscn/WuJiangDianShiJu.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113900&size=240&m=133986896599756047&x=Vly0c81uQqE1shp4euYCoq7TDvEpEexG" group-title="江苏区县",武进新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113900&size=240&m=133986896599756047&x=Vly0c81uQqE1shp4euYCoq7TDvEpEexG" group-title="江苏区县-IP",武进新闻 HD
 http://172.31.203.136:8006/jscn/WuJinXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113900&size=240&m=133986896599756047&x=Vly0c81uQqE1shp4euYCoq7TDvEpEexG" group-title="江苏区县",武进生活 HD
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113900&size=240&m=133986896599756047&x=Vly0c81uQqE1shp4euYCoq7TDvEpEexG" group-title="江苏区县-IP",武进生活 HD
 http://172.31.203.136:8006/jscn/WuJinShengHuoHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113900&size=240&m=133986896599756047&x=Vly0c81uQqE1shp4euYCoq7TDvEpEexG" group-title="江苏区县",武进影视 HD
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113900&size=240&m=133986896599756047&x=Vly0c81uQqE1shp4euYCoq7TDvEpEexG" group-title="江苏区县-IP",武进影视 HD
 http://172.31.203.136:8006/jscn/WuJinYingShiHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",江宁新闻综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",江宁新闻综合 HD
 http://172.31.203.136:8006/jscn/JiangNingXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",江宁生活 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",江宁生活 HD
 http://172.31.203.136:8006/jscn/JiangNingShengHuoHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113627&size=240&m=133986869041951652&x=ESXsZOSqO6HVjRFmSK8OyZtH0nJYrvc3" group-title="江苏区县",溧水新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113627&size=240&m=133986869041951652&x=ESXsZOSqO6HVjRFmSK8OyZtH0nJYrvc3" group-title="江苏区县-IP",溧水新闻 HD
 http://172.31.203.136:8006/jscn/LiShuiXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高淳新闻 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高淳新闻 HD
 http://172.31.203.136:8006/jscn/GaoChunXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高淳生活资讯
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高淳生活资讯
 http://172.31.203.136:8006/jscn/GaoChunShengHuo.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113622&size=1024&m=133986867603170000&x=q2KKimSgzaYN3EvDbNzWy6YXFKnLqBi8" group-title="江苏区县",浦口新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113622&size=1024&m=133986867603170000&x=q2KKimSgzaYN3EvDbNzWy6YXFKnLqBi8" group-title="江苏区县-IP",浦口新闻 HD
 http://172.31.203.136:8006/jscn/PuKouXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113622&size=1024&m=133986867603170000&x=q2KKimSgzaYN3EvDbNzWy6YXFKnLqBi8" group-title="江苏区县",浦口影视 HD
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113622&size=1024&m=133986867603170000&x=q2KKimSgzaYN3EvDbNzWy6YXFKnLqBi8" group-title="江苏区县-IP",浦口影视 HD
 http://172.31.203.136:8006/jscn/PuKouYingShiHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113621&size=240&m=133986867600395203&x=mie71sE5Mk5oaAtqXMDn1spjWrB4Uwl6" group-title="江苏区县",六合新闻 HD
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113621&size=240&m=133986867600395203&x=mie71sE5Mk5oaAtqXMDn1spjWrB4Uwl6" group-title="江苏区县-IP",六合新闻 HD
 http://172.31.203.136:8006/jscn/LiuHeXinWenHD.m3u8
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113621&size=240&m=133986867600395203&x=mie71sE5Mk5oaAtqXMDn1spjWrB4Uwl6" group-title="江苏区县",六合影视生活 HD
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113621&size=240&m=133986867600395203&x=mie71sE5Mk5oaAtqXMDn1spjWrB4Uwl6" group-title="江苏区县-IP",六合影视生活 HD
 http://172.31.203.136:8006/jscn/LiuHeYingShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",溧阳新闻
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",溧阳新闻
 http://172.31.203.136:8006/jscn/LiYangXinWen.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",溧阳生活资讯
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",溧阳生活资讯
 http://172.31.203.136:8006/jscn/LiYangShengHuo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",溧阳影视
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",溧阳影视
 http://172.31.203.136:8006/jscn/LiYangYingShi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",大丰1套 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",大丰1套 HD
 http://172.31.203.136:8006/jscn/DaFeng1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",大丰2套 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",大丰2套 HD
 http://172.31.203.136:8006/jscn/DaFeng2HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",盐都综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",盐都综合
 http://172.31.203.136:8006/jscn/YanDu1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",盐都生活
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",盐都生活
 http://172.31.203.136:8006/jscn/YanDuShengHuo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",盐都影视
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",盐都影视
 http://172.31.203.136:8006/jscn/YanDuYingShi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",东台一套 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",东台一套 HD
 http://172.31.203.136:8006/jscn/DongTai1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",东台二套 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",东台二套 HD
 http://172.31.203.136:8006/jscn/DongTai2HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",滨海新闻综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",滨海新闻综合 HD
 http://172.31.203.136:8006/jscn/BinHaiXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",滨海经济生活 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",滨海经济生活 HD
 http://172.31.203.136:8006/jscn/BinHaiJingJiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",句容综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",句容综合 HD
 http://172.31.203.136:8006/jscn/JuRongZongHeHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",句容生活 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",句容生活 HD
 http://172.31.203.136:8006/jscn/JuRongShengHuoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",丹阳新闻 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",丹阳新闻 HD
 http://172.31.203.136:8006/jscn/DanYangXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",丹阳生活
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",丹阳生活
 http://172.31.203.136:8006/jscn/DanYangShengHuo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",丹阳快乐
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",丹阳快乐
 http://172.31.203.136:8006/jscn/DanYangKuaiLe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",邗江 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",邗江 HD
 http://172.31.203.136:8006/jscn/YangZhouHanJiangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",江都HD(本区)
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",江都HD(本区)
 http://172.31.203.136:8006/jscn/JiangDuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",江都HD(全市)
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",江都HD(全市)
 http://172.31.203.136:8006/jscn/YangZhouJiangDuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",仪征新闻 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",仪征新闻 HD
 http://172.31.203.136:8006/jscn/YiZhengXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",仪征社会生活
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",仪征社会生活
 http://172.31.203.136:8006/jscn/YiZhengSheHui.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",仪征影视
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",仪征影视
 http://172.31.203.136:8006/jscn/YiZhengYingShi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",仪征综艺
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",仪征综艺
 http://172.31.203.136:8006/jscn/YiZhengZongYi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",宝应综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",宝应综合 HD
 http://172.31.203.136:8006/jscn/BaoYing1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",宝应二套 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",宝应二套 HD
 http://172.31.203.136:8006/jscn/BaoYing2HD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",高邮新闻 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",高邮新闻 HD
 http://172.31.203.136:8006/jscn/GaoYou1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮二套
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮二套
 http://172.31.203.136:8006/jscn/GaoYou2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮影院 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮影院 HD
 http://172.31.203.136:8006/jscn/GaoYouYingYuanHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮戏曲 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮戏曲 HD
 http://172.31.203.136:8006/jscn/GaoYouXiQuHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮生活综艺
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮生活综艺
 http://172.31.203.136:8006/jscn/GaoYouShengHuo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮金色
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮金色
 http://172.31.203.136:8006/jscn/GaoYouJinSe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮电视剧场
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮电视剧场
 http://172.31.203.136:8006/jscn/GaoYouDianShi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",高邮演艺剧场
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",高邮演艺剧场
 http://172.31.203.136:8006/jscn/GaoYouYanYi.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",靖江新闻 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",靖江新闻 HD
 http://172.31.203.136:8006/jscn/JingJiangXinWenHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",泰兴综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",泰兴综合 HD
 http://172.31.203.136:8006/jscn/TaiXingZongHeHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",兴化新闻综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",兴化新闻综合 HD
 http://172.31.203.136:8006/jscn/XingHua1HD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",兴化生活娱乐
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",兴化生活娱乐
 http://172.31.203.136:8006/jscn/XingHua2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",姜堰综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",姜堰综合 HD
 http://172.31.203.136:8006/jscn/JiangYan1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",姜堰二套
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",姜堰二套
 http://172.31.203.136:8006/jscn/JiangYan2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",姜堰三套
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",姜堰三套
 http://172.31.203.136:8006/jscn/JiangYan3.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",姜堰四套
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",姜堰四套
 http://172.31.203.136:8006/jscn/JiangYan4.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",启东新闻 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",启东新闻 HD
 http://172.31.203.136:8006/jscn/QiDongXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",启东社会生活 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",启东社会生活 HD
 http://172.31.203.136:8006/jscn/QiDongShengHuoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",海门综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",海门综合 HD
 http://172.31.203.136:8006/jscn/HaiMenXinWenHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",海安综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",海安综合 HD
 http://172.31.203.136:8006/jscn/HaiAnXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",海安生活频道
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",海安生活频道
 http://172.31.203.136:8006/jscn/HaiAnYingShi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",海安影视频道
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",海安影视频道
 http://172.31.203.136:8006/jscn/HaiAnShengHuo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",如皋综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",如皋综合 HD
 http://172.31.203.136:8006/jscn/RuGaoXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",如东综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",如东综合 HD
 http://172.31.203.136:8006/jscn/RuDong1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",通州新闻 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",通州新闻 HD
 http://172.31.203.136:8006/jscn/TongZhouXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",通州电视剧 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",通州电视剧 HD
 http://172.31.203.136:8006/jscn/TongZhouDianShiJuHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",通州社会生活
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",通州社会生活
 http://172.31.203.136:8006/jscn/TongZhouShengHuo.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",通州文化娱乐
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",通州文化娱乐
 http://172.31.203.136:8006/jscn/TongZhouYuLe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",新沂新闻综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",新沂新闻综合
 http://172.31.203.136:8006/jscn/XinYiXinWen.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",铜山综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山综合 HD
 http://172.31.203.136:8006/jscn/TongShan1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",铜山2
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山2
 http://172.31.203.136:8006/jscn/TongShan2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",铜山3
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山3
 http://172.31.203.136:8006/jscn/TongShan3.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",铜山4
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山4
 http://172.31.203.136:8006/jscn/TongShan4.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",邳州综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",邳州综合 HD
 http://172.31.203.136:8006/jscn/PiZhouZongHeHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",睢宁综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",睢宁综合 HD
 http://172.31.203.136:8006/jscn/SuiNingZongHeHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",睢宁三农
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",睢宁三农
 http://172.31.203.136:8006/jscn/SuiNingSanNong.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",睢宁资讯
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",睢宁资讯
 http://172.31.203.136:8006/jscn/SuiNingZiXun.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",丰县新闻 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",丰县新闻 HD
 http://172.31.203.136:8006/jscn/FengXianXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",沛县综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沛县综合 HD
 http://172.31.203.136:8006/jscn/PeiXianXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",沛县经济生活 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沛县经济生活 HD
 http://172.31.203.136:8006/jscn/PeiXianShengHuoHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",沛县文艺影视 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沛县文艺影视 HD
 http://172.31.203.136:8006/jscn/PeiXianWenYiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",建湖综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",建湖综合 HD
 http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",建湖二套
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",建湖二套
 http://172.31.203.136:8006/jscn/JianHu2.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",赣榆综合 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",赣榆综合 HD
 http://172.31.203.136:8006/jscn/GanYuZongHeHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",东海新闻 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",东海新闻 HD
 http://172.31.203.136:8006/jscn/DonGHaiZongHeHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",灌云综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",灌云综合 HD
 http://172.31.203.136:8006/jscn/GuanYunZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",灌南综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",灌南综合 HD
 http://172.31.203.136:8006/jscn/GuanNanZongHe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",响水综合
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",响水综合
 http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",丹徒综合
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",丹徒综合
 http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",扬中综合
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",扬中综合
 http://172.31.203.136:8006/jscn/YangZhongXinWen.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县",灌南综合
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",灌南综合
 http://172.31.203.136:8006/jscn/GuanNanZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",阜宁新闻
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁新闻
 http://172.31.203.136:8006/jscn/FuNing1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",阜宁二套
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁二套
 http://172.31.203.136:8006/jscn/FuNing2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",射阳新闻 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳新闻 HD
 http://172.31.203.136:8006/jscn/SheYangXinWen.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",射阳经济
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳经济
 http://172.31.203.136:8006/jscn/SheYangJingJi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",贾汪新闻综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",贾汪新闻综合
 http://172.31.203.136:8006/jscn/JiaWangXinWen.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",淮安区综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",淮安区综合
 http://172.31.203.136:8006/jscn/HuaiAnQuZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",涟水综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",涟水综合
 http://172.31.203.136:8006/jscn/LianShuiZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",盱眙综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",盱眙综合 HD
 http://172.31.203.136:8006/jscn/XuYiXinWenHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",金湖综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",金湖综合 HD
 http://172.31.203.136:8006/jscn/JinHu1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",宿豫综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",宿豫综合
 http://172.31.203.136:8006/jscn/SuYuXinWenZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",沭阳综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沭阳综合 HD
 http://172.31.203.136:8006/jscn/ShuYangZongHeHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",沭阳科教 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沭阳科教 HD
 http://172.31.203.136:8006/jscn/ShuYangKeJiaoHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",泗阳综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗阳综合 HD
 http://172.31.203.136:8006/jscn/SiYangZongHeHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",泗阳资讯 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗阳资讯 HD
 http://172.31.203.136:8006/jscn/SiYangZiXunHD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",泗洪综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗洪综合
 http://172.31.203.136:8006/jscn/SiHongZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",泗洪经济
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗洪经济
 http://172.31.203.136:8006/jscn/SiHongJingJi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",洪泽综合
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",洪泽综合
 http://172.31.203.136:8006/jscn/HongZe1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",栖霞1
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",栖霞1
 http://172.31.203.136:8006/jscn/QiXia1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县",栖霞2
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",栖霞2
 http://172.31.203.136:8006/jscn/QiXia2.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",上海都市东方财经 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",上海都市东方财经 HD
 http://172.31.203.136:8006/jscn/DongFangCaiJingHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",中国天气 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中国天气 HD
 http://172.31.203.136:8006/jscn/ZhongGuoTianQiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",生活时尚 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",生活时尚 HD
 http://172.31.203.136:8006/jscn/ShengHuoShiShangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",法治天地 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",法治天地 HD
 http://172.31.203.136:8006/jscn/FaZhiTianDiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",金色学堂 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",金色学堂 HD
 http://172.31.203.136:8006/jscn/JinSePinDaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",欢笑剧场 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",欢笑剧场 HD
 http://172.31.203.136:8006/jscn/HuanXiaoJuChangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",乐游 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",乐游 HD
 http://172.31.203.136:8006/jscn/QuanJiShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",劲爆体育 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",劲爆体育 HD
 http://172.31.203.136:8006/jscn/JinBaoTiYuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",新视觉 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",新视觉 HD
 http://172.31.203.136:8006/jscn/XinShiJueHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",都市剧场 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",都市剧场 HD
 http://172.31.203.136:8006/jscn/DuShiJuChangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",游戏风云 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",游戏风云 HD
 http://172.31.203.136:8006/jscn/YouXiFengYunHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",动漫秀场 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",动漫秀场 HD
 http://172.31.203.136:8006/jscn/DongManXiuChangHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",快乐垂钓 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",快乐垂钓 HD
 http://172.31.203.136:8006/jscn/KuaiLeChuiDiaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",茶频道 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",茶频道 HD
 http://172.31.203.136:8006/jscn/ChaPinDaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",求索纪录 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",求索纪录 HD
 http://172.31.203.136:8006/jscn/QiuSuoJiLuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",精彩影视 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",精彩影视 HD
 http://172.31.203.136:8006/jscn/JingCaiYingShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",梨园频道 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",梨园频道 HD
 http://172.31.203.136:8006/jscn/LiYuanPinDaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",武术世界 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",武术世界 HD
 http://172.31.203.136:8006/jscn/WuShuShiJieHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",文物宝库 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",文物宝库 HD
 http://172.31.203.136:8006/jscn/WenWuBaoKuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",第一导视 HD
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",第一导视 HD
 http://172.31.203.136:8006/jscn/DiYiDaoShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",四海钓鱼
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",四海钓鱼
 http://172.31.203.136:8006/jscn/SiHaiDiaoYu.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",先锋乒羽
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",先锋乒羽
 http://172.31.203.136:8006/jscn/XianFengPingYu.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",环球旅游
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",环球旅游
 http://172.31.203.136:8006/jscn/HuanQiuLvYou.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",环球奇观
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",环球奇观
 http://172.31.203.136:8006/jscn/HuanQiuQiGuan.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",生态环境
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",生态环境
 http://172.31.203.136:8006/jscn/ShengTaiHuanJing.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",优优宝贝
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",优优宝贝
 http://172.31.203.136:8006/jscn/YouYouBaoBei.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",书画
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",书画
 http://172.31.203.136:8006/jscn/ShuHua.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",收藏天下
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",收藏天下
 http://172.31.203.136:8006/jscn/ShouCangTianXia.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",发现之旅
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",发现之旅
 http://172.31.203.136:8006/jscn/FaXianZhiLv.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",国学频道
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",国学频道
 http://172.31.203.136:8006/jscn/GuoXuePinDao.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",财富天下
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",财富天下
 http://172.31.203.136:8006/jscn/CaiFuTianXia.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",中学生
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中学生
 http://172.31.203.136:8006/jscn/ZhongXueSheng.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",汽摩
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",汽摩
 http://172.31.203.136:8006/jscn/QiMo.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",中央新影老故事
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中央新影老故事
 http://172.31.203.136:8006/jscn/LaoGuShi.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",中华特产
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中华特产
 http://172.31.203.136:8006/jscn/ZhongHuaTeChan.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",嘉佳卡通
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",嘉佳卡通
 http://172.31.203.136:8006/jscn/JiaJiaKaTong.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",CGTN-F
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-F
 http://172.31.203.136:8006/jscn/CGTN-F.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",CGTN-E
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-E
 http://172.31.203.136:8006/jscn/CGTN-E.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",CGTN-R
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-R
 http://172.31.203.136:8006/jscn/CGTN-R.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",CGTN-A
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-A
 http://172.31.203.136:8006/jscn/CGTN-A.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",上海都市
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",上海都市
 http://172.31.203.136:8006/jscn/ShangHaiDuShi.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",第一财经
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",第一财经
 http://172.31.203.136:8006/jscn/DiYiCaiJing.m3u8
 
