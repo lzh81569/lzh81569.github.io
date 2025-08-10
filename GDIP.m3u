@@ -621,4 +621,25 @@ http://172.31.203.136:8006/jscn/CGTN-A.m3u8
 http://172.31.203.136:8006/jscn/ShangHaiDuShi.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道",第一财经
 http://172.31.203.136:8006/jscn/DiYiCaiJing.m3u8
-
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,重庆卫视HD
+rtp://228.3.6.104:13000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,CCTV-4K超高清
+rtp://230.8.6.121:18000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,CCTV-16 4K
+rtp://230.8.6.123:18000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,北京卫视4K超高清
+rtp://230.8.6.143:18000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,欢笑剧场4K
+rtp://230.8.26.122:18000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,广东卫视4K超高清
+rtp://230.8.6.144:18000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,深圳卫视4K超高清
+rtp://230.8.6.145:18000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,泰州一套高清
+rtp://226.20.6.111:12000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,测试节目-3
+rtp://226.20.6.130:12000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,测试节目-4
+rtp://226.20.6.131:12000
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="组播测试,测试节目-5
+rtp://226.20.6.132:12000
