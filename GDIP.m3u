@@ -557,9 +557,9 @@ http://172.31.203.136:8006/jscn/JinBaoTiYuHD.m3u8
 http://172.31.203.136:8006/jscn/XinShiJueHD.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="数字频道-IP",都市剧场 HD
 http://172.31.203.136:8006/jscn/DuShiJuChangHD.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo=" " group-title="数字频道-IP",游戏风云 HD
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png" group-title="数字频道-IP",游戏风云 HD
 http://172.31.203.136:8006/jscn/YouXiFengYunHD.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo=" " group-title="数字频道-IP",动漫秀场 HD
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" group-title="数字频道-IP",动漫秀场 HD
 http://172.31.203.136:8006/jscn/DongManXiuChangHD.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="数字频道-IP",快乐垂钓 HD
 http://172.31.203.136:8006/jscn/KuaiLeChuiDiaoHD.m3u8
@@ -569,56 +569,46 @@ http://172.31.203.136:8006/jscn/ChaPinDaoHD.m3u8
 http://172.31.203.136:8006/jscn/QiuSuoJiLuHD.m3u8
 #EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jcys.png" group-title="数字频道-IP",精彩影视 HD
 http://172.31.203.136:8006/jscn/JingCaiYingShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",梨园频道 HD
+#EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/lypd.png" group-title="数字频道-IP",梨园频道 HD
 http://172.31.203.136:8006/jscn/LiYuanPinDaoHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",武术世界 HD
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo=" " group-title="数字频道-IP",武术世界 HD
 http://172.31.203.136:8006/jscn/WuShuShiJieHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",文物宝库 HD
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo=" " group-title="数字频道-IP",文物宝库 HD
 http://172.31.203.136:8006/jscn/WenWuBaoKuHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",第一导视 HD
-http://172.31.203.136:8006/jscn/DiYiDaoShiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",四海钓鱼
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo=" " group-title="数字频道-IP",四海钓鱼
 http://172.31.203.136:8006/jscn/SiHaiDiaoYu.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",先锋乒羽
+#EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo=" " group-title="数字频道-IP",先锋乒羽
 http://172.31.203.136:8006/jscn/XianFengPingYu.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",环球旅游
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo=" " group-title="数字频道-IP",环球旅游
 http://172.31.203.136:8006/jscn/HuanQiuLvYou.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",环球奇观
+#EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo=" " group-title="数字频道-IP",环球奇观
 http://172.31.203.136:8006/jscn/HuanQiuQiGuan.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",生态环境
+#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo=" " group-title="数字频道-IP",生态环境
 http://172.31.203.136:8006/jscn/ShengTaiHuanJing.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",优优宝贝
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo=" " group-title="数字频道-IP",优优宝贝
 http://172.31.203.136:8006/jscn/YouYouBaoBei.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",书画
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo=" " group-title="数字频道-IP",书画
 http://172.31.203.136:8006/jscn/ShuHua.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",收藏天下
+#EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo=" " group-title="数字频道-IP",收藏天下
 http://172.31.203.136:8006/jscn/ShouCangTianXia.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",发现之旅
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo=" " group-title="数字频道-IP",发现之旅
 http://172.31.203.136:8006/jscn/FaXianZhiLv.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",国学频道
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo=" " group-title="数字频道-IP",国学频道
 http://172.31.203.136:8006/jscn/GuoXuePinDao.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",财富天下
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo=" " group-title="数字频道-IP",财富天下
 http://172.31.203.136:8006/jscn/CaiFuTianXia.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中学生
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo=" " group-title="数字频道-IP",中学生
 http://172.31.203.136:8006/jscn/ZhongXueSheng.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",汽摩
+#EXTINF:-1 tvg-id="汽摩" tvg-name="汽摩" tvg-logo=" " group-title="数字频道-IP",汽摩
 http://172.31.203.136:8006/jscn/QiMo.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中央新影老故事
+#EXTINF:-1 tvg-id="中央新影老故事" tvg-name="中央新影老故事" tvg-logo=" " group-title="数字频道-IP",中央新影老故事
 http://172.31.203.136:8006/jscn/LaoGuShi.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",中华特产
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo=" " group-title="数字频道-IP",中华特产
 http://172.31.203.136:8006/jscn/ZhongHuaTeChan.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",嘉佳卡通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo=" " group-title="数字频道-IP",嘉佳卡通
 http://172.31.203.136:8006/jscn/JiaJiaKaTong.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-F
-http://172.31.203.136:8006/jscn/CGTN-F.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-E
-http://172.31.203.136:8006/jscn/CGTN-E.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-R
-http://172.31.203.136:8006/jscn/CGTN-R.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",CGTN-A
-http://172.31.203.136:8006/jscn/CGTN-A.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",上海都市
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo=" " group-title="数字频道-IP",上海都市
 http://172.31.203.136:8006/jscn/ShangHaiDuShi.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="数字频道-IP",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo=" " group-title="数字频道-IP",第一财经
 http://172.31.203.136:8006/jscn/DiYiCaiJing.m3u8
 
