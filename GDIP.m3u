@@ -228,7 +228,7 @@ http://172.31.203.136:8006/jscn/DongNanTVHD.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视频道",江西卫视 HD
 http://172.31.203.136:8006/jscn/JiangXiTVHD.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视频道",湖北卫视 HD
-http://172.31.203.136:8006/HuBeiTVHD.m3u8
+http://172.31.203.136:8006/jscn/HuBeiTVHD.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视频道",四川卫视 HD
 http://172.31.203.136:8006/jscn/SiChuanTVHD.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视频道",贵州卫视 HD
