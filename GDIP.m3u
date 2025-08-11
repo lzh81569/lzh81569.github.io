@@ -369,6 +369,20 @@ http://172.31.203.136:8006/jscn/DongTai2HD.m3u8
 http://172.31.203.136:8006/jscn/BinHaiXinWenHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",滨海经济生活 HD
 http://172.31.203.136:8006/jscn/BinHaiJingJiHD.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",响水综合
+http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",建湖综合 HD
+http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",建湖二套
+http://172.31.203.136:8006/jscn/JianHu2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁新闻
+http://172.31.203.136:8006/jscn/FuNing1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁二套
+http://172.31.203.136:8006/jscn/FuNing2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳新闻 HD
+http://172.31.203.136:8006/jscn/SheYangXinWen.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳经济
+http://172.31.203.136:8006/jscn/SheYangJingJi.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",句容综合 HD
 http://172.31.203.136:8006/jscn/JuRongZongHeHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",句容生活 HD
@@ -379,6 +393,10 @@ http://172.31.203.136:8006/jscn/DanYangXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/DanYangShengHuo.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",丹阳快乐
 http://172.31.203.136:8006/jscn/DanYangKuaiLe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",丹徒综合
+http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",扬中综合
+http://172.31.203.136:8006/jscn/YangZhongXinWen.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",邗江 HD
 http://172.31.203.136:8006/jscn/YangZhouHanJiangHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",江都HD(本区)
@@ -479,34 +497,14 @@ http://172.31.203.136:8006/jscn/PeiXianXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/PeiXianShengHuoHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沛县文艺影视 HD
 http://172.31.203.136:8006/jscn/PeiXianWenYiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",建湖综合 HD
-http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",建湖二套
-http://172.31.203.136:8006/jscn/JianHu2.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",赣榆综合 HD
 http://172.31.203.136:8006/jscn/GanYuZongHeHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",东海新闻 HD
 http://172.31.203.136:8006/jscn/DonGHaiZongHeHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",灌云综合 HD
 http://172.31.203.136:8006/jscn/GuanYunZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",灌南综合 HD
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",灌南综合
 http://172.31.203.136:8006/jscn/GuanNanZongHe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",响水综合
-http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",丹徒综合
-http://172.31.203.136:8006/jscn/DanTuXinWen.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",扬中综合
-http://172.31.203.136:8006/jscn/YangZhongXinWen.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",灌南综合
-http://172.31.203.136:8006/jscn/GuanNanZongHe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁新闻
-http://172.31.203.136:8006/jscn/FuNing1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁二套
-http://172.31.203.136:8006/jscn/FuNing2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳新闻 HD
-http://172.31.203.136:8006/jscn/SheYangXinWen.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳经济
-http://172.31.203.136:8006/jscn/SheYangJingJi.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",贾汪新闻综合
 http://172.31.203.136:8006/jscn/JiaWangXinWen.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",淮安区综合
@@ -517,8 +515,8 @@ http://172.31.203.136:8006/jscn/LianShuiZongHe.m3u8
 http://172.31.203.136:8006/jscn/XuYiXinWenHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",金湖综合 HD
 http://172.31.203.136:8006/jscn/JinHu1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",宿豫综合
-http://172.31.203.136:8006/jscn/SuYuXinWenZongHe.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",洪泽综合
+http://172.31.203.136:8006/jscn/HongZe1.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沭阳综合 HD
 http://172.31.203.136:8006/jscn/ShuYangZongHeHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",沭阳科教 HD
@@ -527,16 +525,12 @@ http://172.31.203.136:8006/jscn/ShuYangKeJiaoHD.m3u8
 http://172.31.203.136:8006/jscn/SiYangZongHeHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗阳资讯 HD
 http://172.31.203.136:8006/jscn/SiYangZiXunHD.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",宿豫综合
+http://172.31.203.136:8006/jscn/SuYuXinWenZongHe.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗洪综合
 http://172.31.203.136:8006/jscn/SiHongZongHe.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",泗洪经济
 http://172.31.203.136:8006/jscn/SiHongJingJi.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",洪泽综合
-http://172.31.203.136:8006/jscn/HongZe1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",栖霞1
-http://172.31.203.136:8006/jscn/QiXia1.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",栖霞2
-http://172.31.203.136:8006/jscn/QiXia2.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="数字频道-IP",东方财经 HD
 http://172.31.203.136:8006/jscn/DongFangCaiJingHD.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" group-title="数字频道-IP",中国天气 HD
