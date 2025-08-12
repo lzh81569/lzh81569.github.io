@@ -273,11 +273,11 @@ http://172.31.203.136:8006/jscn/JinYingKaTongHD.m3u8
 http://172.31.203.136:8006/jscn/KaKuShaoErHD.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8.png" group-title="卫视频道-IP",重温经典 HD
 http://172.31.203.136:8006/jscn/ChongWenJingDianHD.m3u8
-#EXTINF:-1 tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="卫视频道-IP",CETV-1 HD
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="卫视频道-IP",CETV-1 HD
 http://172.31.203.136:8006/jscn/CETV-1HD.m3u8
-#EXTINF:-1 tvg-id="CETV-2" tvg-name="CETV-2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png" group-title="卫视频道-IP",CETV-2
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png" group-title="卫视频道-IP",CETV-2
 http://172.31.203.136:8006/jscn/CETV-2.m3u8
-#EXTINF:-1 tvg-id="CETV-4" tvg-name="CETV-4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png" group-title="卫视频道-IP",CETV-4
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png" group-title="卫视频道-IP",CETV-4
 http://172.31.203.136:8006/jscn/CETV-4.m3u8
 #EXTINF:-1 tvg-id="江阴新闻" tvg-name="江阴新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" group-title="江苏区县-IP",江阴新闻 HD
 http://172.31.203.136:8006/jscn/JiangYinXinWenHD.m3u8
