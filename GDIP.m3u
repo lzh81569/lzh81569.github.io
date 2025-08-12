@@ -171,17 +171,17 @@ http://172.31.203.136:8006/jscn/YangZhouXinWenHD.m3u8
 http://172.31.203.136:8006/jscn/YangZhou2HD.m3u8
 #EXTINF:-1 tvg-id="扬州3" tvg-name="扬州3" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏省市-IP",扬州3 HD
 http://172.31.203.136:8006/jscn/YangZhou3HD.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江新闻综合 HD
+#EXTINF:-1 tvg-id="镇江1" tvg-name="镇江1" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江新闻综合 HD
 http://172.31.203.136:8006/jscn/ZhenJiangXinWenHD.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江电视台二套
+#EXTINF:-1 tvg-id="镇江2" tvg-name="镇江2" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江电视台二套
 http://172.31.203.136:8006/jscn/ZhenJiangMinShengHD.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江电视台三套
+#EXTINF:-1 tvg-id="镇江3" tvg-name="镇江3" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" group-title="江苏省市-IP",镇江电视台三套
 http://172.31.203.136:8006/jscn/ZhenJiangChengShiHD.m3u8
-#EXTINF:-1 tvg-id="泰州一套" tvg-name="泰州一套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州一套 HD
+#EXTINF:-1 tvg-id="泰州1" tvg-name="泰州1" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州一套 HD
 http://172.31.203.136:8006/jscn/TaiZhou1HD.m3u8
-#EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州二套 HD
+#EXTINF:-1 tvg-id="泰州2" tvg-name="泰州2" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州二套 HD
 http://172.31.203.136:8006/jscn/TaiZhou2HD.m3u8
-#EXTINF:-1 tvg-id="泰州二套" tvg-name="泰州二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州三套 HD
+#EXTINF:-1 tvg-id="泰州3" tvg-name="泰州3" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州三套 HD
 http://172.31.203.136:8006/jscn/TaiZhou3HD.m3u8
 #EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏省市-IP",宿迁新闻综合 HD
 http://172.31.203.136:8006/jscn/SuQianZongHeHD.m3u8
