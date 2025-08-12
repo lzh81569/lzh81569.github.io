@@ -117,39 +117,39 @@ http://172.31.203.136:8006/jscn/SuZhouWenHuaHD.m3u8
 http://172.31.203.136:8006/jscn/SuZhouDianYingHD.m3u8
 #EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1039644208&size=240&m=133984843743500000&x=dtnhDcsb9mpovUN3cngqAiXNlAiKr3Yt" group-title="江苏省市-IP",苏州生活资讯 HD
 http://172.31.203.136:8006/jscn/SuZhouShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-name="盐城新闻综合" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城新闻综合 HD
+#EXTINF:-1 tvg-id="盐城1" tvg-name="盐城1" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城新闻综合 HD
 http://172.31.203.136:8006/jscn/YanChengXinWenHD.m3u8
-#EXTINF:-1 tvg-id="盐城二套" tvg-name="盐城二套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城二套
+#EXTINF:-1 tvg-id="盐城2" tvg-name="盐城2" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城二套
 http://172.31.203.136:8006/jscn/YanCheng2.m3u8
-#EXTINF:-1 tvg-id="盐城三套" tvg-name="盐城三套" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城三套
+#EXTINF:-1 tvg-id="盐城3" tvg-name="盐城3" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" group-title="江苏省市-IP",盐城三套
 http://172.31.203.136:8006/jscn/YanCheng3.m3u8
 #EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡新闻综合 HD
 http://172.31.203.136:8006/jscn/WuXiXinWenHD.m3u8
 #EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡都市资讯 HD
 http://172.31.203.136:8006/jscn/WuXiDuShiHD.m3u8
-#EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡娱乐" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡娱乐 HD
+#EXTINF:-1 tvg-id="无锡娱乐" tvg-name="无锡电视娱乐" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡娱乐 HD
 http://172.31.203.136:8006/jscn/WuXiYuLeHD.m3u8
 #EXTINF:-1 tvg-id="无锡影视" tvg-name="无锡影视" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡影视 HD
 http://172.31.203.136:8006/jscn/WuXiYingShiHD.m3u8
-#EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡生活" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡生活 HD
+#EXTINF:-1 tvg-id="无锡生活" tvg-name="无锡电视生活" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡生活 HD
 http://172.31.203.136:8006/jscn/WuXiShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡经济" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡经济 HD
+#EXTINF:-1 tvg-id="无锡经济" tvg-name="无锡电视经济" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=1024&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" group-title="江苏省市-IP",无锡经济 HD
 http://172.31.203.136:8006/jscn/WuXiJingJiHD.m3u8
 #EXTINF:-1 tvg-id="无锡教育" tvg-name="无锡教育" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1032777231&size=240&m=133964213262030000&x=OuNu5YaKYqxYxm1wKAfykIKLB231wRXB" group-title="江苏省市-IP",无锡教育 HD
 http://172.31.203.136:8006/jscn/WuXiJiaoYuHD.m3u8
-#EXTINF:-1 tvg-id="常州新闻综合" tvg-name="常州新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏省市-IP",常州新闻综合 HD
+#EXTINF:-1 tvg-id="常州新闻" tvg-name="常州新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏省市-IP",常州新闻综合 HD
 http://172.31.203.136:8006/jscn/ChangZhouXinWenHD.m3u8
 #EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏省市-IP",常州生活 HD
 http://172.31.203.136:8006/jscn/ChangZhouShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州新闻 HD
+#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州新闻综合 HD
 http://172.31.203.136:8006/jscn/XuZhouXinWenHD.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州文艺
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州文艺
 http://172.31.203.136:8006/jscn/XuZhouWenYi.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州经济
+#EXTINF:-1 tvg-id="徐州经济生活" tvg-name="徐州经济生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州经济生活
 http://172.31.203.136:8006/jscn/XuZhouJingJi.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州公共
+#EXTINF:-1 tvg-id="徐州公共" tvg-name="徐州公共" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州公共
 http://172.31.203.136:8006/jscn/XuZhouGongGong.m3u8
-#EXTINF:-1 tvg-id="连云港新闻" tvg-name="连云港新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港新闻 HD
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港新闻综合 HD
 http://172.31.203.136:8006/jscn/LianYunGangZongHeHD.m3u8
 #EXTINF:-1 tvg-id="连云港生活" tvg-name="连云港生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港生活 HD
 http://172.31.203.136:8006/jscn/LianYunGangGongGongHD.m3u8
@@ -189,14 +189,12 @@ http://172.31.203.136:8006/jscn/SuQianZongHeHD.m3u8
 http://172.31.203.136:8006/jscn/SuQianGongGongHD.m3u8
 #EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京影视
 http://172.31.203.136:8006/jscn/NanJingYingShi.m3u8
-#EXTINF:-1 tvg-id="南京科教" tvg-name="南京科教" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京科教
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京教科
 http://172.31.203.136:8006/jscn/NanJingJiaoKe.m3u8
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京少儿
 http://172.31.203.136:8006/jscn/NanJingShaoEr.m3u8
-#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京十八•生活
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京十八•生活
 http://172.31.203.136:8006/jscn/ShiBaShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="南京十八•生活" tvg-name="南京十八•生活" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" group-title="江苏省市-IP",南京十八•生活
-http://172.31.203.136:8006/jscn/ShiBaShengHuo.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视频道-IP",东方卫视 HD
 http://172.31.203.136:8006/jscn/DongFangTVHD.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视频道-IP",江苏卫视HD
