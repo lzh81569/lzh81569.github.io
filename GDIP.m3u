@@ -65,7 +65,7 @@ http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8 
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV-IP",央视台球 HD
 http://172.31.203.136:8006/jscn/YangShiTaiQiuHD.m3u8
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV-IP",高尔夫网球 HD
+#EXTINF:-1 tvg-id="高尔夫" tvg-name="高尔夫" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV-IP",高尔夫网球 HD
 http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="CCTV-IP",电视指南 HD
 http://172.31.203.136:8006/jscn/DianShiZhiNanHD.m3u8
@@ -469,17 +469,17 @@ http://172.31.203.136:8006/jscn/TongZhouDianShiJuHD.m3u8
 http://172.31.203.136:8006/jscn/TongZhouShengHuo.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",通州文化娱乐
 http://172.31.203.136:8006/jscn/TongZhouYuLe.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",新沂新闻综合
+#EXTINF:-1 tvg-id="徐州新沂1" tvg-name="徐州新沂1" tvg-logo=" " group-title="江苏区县-IP",新沂新闻综合
 http://172.31.203.136:8006/jscn/XinYiXinWen.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山综合 HD
+#EXTINF:-1 tvg-id="铜山1" tvg-name="铜山1" tvg-logo=" " group-title="江苏区县-IP",铜山综合 HD
 http://172.31.203.136:8006/jscn/TongShan1HD.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山2
+#EXTINF:-1 tvg-id="铜山2" tvg-name="铜山2" tvg-logo=" " tvg-logo=" " group-title="江苏区县-IP",铜山2
 http://172.31.203.136:8006/jscn/TongShan2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山3
+#EXTINF:-1 tvg-id="铜山3" tvg-name="铜山3" tvg-logo=" " group-title="江苏区县-IP",铜山3
 http://172.31.203.136:8006/jscn/TongShan3.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",铜山4
+#EXTINF:-1 tvg-id="铜山4" tvg-name="铜山4" tvg-logo=" " group-title="江苏区县-IP",铜山4
 http://172.31.203.136:8006/jscn/TongShan4.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",邳州综合 HD
+#EXTINF:-1 tvg-id="邳州综合" tvg-name="邳州综合" tvg-logo=" " group-title="江苏区县-IP",邳州综合 HD
 http://172.31.203.136:8006/jscn/PiZhouZongHeHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",睢宁综合 HD
 http://172.31.203.136:8006/jscn/SuiNingZongHeHD.m3u8
@@ -579,7 +579,7 @@ http://172.31.203.136:8006/jscn/HuanQiuQiGuan.m3u8
 http://172.31.203.136:8006/jscn/ShengTaiHuanJing.m3u8
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yybb.png" group-title="数字频道-IP",优优宝贝
 http://172.31.203.136:8006/jscn/YouYouBaoBei.m3u8
-#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shpd.png" group-title="数字频道-IP",书画
+#EXTINF:-1 tvg-id="书画频道" tvg-name="书画频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shpd.png" group-title="数字频道-IP",书画
 http://172.31.203.136:8006/jscn/ShuHua.m3u8
 #EXTINF:-1 tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sctx.png" group-title="数字频道-IP",收藏天下
 http://172.31.203.136:8006/jscn/ShouCangTianXia.m3u8
@@ -589,7 +589,7 @@ http://172.31.203.136:8006/jscn/FaXianZhiLv.m3u8
 http://172.31.203.136:8006/jscn/ZhongXueSheng.m3u8
 #EXTINF:-1 tvg-id="中央新影老故事" tvg-name="中央新影老故事" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDlgs.png" group-title="数字频道-IP",中央新影老故事
 http://172.31.203.136:8006/jscn/LaoGuShi.m3u8
-#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/gxpd.png" group-title="数字频道-IP",国学频道
+#EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/gxpd.png" group-title="数字频道-IP",国学频道
 http://172.31.203.136:8006/jscn/GuoXuePinDao.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" group-title="数字频道-IP",财富天下
 http://172.31.203.136:8006/jscn/CaiFuTianXia.m3u8
