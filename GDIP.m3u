@@ -183,7 +183,7 @@ http://172.31.203.136:8006/jscn/TaiZhou1HD.m3u8
 http://172.31.203.136:8006/jscn/TaiZhou2HD.m3u8
 #EXTINF:-1 tvg-id="泰州3" tvg-name="泰州3" tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" group-title="江苏省市-IP",泰州三套 HD
 http://172.31.203.136:8006/jscn/TaiZhou3HD.m3u8
-#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏省市-IP",宿迁新闻综合 HD
+#EXTINF:-1 tvg-id="宿迁综合" tvg-name="宿迁综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏省市-IP",宿迁新闻综合 HD
 http://172.31.203.136:8006/jscn/SuQianZongHeHD.m3u8
 #EXTINF:-1 tvg-id="宿迁公共" tvg-name="宿迁公共" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" group-title="江苏省市-IP",宿迁公共 HD
 http://172.31.203.136:8006/jscn/SuQianGongGongHD.m3u8
