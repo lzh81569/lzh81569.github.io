@@ -65,7 +65,7 @@ http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8 
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV-IP",央视台球 HD
 http://172.31.203.136:8006/jscn/YangShiTaiQiuHD.m3u8
-#EXTINF:-1 tvg-id="高尔夫" tvg-name="高尔夫" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV-IP",高尔夫网球 HD
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="CCTV-IP",高尔夫网球 HD
 http://172.31.203.136:8006/jscn/GaoErFuWangQiuHD.m3u8
 #EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="CCTV-IP",电视指南 HD
 http://172.31.203.136:8006/jscn/DianShiZhiNanHD.m3u8
