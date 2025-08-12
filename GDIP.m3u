@@ -141,7 +141,7 @@ http://172.31.203.136:8006/jscn/WuXiJiaoYuHD.m3u8
 http://172.31.203.136:8006/jscn/ChangZhouXinWenHD.m3u8
 #EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" group-title="江苏省市-IP",常州生活 HD
 http://172.31.203.136:8006/jscn/ChangZhouShengHuoHD.m3u8
-#EXTINF:-1 tvg-id="徐州新闻" tvg-name="徐州新闻" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州新闻综合 HD
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州新闻综合 HD
 http://172.31.203.136:8006/jscn/XuZhouXinWenHD.m3u8
 #EXTINF:-1 tvg-id="徐州文艺影视" tvg-name="徐州文艺影视" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504683&size=240&m=133988617238713183&x=B8DXHMV9PY9vvzIcoVpYZpS1CTcZgDWh" group-title="江苏省市-IP",徐州文艺影视
 http://172.31.203.136:8006/jscn/XuZhouWenYi.m3u8
