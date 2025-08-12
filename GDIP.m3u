@@ -151,19 +151,19 @@ http://172.31.203.136:8006/jscn/XuZhouJingJi.m3u8
 http://172.31.203.136:8006/jscn/XuZhouGongGong.m3u8
 #EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港新闻综合 HD
 http://172.31.203.136:8006/jscn/LianYunGangZongHeHD.m3u8
-#EXTINF:-1 tvg-id="连云港生活" tvg-name="连云港生活" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港生活 HD
+#EXTINF:-1 tvg-id="连云港公共频道" tvg-name="连云港公共频道" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504690&size=240&m=133988617249988975&x=Thl3I54Vo1b2zUpjZeT20CT713QVYheh" group-title="江苏省市-IP",连云港公共 HD
 http://172.31.203.136:8006/jscn/LianYunGangGongGongHD.m3u8
-#EXTINF:-1 tvg-id="淮安综合" tvg-name="淮安综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安综合 HD
+#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安新闻综合 HD
 http://172.31.203.136:8006/jscn/HuaiAnXinWenHD.m3u8
-#EXTINF:-1 tvg-id="淮安影视" tvg-name="淮安影视" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安影视 HD
+#EXTINF:-1 tvg-id="淮安影视娱乐" tvg-name="淮安影视娱乐" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安影视娱乐 HD
 http://172.31.203.136:8006/jscn/HuaiAnYingShiHD.m3u8
 #EXTINF:-1 tvg-id="淮安公共" tvg-name="淮安公共" tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040504681&size=240&m=133988617233243143&x=4Wgvyl812iyHHfe9nNcx239Q4hp1Ym2A" group-title="江苏省市-IP",淮安公共 HD
 http://172.31.203.136:8006/jscn/HuaiAnGongGongHD.m3u8
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通新闻综合 HD
+#EXTINF:-1 tvg-id="南通1" tvg-name="南通1" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通新闻综合 HD
 http://172.31.203.136:8006/jscn/NanTong1HD.m3u8
-#EXTINF:-1 tvg-id="南通-2" tvg-name="南通-2" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通-2 HD
+#EXTINF:-1 tvg-id="南通2" tvg-name="南通2" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通-2 HD
 http://172.31.203.136:8006/jscn/NanTong2HD.m3u8
-#EXTINF:-1 tvg-id="南通公共崇" tvg-name="南通公共崇" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通公共崇川 HD
+#EXTINF:-1 tvg-id="南通3" tvg-name="南通3" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504682&size=240&m=133988617233087350&x=b9n3fnZbEjtojcrvDdkrJVNSQnPKjn9z" group-title="江苏省市-IP",南通公共崇川 HD
 http://172.31.203.136:8006/jscn/NanTong3HD.m3u8
 #EXTINF:-1 tvg-id="扬州新闻" tvg-name="扬州新闻" tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" group-title="江苏省市-IP",扬州新闻 HD
 http://172.31.203.136:8006/jscn/YangZhouXinWenHD.m3u8
