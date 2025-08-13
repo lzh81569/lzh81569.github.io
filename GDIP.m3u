@@ -603,4 +603,7 @@ http://172.31.203.136:8006/jscn/JiaJiaKaTong.m3u8
 http://172.31.203.136:8006/jscn/ShangHaiDuShi.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" group-title="数字频道-IP",第一财经
 http://172.31.203.136:8006/jscn/DiYiCaiJing.m3u8
-
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="数字频道-IP",凤凰中文台
+http://172.31.203.136:8006/jscn/FengHuangZhongWen.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="数字频道-IP",凤凰资讯台
+http://172.31.203.136:8006/jscn/FengHuangZiXun.m3u8
