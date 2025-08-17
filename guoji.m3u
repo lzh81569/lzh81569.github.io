@@ -2,51 +2,51 @@
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png" group-title="国际频道" , CNN
 https://jmp2.uk/sam-ATBD800001VA.m3u8
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="国际频道" , BBC News
-https://jmp2.uk/sam-US4000033L.m3u8
+https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="国际频道" , NBC News NOW
-https://jmp2.uk/sam-USBB2200014DK.m3u8
+https://jmp2.uk/stvp-USBB2200014DK
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E5%8D%8A%E5%B2%9B%E6%96%B0%E9%97%BB.png" group-title="国际频道",半岛电视台
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="国际频道" , Sky News
-https://jmp2.uk/sam-USBB52000022Q.m3u8
+https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 tvg-id="USBA370000104" tvg-name="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="国际频道" , CBS News 24/7
-https://jmp2.uk/sam-USBA370000104.m3u8
+https://jmp2.uk/stvp-USBA370000104
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="国际频道" , LiveNOW from FOX
-https://jmp2.uk/sam-USBA300024TN.m3u8
+https://jmp2.uk/stvp-USBA300024TN
 #EXTINF:-1 tvg-id="USBC4400003OU" tvg-name="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20241112T000921SQUARE.png" group-title="国际频道" , CBC News
-https://jmp2.uk/sam-CABC2300009KD.m3u8
+https://jmp2.uk/stvp-USBC4400003OU
 #EXTINF:-1 tvg-id="USBD3000073N" tvg-name="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20240520T223411SQUARE.png" group-title="国际频道" , Scripps News
-https://jmp2.uk/sam-USBD3000073N.m3u8
+https://jmp2.uk/stvp-USBD3000073N
 #EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-name="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20250325T020257SQUARE.png" group-title="国际频道" , Yahoo Finance
-https://jmp2.uk/sam-USAJ4300005PJ.m3u8
+https://jmp2.uk/stvp-USAJ4300005PJ
 #EXTINF:-1 tvg-id="USBA300028QU" tvg-name="USBA300028QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20250325T020239SQUARE.png" group-title="国际频道" , NEWSMAX2
-https://jmp2.uk/sam-USBA300028QU.m3u8
+https://jmp2.uk/stvp-USBA300028QU
 #EXTINF:-1 tvg-id="USBB1900002KF" tvg-name="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20240520T222747SQUARE.png" group-title="国际频道" , Real America's Voice
-https://jmp2.uk/sam-USBB1900002KF.m3u8
+https://jmp2.uk/stvp-USBB1900002KF
 #EXTINF:-1 tvg-id="US3700004Y0" tvg-name="US3700004Y0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700004Y0_20241022T004434SQUARE.png" group-title="国际频道" , Salem News Channel
-https://jmp2.uk/sam-US3700004Y0.m3u8
+https://jmp2.uk/stvp-US3700004Y0
 #EXTINF:-1 tvg-id="USBA30002142" tvg-name="USBA30002142" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png" group-title="国际频道" , TYT Network
-https://jmp2.uk/sam-USBA30002142.m3u8
+https://jmp2.uk/stvp-USBA30002142
 #EXTINF:-1 tvg-id="US1400001WV" tvg-name="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20250714T223133SQUARE.png" group-title="国际频道", MLB Channel
-https://jmp2.uk/sam-US1400001WV.m3u8
+https://jmp2.uk/stvp-US1400001WV
 #EXTINF:-1 tvg-id="US2700001QY" tvg-name="US2700001QY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="国际频道", FOX Sports
-https://jmp2.uk/sam-US2700001QY.m3u8
+https://jmp2.uk/stvp-US2700001QY
 #EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title="国际频道", NBC Sports NOW
-https://jmp2.uk/sam-USBD420002446.m3u8
+https://jmp2.uk/stvp-USBD420002446
 #EXTINF:-1 tvg-id="USBA300031OT" tvg-name="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png" group-title="国际频道", SportsGrid
-https://jmp2.uk/sam-USBA300031OT.m3u8
+https://jmp2.uk/stvp-USBA300031OT
 #EXTINF:-1 tvg-id="USBD12000255B" tvg-name="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="国际频道", FIFA+
-https://jmp2.uk/sam-USBD12000255B.m3u8
+https://jmp2.uk/stvp-USBD12000255B
 #EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="国际频道", beIN SPORTS XTRA
-https://jmp2.uk/sam-USAJ4300001Q7.m3u8
+https://jmp2.uk/stvp-USAJ4300001Q7
 #EXTINF:-1 tvg-id="US1400008DW" tvg-name="US1400008DW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" group-title="国际频道", Unbeaten Sports Channel
-https://jmp2.uk/sam-US1400008DW.m3u8
+https://jmp2.uk/stvp-US1400008DW
 #EXTINF:-1 tvg-id="US37000017A" tvg-name="US37000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20241210T013843SQUARE.png" group-title="国际频道", Big 12 Studios
-https://jmp2.uk/sam-US37000017A.m3u8
-#EXTINF:-1 tvg-id="USBA300034DB" tvg-name="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20250415T005925SQUARE.png" group-title="国际频道", Pac-12 Insider
-https://jmp2.uk/sam-USBA300034DB.m3u8
+https://jmp2.uk/stvp-US37000017A
+#EXTINF:-1 tvg-id="USBA300034DB" tvg-name="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20250415T005925SQUARE.png" group-title="国际频道" , Pac-12 Insider
+https://jmp2.uk/stvp-USBA300034DB
 #EXTINF:-1 tvg-id="USBD300021B8" tvg-name="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114SQUARE.png" group-title="国际频道", MSG SportsZone
 https://jmp2.uk/sam-USBD300021B8.m3u8
 #EXTINF:-1 tvg-id="US4100001KP" tvg-name="US4100001KP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100001KP_20241210T013946SQUARE.png" group-title="国际频道", Women's Sports Network
