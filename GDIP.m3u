@@ -13,6 +13,16 @@ http://172.31.203.136:8006/jscn/GuangDongTV-4K.m3u8
 http://172.31.203.136:8006/jscn/ShenZhenTV-4K.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="4K-IP",江苏卫视 4K
 http://172.31.203.136:8006/jscn/JiangSuTV-4K.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="4K-IP",东方卫视 4K
+http://172.31.203.136:8006/jscn/DongFangTV-4K.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="4K-IP",湖南卫视 4K
+http://172.31.203.136:8006/jscn/HuNanTV-4K.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="4K-IP",浙江卫视 4K
+http://172.31.203.136:8006/jscn/ZheJiangTV-4K.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="4K-IP",山东卫视 4K
+http://172.31.203.136:8006/jscn/ShanDongTV-4K.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="4K-IP",四川卫视 4K
+http://172.31.203.136:8006/jscn/SiChuanTV-4K.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="CCTV-IP",CCTV1 HD
 http://172.31.203.136:8006/jscn/CCTV-1HD.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="CCTV-IP",CCTV2 HD
