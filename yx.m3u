@@ -1,5 +1,5 @@
 #EXTM3U
-http://v6.sucun.top:3257/xmltv/channels?auth=PXFW6QUBEF4YxIP3LBUGp1sQep8&profle=pass
+#EXTM3U url-tvg="http://v6.sucun.top:3257/xmltv/channels?auth=PXFW6QUBEF4YxIP3LBUGp1sQep8&profle=pass"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="1" group-title="4K",CCTV4K
 http://v6.sucun.top:3257/stream/channelid/1068238843?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="d8a7254065e8cedadca63ce7e57d40a8" tvg-chno="2" group-title="4K",CCTV16
