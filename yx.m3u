@@ -64,7 +64,7 @@ http://192.168.1.3:3257/stream/channelid/59170365?auth=PWgoKtvRUwpwjPsG.U7QbAtat
 http://192.168.1.3:3257/stream/channelid/1976367620?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" tvg-id="a954fc218fb4676dec4f46460046a0ed" tvg-chno="52" group-title="CCTV本地",CHC家庭影院 HD
 http://192.168.1.3:3257/stream/channelid/570184873?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" tvg-id="d4651f0e78163b09828bc47be182404b" tvg-chno="53" group-title="CCTV本地",CHC影迷频道 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" tvg-id="d4651f0e78163b09828bc47be182404b" tvg-chno="53" group-title="CCTV本地",CHC影迷频道 HD
 http://192.168.1.3:3257/stream/channelid/236938708?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" tvg-id="442f53a02c5816095a5cfe4bf3061a40" tvg-chno="54" group-title="CCTV本地",CGTN HD
 http://192.168.1.3:3257/stream/channelid/542322500?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
