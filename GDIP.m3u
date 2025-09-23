@@ -67,7 +67,7 @@ http://172.31.203.136:8006/jscn/CCTV-15HD.m3u8
 http://172.31.203.136:8006/jscn/CCTV-16HD.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="CCTV-IP",CCTV17 HD
 http://172.31.203.136:8006/jscn/CCTV-17HD.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="CCTV-IP",CHC影迷电影 HD
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="CCTV-IP",CHC影迷电影 HD
 http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC3.png" group-title="CCTV-IP",CHC动作电影 HD
 http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
