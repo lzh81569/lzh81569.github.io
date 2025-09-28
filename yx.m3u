@@ -4,18 +4,18 @@
 http://192.168.1.3:3257/stream/channelid/1068238843?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="d8a7254065e8cedadca63ce7e57d40a8" tvg-chno="2" group-title="4K",CCTV16 4K
 http://192.168.1.3:3257/stream/channelid/1076209624?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="3700417876ea502e56936e6669626515" tvg-chno="3" group-title="4K",东方卫视 4K
-http://192.168.1.3:3257/stream/channelid/2017525815?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="3" group-title="4K",东方卫视 4K
+http://192.168.1.3:3257/stream/channelid/1220647635?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="4" group-title="4K",江苏卫视 4K
 http://192.168.1.3:3257/stream/channelid/1947025520?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="197d8b7ed33317d3178f212d14d532d7" tvg-chno="5" group-title="4K",湖南卫视 4K
-http://192.168.1.3:3257/stream/channelid/2123070745?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="633081011fd78590955b9906e09b65b5" tvg-chno="6" group-title="4K",浙江卫视 4K
-http://192.168.1.3:3257/stream/channelid/25243747?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="2f5332fee902aee64dbec8826d07ef68" tvg-chno="5" group-title="4K",湖南卫视 4K
+http://192.168.1.3:3257/stream/channelid/2117227311?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="0f936bb168aa28e0c0f71a89d64ad739" tvg-chno="6" group-title="4K",浙江卫视 4K 
+http://192.168.1.3:3257/stream/channelid/829133583?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" tvg-id="d7ee6cb4a9356af6cb245865d2411474" tvg-chno="7" group-title="4K",北京卫视 4K
 http://192.168.1.3:3257/stream/channelid/879554263?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" tvg-id="cc5a6cb09ff63d5088a41f4904c65cb0" tvg-chno="8" group-title="4K",山东卫视 4K
-http://192.168.1.3:3257/stream/channelid/812407500?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" tvg-id="a1210e90a42d76d3439a04035c2ada76" tvg-chno="8" group-title="4K",山东卫视 4K
+http://192.168.1.3:3257/stream/channelid/269361569?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="7757828b5923ae48732779fbdbdb73c1" tvg-chno="9" group-title="4K",四川卫视 4K
 http://192.168.1.3:3257/stream/channelid/193091447?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" tvg-id="b8c451f9cff8a317d60396c316513045" tvg-chno="10" group-title="4K",广东卫视 4K
@@ -24,8 +24,6 @@ http://192.168.1.3:3257/stream/channelid/2035401912?auth=PWgoKtvRUwpwjPsG.U7QbAt
 http://192.168.1.3:3257/stream/channelid/253961239?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="7c435aa8ba15e6104a79924d5f9d4f5b" tvg-chno="12" group-title="4K",欢笑剧场 4K
 http://192.168.1.3:3257/stream/channelid/677004156?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="5028afb368afe310b171fa06464722f6" tvg-chno="4" group-title="4K",江苏卫视 4K电信
-http://192.168.1.3:3257/stream/channelid/867117136?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="CCTV本地",CCTV1 HD
 http://192.168.1.3:3257/stream/channelid/864153780?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="32" group-title="CCTV本地",CCTV2 HD
@@ -140,6 +138,8 @@ http://192.168.1.3:3257/stream/channelid/127536735?auth=PWgoKtvRUwpwjPsG.U7QbAta
 http://192.168.1.3:3257/stream/channelid/142709840?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" tvg-id="76234d27fc347e10d12e13673874d498" tvg-chno="120" group-title="HDTV",甘肃卫视 HD
 http://192.168.1.3:3257/stream/channelid/659366774?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" tvg-id="0a8f2f77f12953a3416010683a3a9790" tvg-chno="121" group-title="HDTV",云南卫视 HD
+http://192.168.1.3:3257/stream/channelid/1999605514?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" tvg-id="80886f017cd2a481c3d71128517af2a2" tvg-chno="131" group-title="HDTV",宁夏卫视 HD
 http://192.168.1.3:3257/stream/channelid/24086656?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" tvg-id="26cc38800ed0491a02fae78cc4397f01" tvg-chno="132" group-title="HDTV",新疆卫视 HD
@@ -158,10 +158,10 @@ http://192.168.1.3:3257/stream/channelid/2072547580?auth=PWgoKtvRUwpwjPsG.U7QbAt
 http://192.168.1.3:3257/stream/channelid/502095747?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/42166d224f4a20a446239065180a8f22720e0cf37a42" tvg-id="6d9576ba46b1ae8d1d084a557a7dd823" tvg-chno="145" group-title="HDTV",重温经典 HD
 http://192.168.1.3:3257/stream/channelid/980850029?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="a4c81b95983a0b2941d21cb0b4553a6d" tvg-chno="295" group-title="数字频道",世界地理 HD
-http://192.168.1.3:3257/stream/channelid/354142372?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" tvg-id="9f8e4a57cdf9c442cdd8e1b8815f893b" tvg-chno="296" group-title="数字频道",风云剧场 HD
-http://192.168.1.3:3257/stream/channelid/1464503967?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="dfe484d7bdae7f6561235b4cabca66f8" tvg-chno="295" group-title="数字频道",世界地理 HD
+http://192.168.1.3:3257/stream/channelid/1468327135?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" tvg-id="b364d032727804eb86d12960e445cce0" tvg-chno="296" group-title="数字频道",风云剧场 HD
+http://192.168.1.3:3257/stream/channelid/852518067?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" tvg-id="789ca00bce149f69e61e4236a04f06c1" tvg-chno="297" group-title="数字频道",第一剧场 HD
 http://192.168.1.3:3257/stream/channelid/195075192?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" tvg-id="09393e41c6cfaed6611dbbc24d46622d" tvg-chno="298" group-title="数字频道",怀旧剧场 HD
@@ -220,14 +220,14 @@ http://192.168.1.3:3257/stream/channelid/1085875978?auth=PWgoKtvRUwpwjPsG.U7QbAt
 http://192.168.1.3:3257/stream/channelid/1064408453?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" tvg-id="6384cf3ccfd361f9ffaa5b31f5bd2a5b" tvg-chno="336" group-title="数字频道",茶频道 HD
 http://192.168.1.3:3257/stream/channelid/1020232803?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" tvg-id="f04025777570529c6b458e3c2cc65edf" tvg-chno="337" group-title="数字频道",早期教育高清
+http://192.168.1.3:3257/stream/channelid/1998930160?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="338" group-title="数字频道",天元围棋高清
+http://192.168.1.3:3257/stream/channelid/674446361?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="efe4d02620f5213aa22e85bb46f5a749" tvg-chno="341" group-title="数字频道",省平台直播通道
 http://192.168.1.3:3257/stream/channelid/651224303?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="27453baa85665c30304e701e395128da" tvg-chno="500" group-title="数字频道",爱艺在线
 http://192.168.1.3:3257/stream/channelid/708527399?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="f04025777570529c6b458e3c2cc65edf" tvg-chno="501" group-title="数字频道",测试节目
-http://192.168.1.3:3257/stream/channelid/1998930160?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="502" group-title="数字频道",测试频道
-http://192.168.1.3:3257/stream/channelid/674446361?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="abd1c55c9425bee730db5f2a42873dd2" tvg-chno="503" group-title="数字频道",测试频道
 http://192.168.1.3:3257/stream/channelid/1556468139?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" tvg-id="92f762ca42ae83259ea238b985e68c20" tvg-chno="515" group-title="数字频道",睛彩竞技
@@ -306,6 +306,8 @@ http://192.168.1.3:3257/stream/channelid/1523077096?auth=PWgoKtvRUwpwjPsG.U7QbAt
 http://192.168.1.3:3257/stream/channelid/1269931776?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="709d09ed43cd002bfc5aac688dfd249f" tvg-chno="702" group-title="广电市县",东方卫视 4K
 http://192.168.1.3:3257/stream/channelid/1829346672?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="5028afb368afe310b171fa06464722f6" tvg-chno="702" group-title="广电市县",江苏卫视 4K电信
+http://192.168.1.3:3257/stream/channelid/867117136?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="32b7eab1d4cb6d6b2efde1448e204be8" tvg-chno="703" group-title="广电市县",湖南卫视 4K
 http://192.168.1.3:3257/stream/channelid/837465906?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="46145b4e294afa99d91c4391324efd82" tvg-chno="704" group-title="广电市县",浙江卫视 4K
@@ -418,9 +420,7 @@ http://192.168.1.3:3257/stream/channelid/1237214215?auth=PWgoKtvRUwpwjPsG.U7QbAt
 http://192.168.1.3:3257/stream/channelid/2063184634?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" tvg-id="2461939b359678f6d27758d5c55fdb6e" tvg-chno="764" group-title="HDTV",青海卫视 HD
 http://192.168.1.3:3257/stream/channelid/462643492?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" tvg-id="a80ebcf680a693a140121050dd5fd2ea" tvg-chno="765" group-title="HDTV",云南卫视 HD
-http://192.168.1.3:3257/stream/channelid/1992036008?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" tvg-id="a56b9930476a154541556fad0940ee6a" tvg-chno="766" group-title="HDTV",广西卫视 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" tvg-id="a56b9930476a154541556fad0940ee6a" tvg-chno="765" group-title="HDTV",广西卫视 HD
 http://192.168.1.3:3257/stream/channelid/815360933?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="9a7f02fde87eb83f8ba0d5516fab4e43" tvg-chno="1101" group-title="Radio channels",江苏建康广播
 http://192.168.1.3:3257/stream/channelid/2097315738?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
@@ -470,12 +470,18 @@ http://192.168.1.3:3257/stream/channelid/483821056?auth=PWgoKtvRUwpwjPsG.U7QbAta
 http://192.168.1.3:3257/stream/channelid/1519787594?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-id="a98f63c1403bd2095e861df6abb38191" tvg-chno="1500" group-title="TV channels",世界地理
 http://192.168.1.3:3257/stream/channelid/1097043881?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-id="e0a17b62d9be525d9f30f3bfe4243d74" tvg-chno="1500" group-title="TV channels",云南卫视
+http://192.168.1.3:3257/stream/channelid/1652269536?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-id="7aec362c859d635b2c85eebff3ab8fca" tvg-chno="1500" group-title="TV channels",优漫卡通
 http://192.168.1.3:3257/stream/channelid/741796986?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-id="b9e2b36983203895a2a32a8a454c0e1e" tvg-chno="1500" group-title="TV channels",兵团卫视
 http://192.168.1.3:3257/stream/channelid/1773396665?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-id="ff1475222443656e12e1e59937df42df" tvg-chno="1500" group-title="TV channels",天元围棋
+http://192.168.1.3:3257/stream/channelid/578098431?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-id="424c557c729e625b54b39888e410b731" tvg-chno="1500" group-title="TV channels",新疆卫视
 http://192.168.1.3:3257/stream/channelid/2085964866?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
+#EXTINF:-1 tvg-id="5562f3012d7ece9f63b0467b8c383ca8" tvg-chno="1500" group-title="TV channels",早期教育
+http://192.168.1.3:3257/stream/channelid/32727637?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-id="0192378bb6c94d3a47030164e963e8ce" tvg-chno="1500" group-title="TV channels",江苏影视
 http://192.168.1.3:3257/stream/channelid/188191233?auth=PWgoKtvRUwpwjPsG.U7QbAtatUck&profile=pass
 #EXTINF:-1 tvg-id="551c3737a784a3a4b9907a6ade0eab55" tvg-chno="1500" group-title="TV channels",江苏教育
