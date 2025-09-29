@@ -50,7 +50,7 @@ http://192.168.1.3:3257/stream/channelid/236938708?profile=pass
 http://192.168.1.3:3257/stream/channelid/542322500?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" tvg-id="780bd4041223b5b4d4d7579ed8ef111b" tvg-chno="56" group-title="CCTV本地",CETV1 HD
 http://192.168.1.3:3257/stream/channelid/81005432?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" tvg-id="f04025777570529c6b458e3c2cc65edf" tvg-chno="57" group-title="CCTV本地",早期教育高清
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" tvg-id="f04025777570529c6b458e3c2cc65edf" tvg-chno="57" group-title="CCTV本地",早期教育 HD
 http://192.168.1.3:3257/stream/channelid/1998930160?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="61" group-title="CCTV本地",江苏新闻 HD
 http://192.168.1.3:3257/stream/channelid/501650765?profile=pass
@@ -146,7 +146,7 @@ http://192.168.1.3:3257/stream/channelid/502095747?profile=pass
 http://192.168.1.3:3257/stream/channelid/980850029?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="e362f49551f3f50d2810b766c74b1416" tvg-chno="295" group-title="数字频道",世界地理 HD
 http://192.168.1.3:3257/stream/channelid/368337635?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="2794b62682d4098feb65bc4a7f048ee5" tvg-chno="295" group-title="数字频道",世界地理 IP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="2794b62682d4098feb65bc4a7f048ee5" tvg-chno="295" group-title="数字频道",世界地理 HD-IP
 http://192.168.1.3:3257/stream/channelid/649499687?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" tvg-id="b364d032727804eb86d12960e445cce0" tvg-chno="296" group-title="数字频道",风云剧场 HD
 http://192.168.1.3:3257/stream/channelid/852518067?profile=pass
