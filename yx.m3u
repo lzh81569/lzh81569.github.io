@@ -223,15 +223,27 @@ http://192.168.50.1:8888/rtp/239.49.8.49:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" tvg-id="24d1a917106a139adb5f3ad79a62bba6" tvg-chno="510" group-title="WSTV",山西卫视 HD电信
 http://192.168.50.1:8888/rtp/239.49.1.55ƒ:8528
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" tvg-id="92f762ca42ae83259ea238b985e68c20" tvg-chno="512" group-title="数字频道",睛彩竞技
-http://192.168.50.66:3257/stream/channelid/1247999890?profile=pass
+http://192.168.50.1:8888/rtp/239.49.8.39:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" tvg-id="adbc1d5a3939bf8800341f6d2b6ef6a5" tvg-chno="513" group-title="数字频道",睛彩篮球
-http://192.168.50.66:3257/stream/channelid/1511898285?profile=pass
+http://192.168.50.1:8888/rtp/239.49.8.42:8000
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600700000&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="80bc2eb42333c85d4b05f88f0a85b05a" tvg-chno="514" group-title="数字频道",盐城2
-http://192.168.50.66:3257/stream/channelid/875478144?profile=pass
+http://192.168.50.1:8888/rtp/239.49.0.88:8000
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600700000&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="24107c8ea893715a6498a840a86ca059" tvg-chno="515" group-title="数字频道",盐城3
-http://192.168.50.66:3257/stream/channelid/243011620?profile=pass
+http://192.168.50.1:8888/rtp/239.49.0.91:8000
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=1024&m=134027254831440524&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" tvg-id="fb2a0627bf49a544a5aa6e135b9fc6b8" tvg-chno="524" group-title="数字频道",苏超-4KHDR
-http://192.168.50.66:3257/stream/channelid/654715643?profile=pass
+http://192.168.50.1:8888/rtp/239.49.8.82:8000
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="数字频道",江苏卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.62:8000
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="数字频道",浙江卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.64:8000
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="数字频道",湖南卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.68:8000
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="数字频道",东方卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.70:8000
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="数字频道",山东卫视4K
+http://192.168.50.1:8888/rtp/239.49.1.72:8000
+#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="数字频道",四川卫视4K
+http://192.168.50.1:8888/rtp/239.49.1.66:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" tvg-id="ad4ab312b0d0682e8256a9349c1cf340" tvg-chno="525" group-title="江浙沪",上海新闻综合
 http://192.168.50.66:3257/stream/channelid/313739949?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" tvg-id="61bf08aa6f4263e1eb547b588d193a19" tvg-chno="526" group-title="江浙沪",上海都市
