@@ -487,7 +487,7 @@ http://192.168.50.1:8888/rtp/239.49.8.56:9826
 http://192.168.50.1:8888/rtp/239.49.0.128:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="eedc442ce559e0fbf83f47aed97269fd" tvg-chno="50" group-title="电信",CCTV16 HD
 http://192.168.50.1:8888/rtp/239.49.8.31:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-id="3dde8603aed2b060060dc4dc10b99989" tvg-chno="51" group-title=电信",CCTV17 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-id="3dde8603aed2b060060dc4dc10b99989" tvg-chno="51" group-title="电信",CCTV17 HD
 http://192.168.50.1:8888/rtp/239.49.8.52:9810
 #EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="电信",江苏卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.62:8000
