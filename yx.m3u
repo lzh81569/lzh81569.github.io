@@ -184,7 +184,7 @@ http://192.168.50.66:3257/stream/channelid/1191241424?auth=PQgplJJUrpQdu9Uk6VeO8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" tvg-id="08ad380275d5ab2e1a3b68117f2a0df6" tvg-chno="315" group-title="数字频道",欢笑剧场 HD
 http://192.168.50.66:3257/stream/channelid/37268744?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" tvg-id="9f8b76f9ced6df736717fdbbc0c40b49" tvg-chno="316" group-title="数字频道",第一财经 HD
-http://192.168.50.66:3257/stream/channelid/2037812127?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+http://192.168.50.1:8888/rtp/239.49.8.37:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" tvg-id="0b08a73bb3a1e033fa6de2a8c6ad1cd2" tvg-chno="317" group-title="数字频道",东方财经 HD
 http://192.168.50.66:3257/stream/channelid/1000802315?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" tvg-id="700d15f295e2158766e4109441bcf2ad" tvg-chno="318" group-title="数字频道",动漫秀场 HD
