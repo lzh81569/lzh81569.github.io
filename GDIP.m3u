@@ -585,8 +585,8 @@ http://172.31.203.136:8006/jscn/WenWuBaoKuHD.m3u8
 http://172.31.203.136:8006/jscn/SiHaiDiaoYu.m3u8
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xfpy.png" group-title="数字频道-IP",先锋乒羽
 http://172.31.203.136:8006/jscn/XianFengPingYu.m3u8
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" group-title="数字频道-IP",环球旅游
-http://172.31.203.136:8006/jscn/HuanQiuLvYou.m3u8
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" group-title="数字频道-IP",环球旅游 HD
+http://172.31.203.136:8006/jscn/HuanQiuLvYouHD.m3u8
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hyqg.png" group-title="数字频道-IP",环球奇观
 http://172.31.203.136:8006/jscn/HuanQiuQiGuan.m3u8
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sthj.png" group-title="数字频道-IP",生态环境
