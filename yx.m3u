@@ -349,8 +349,6 @@ http://192.168.50.66:3257/stream/channelid/1698300851?auth=PQgplJJUrpQdu9Uk6VeO8
 http://192.168.50.66:3257/stream/channelid/2051895915?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" tvg-id="dd8ad22e58e14163cc45d2c4d799f022" tvg-chno="731" group-title="广电市县",扬州2 HD
 http://192.168.50.66:3257/stream/channelid/785550045?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040504687&size=240&m=133988617244206956&x=bftQtuhQl1HH28oUoHvcZloMxQb0nGT6" tvg-id="a593bc821df15fb78f1bb134427b3a3d" tvg-chno="732" group-title="广电市县",扬州生活 HD
-http://192.168.50.66:3257/stream/channelid/45912997?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504688&size=240&m=133988617246552452&x=v97PgdMgZgt5AvjL14DTcxJqrrOvsr0X" tvg-id="969c3f55e04cd2ff34113e63359cdc1e" tvg-chno="733" group-title="广电市县",镇江1 HD
 http://192.168.50.66:3257/stream/channelid/1430232214?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040504684&size=240&m=133988617241092067&x=csx8TADsqiZxUc2AGr4V3WEFq79Sy0vm" tvg-id="575c470a1dc0cefb10d513ea987455f3" tvg-chno="734" group-title="广电市县",泰州1 HD
@@ -363,12 +361,6 @@ http://192.168.50.66:3257/stream/channelid/874787601?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/709395023?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040504685&size=240&m=133988617241380110&x=DFoipfENG6wBSHlX661NPhI12Q0un0Zy" tvg-id="aa660e345867c17130cb618a95fe22fd" tvg-chno="738" group-title="广电市县",宿迁公共 HD
 http://192.168.50.66:3257/stream/channelid/873359018?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" tvg-id="e97d1455feff7fa577b6f78f59e07f45" tvg-chno="739" group-title="广电市县",南京影视 HD
-http://192.168.50.66:3257/stream/channelid/1427406313?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" tvg-id="e06ad952e55a1adb492956ff599d94e9" tvg-chno="740" group-title="广电市县",南京教科 HD
-http://192.168.50.66:3257/stream/channelid/1389980384?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" tvg-id="a06613fa98572a26c948250e5db05e94" tvg-chno="741" group-title="广电市县",南京少儿 HD
-http://192.168.50.66:3257/stream/channelid/2048091808?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1040113480&size=240&m=133986846562097011&x=qrujYoEMODMd4gDS016sQsc3qpf6xMrl" tvg-id="82d6485b9733e153a839948ec38333cb" tvg-chno="742" group-title="广电市县",江阴新闻 HD
 http://192.168.50.66:3257/stream/channelid/1531500162?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113687&size=240&m=133986876093942279&x=38jaGWevLnf476SvMsl2u0maofgcPsTE" tvg-id="94fc574c0e45791d7ac2584e7eef09bd" tvg-chno="743" group-title="广电市县",宜兴新闻 HD
