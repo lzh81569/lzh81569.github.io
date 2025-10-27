@@ -487,3 +487,27 @@ http://192.168.50.1:8888/rtp/239.49.1.66:8000
 http://192.168.50.1:8888/rtp/239.49.1.26:8000         
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="电信",深圳卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.28:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="b2407f084ed8b1fa58528a0e5403a3dd" tvg-chno="759" group-title="广电市县",CCTV4K
+http://192.168.50.66:3257/stream/channelid/142557362?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="69dd81cd136b2861f03dc06185700f9c" tvg-chno="760" group-title="广电市县",CCTV16 4K
+http://192.168.50.66:3257/stream/channelid/1300356457?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" tvg-id="104f7ca9d35f8c49e7634106b7200e9e" tvg-chno="761" group-title="广电市县",北京卫视 4K
+http://192.168.50.66:3257/stream/channelid/696012560?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" tvg-id="2d3d130340cae3e18ec22fea6d73fbc5" tvg-chno="762" group-title="广电市县",广东卫视4K
+http://192.168.50.66:3257/stream/channelid/51592493?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="353382a3ca3e55b26475347940952f15" tvg-chno="763" group-title="广电市县",深圳卫视 4K
+http://192.168.50.66:3257/stream/channelid/595735349?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="5ae363791459a12e6bb9ed6bff914d9a" tvg-chno="764" group-title="广电市县",江苏卫视 4K
+http://192.168.50.66:3257/stream/channelid/2036589402?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="b2a8be8ec0ee7a8e79dbefe7201c70f6" tvg-chno="765" group-title="广电市县",东方卫视 4K
+http://192.168.50.66:3257/stream/channelid/247376050?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="f17d6a5391e7f0b5a96870cbaf2f1834" tvg-chno="766" group-title="广电市县",湖南卫视 4K
+http://192.168.50.66:3257/stream/channelid/1399487985?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="f202a6bb8ba1625c584237797db3e09e" tvg-chno="767" group-title="广电市县",浙江卫视 4K
+http://192.168.50.66:3257/stream/channelid/1000735474?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" tvg-id="b67131cd570e86e747571cb534e3bd43" tvg-chno="768" group-title="广电市县",山东卫视 4K
+http://192.168.50.66:3257/stream/channelid/1295086006?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="5f82137b4b4381501da98a5f9fd03184" tvg-chno="769" group-title="广电市县",四川卫视 4K
+http://192.168.50.66:3257/stream/channelid/2064876127?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="3dfdd49e1fcb50c6bf84adebf8591cd8" tvg-chno="770" group-title="广电市县",欢笑剧场 4K
+http://192.168.50.66:3257/stream/channelid/517274941?profile=pass
