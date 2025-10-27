@@ -477,21 +477,21 @@ http://192.168.50.1:8888/rtp/239.49.0.128:8000
 http://192.168.50.1:8888/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-id="3dde8603aed2b060060dc4dc10b99989" tvg-chno="51" group-title="电信",CCTV17 HD
 http://192.168.50.1:8888/rtp/239.49.8.52:9810
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="电信",江苏卫视 4K
-http://192.168.50.1:8888/rtp/239.49.1.62:8000
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="电信",浙江卫视 4K
-http://192.168.50.1:8888/rtp/239.49.1.64:8000
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="电信",湖南卫视 4K
-http://192.168.50.1:8888/rtp/239.49.1.68:8000
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="电信",东方卫视 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="电信",东方卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.70:8000
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="电信",山东卫视4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title="电信",江苏卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.62:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="2f5332fee902aee64dbec8826d07ef68" tvg-chno="102" group-title="电信",湖南卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.68:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="0f936bb168aa28e0c0f71a89d64ad739" tvg-chno="103" group-title="电信",浙江卫视 4K 
+http://192.168.50.1:8888/rtp/239.49.1.64:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" tvg-id="d7ee6cb4a9356af6cb245865d2411474" tvg-chno="104" group-title="电信",北京卫视 4K
+http://192.168.50.1:8888/rtp/239.49.0.253:8000      
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" tvg-id="a1210e90a42d76d3439a04035c2ada76" tvg-chno="105" group-title="电信",山东卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.72:8000
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="电信",四川卫视4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="146d87ba08d0de06886fb9685bbb8af7" tvg-chno="106" group-title="电信",四川卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.66:8000
-#EXTINF:-1  tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="电信",北京卫视 4K
-http://192.168.50.1:8888/rtp/239.49.0.253:8000                           
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="电信",广东卫视 4K
-http://192.168.50.1:8888/rtp/239.49.1.26:8000                          
-#EXTINF:-1 tvg-id=" " tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="电信",深圳卫视 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" tvg-id="b8c451f9cff8a317d60396c316513045" tvg-chno="107" group-title="电信",广东卫视 4K
+http://192.168.50.1:8888/rtp/239.49.1.26:8000         
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="电信",深圳卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.28:8000
