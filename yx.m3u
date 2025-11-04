@@ -84,7 +84,7 @@ http://192.168.50.66:3257/stream/channelid/1871058214?auth=PQgplJJUrpQdu9Uk6VeO8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="WSTV",东方卫视 4K
 http://192.168.50.66:3257/stream/channelid/1220647635?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title="WSTV",江苏卫视 4K
-http://192.168.50.66:3257/stream/channelid/1947025520?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+http://192.168.50.66:3257/stream/channelid/388141742?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="2f5332fee902aee64dbec8826d07ef68" tvg-chno="102" group-title="WSTV",湖南卫视 4K
 http://192.168.50.66:3257/stream/channelid/2117227311?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="0f936bb168aa28e0c0f71a89d64ad739" tvg-chno="103" group-title="WSTV",浙江卫视 4K 
