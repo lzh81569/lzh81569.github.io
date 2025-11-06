@@ -128,7 +128,7 @@ http://192.168.50.66:3257/stream/channelid/659366774?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/1999605514?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" tvg-id="80886f017cd2a481c3d71128517af2a2" tvg-chno="131" group-title="WSTV",宁夏卫视 HD
 http://192.168.50.66:3257/stream/channelid/24086656?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" tvg-id="1cb1b68fa632d6dbdd9e0306acdec8d5" tvg-chno="132",内蒙古卫视 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" tvg-id="1cb1b68fa632d6dbdd9e0306acdec8d5" tvg-chno="132" group-title="WSTV",内蒙古卫视 HD
 http://192.168.50.66:3257/stream/channelid/263631132?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" tvg-id="26cc38800ed0491a02fae78cc4397f01" tvg-chno="133" group-title="WSTV",新疆卫视 HD
 http://192.168.50.66:3257/stream/channelid/3722278?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
@@ -202,7 +202,7 @@ http://192.168.50.66:3257/stream/channelid/743781918?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/1020232803?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" tvg-id="77ab6913c94eecae4dd9ec94604dafb0" tvg-chno="329" group-title="数字频道",中国天气 HD
 http://192.168.50.66:3257/stream/channelid/325692279?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" tvg-id="c594230fcaa2cd34c8f57e86d8181dc3" tvg-chno="501" group-title="数字频道",环球旅游 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" tvg-id="c594230fcaa2cd34c8f57e86d8181dc3" tvg-chno="330" group-title="数字频道",环球旅游 HD
 http://192.168.50.66:3257/stream/channelid/253990085?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" tvg-id="d7da3081224b2d50a8ef35f1ac2116e3" tvg-chno="332" group-title="数字频道",求索纪实 HD
 http://192.168.50.66:3257/stream/channelid/19978967?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
@@ -382,7 +382,7 @@ http://192.168.50.66:3257/stream/channelid/1960629767?auth=PQgplJJUrpQdu9Uk6VeO8
 http://192.168.50.66:3257/stream/channelid/1190287280?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" tvg-id="0764be49d7a15f8efbccd6082949215b" tvg-chno="746" group-title="WSTV",陕西卫视 HD-IP
 http://192.168.50.66:3257/stream/channelid/1237214215?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" tvg-id="90c86fcc35c96b5de1c48bae55d3a7de" tvg-chno="747" group-title="广电市县",内蒙古卫视 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" tvg-id="90c86fcc35c96b5de1c48bae55d3a7de" tvg-chno="747" group-title="WSTV",内蒙古卫视 HD-IP
 http://192.168.50.66:3257/stream/channelid/1282394256?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" tvg-id="2461939b359678f6d27758d5c55fdb6e" tvg-chno="749" group-title="WSTV",青海卫视 HD-IP
 http://192.168.50.66:3257/stream/channelid/462643492?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
