@@ -202,6 +202,8 @@ http://192.168.50.66:3257/stream/channelid/743781918?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/1020232803?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" tvg-id="77ab6913c94eecae4dd9ec94604dafb0" tvg-chno="329" group-title="数字频道",中国天气 HD
 http://192.168.50.66:3257/stream/channelid/325692279?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" tvg-id="c594230fcaa2cd34c8f57e86d8181dc3" tvg-chno="501" group-title="数字频道",环球旅游 HD
+http://192.168.50.66:3257/stream/channelid/253990085?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qiusuo1.png" tvg-id="d7da3081224b2d50a8ef35f1ac2116e3" tvg-chno="332" group-title="数字频道",求索纪实 HD
 http://192.168.50.66:3257/stream/channelid/19978967?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jcys.png" tvg-id="96a4cfc42c5b85f0105fb8faae844e8c" tvg-chno="333" group-title="数字频道",精彩影视 HD
@@ -218,8 +220,6 @@ http://192.168.50.66:3257/stream/channelid/651224303?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/586199660?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="27453baa85665c30304e701e395128da" tvg-chno="500" group-title="数字频道",爱艺在线
 http://192.168.50.66:3257/stream/channelid/708527399?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hqly.png" tvg-id="c594230fcaa2cd34c8f57e86d8181dc3" tvg-chno="501" group-title="数字频道",环球旅游 HD
-http://192.168.50.66:3257/stream/channelid/253990085?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou.png" tvg-id="9fea5bc334f46715a16e66bbf22a476f" tvg-chno="501" group-title="WSTV",贵州卫视 HD电信
 http://192.168.50.66:3257/stream/channelid/1130097311?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" tvg-id="ea8c49812515d73dcd8d9b974825e77e" tvg-chno="502" group-title="WSTV",山西卫视 HD电信
