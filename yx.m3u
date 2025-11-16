@@ -82,14 +82,6 @@ http://192.168.50.66:3257/stream/channelid/518204111?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/1665842701?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-id="2615866feb25e299b3a9bbacee03d73d" tvg-chno="99" group-title="WSTV",凤凰资讯 HD
 http://192.168.50.66:3257/stream/channelid/1871058214?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_160_115" group-title="NOWPLAYERHK" group-logo="https://i.imgur.com/lPHuemE.png" group-title="WSTV",Now NEWS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mc-ddooukb8dr.bunny.run/license?id=332
-https://mc-ddooukb8dr.bunny.run/channel/332/master.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="WSTV",东方卫视 4K
 http://192.168.50.66:3257/stream/channelid/1220647635?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="ae922297f27f0ac12b9a0154a163eaa2" tvg-chno="101" group-title="WSTV",江苏卫视 4K
