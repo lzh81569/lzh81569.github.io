@@ -103,3 +103,22 @@ https://jmp2.uk/stvp-USBB1900004J9
 https://jmp2.uk/stvp-USAK3508716A
 #EXTINF:-1 tvg-id="US800003JM" tvg-name="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="国际频道" , BBC Kids
 https://jmp2.uk/stvp-US800003JM
+#EXTINF:-1 tvg-id="11" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" group-title="KBS",KBS1
+https://tv.iill.top/kbs/11
+#EXTINF:-1 tvg-id="12" tvg-name="KBS2" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" group-title="KBS",KBS2
+https://tv.iill.top/kbs/12
+#EXTINF:-1 tvg-id="81" tvg-name="KBS NEWS D" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="KBS",KBS NEWS D
+https://tv.iill.top/kbs/81
+#EXTINF:-1 tvg-id="N91" tvg-name="KBS DRAMA" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048773_443879.png" group-title="KBS",KBS DRAMA
+https://tv.iill.top/kbs/N91
+#EXTINF:-1 tvg-id="N92" tvg-name="KBS JOY" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048850_443880.png" group-title="KBS",KBS JOY
+https://tv.iill.top/kbs/N92
+#EXTINF:-1 tvg-id="N93" tvg-name="KBS LIFE" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" group-title="KBS",KBS LIFE
+https://tv.iill.top/kbs/N93
+#EXTINF:-1 tvg-id="N94" tvg-name="KBS STORY" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048990_443891.png" group-title="KBS",KBS STORY
+https://tv.iill.top/kbs/N94
+#EXTINF:-1 tvg-id="N96" tvg-name="KBS KIDS" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png" group-title="KBS",KBS KIDS
+https://tv.iill.top/kbs/N96
+#EXTINF:-1 tvg-id="14" tvg-name="KBS WORLD" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png" group-title="KBS",KBS WORLD
+https://tv.iill.top/kbs/14
+
