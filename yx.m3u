@@ -254,7 +254,24 @@ http://192.168.50.66:3257/stream/channelid/103406415?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/180765448?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang.png" tvg-id="2b733aa0fd70ece7a3aac19cabb3166f" tvg-chno="524" group-title="江浙沪",之江纪录
 http://192.168.50.66:3257/stream/channelid/540701483?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-
+#EXTINF:-1 tvg-id="11" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" group-title="江浙沪",KBS1
+https://tv.iill.top/kbs/11
+#EXTINF:-1 tvg-id="12" tvg-name="KBS2" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" group-title="江浙沪",KBS2
+https://tv.iill.top/kbs/12
+#EXTINF:-1 tvg-id="81" tvg-name="KBS NEWS D" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="江浙沪",KBS NEWS D
+https://tv.iill.top/kbs/81
+#EXTINF:-1 tvg-id="N91" tvg-name="KBS DRAMA" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048773_443879.png" group-title="江浙沪",KBS DRAMA
+https://tv.iill.top/kbs/N91
+#EXTINF:-1 tvg-id="N92" tvg-name="KBS JOY" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048850_443880.png" group-title="江浙沪",KBS JOY
+https://tv.iill.top/kbs/N92
+#EXTINF:-1 tvg-id="N93" tvg-name="KBS LIFE" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" group-title="江浙沪",KBS LIFE
+https://tv.iill.top/kbs/N93
+#EXTINF:-1 tvg-id="N94" tvg-name="KBS STORY" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048990_443891.png" group-title="江浙沪",KBS STORY
+https://tv.iill.top/kbs/N94
+#EXTINF:-1 tvg-id="N96" tvg-name="KBS KIDS" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png" group-title="江浙沪",KBS KIDS
+https://tv.iill.top/kbs/N96
+#EXTINF:-1 tvg-id="14" tvg-name="KBS WORLD" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png" group-title="江浙沪",KBS WORLD
+https://tv.iill.top/kbs/14
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="e84fc8da29491071df64f6c41ebd8801" tvg-chno="700" group-title="广电市县",江苏卫视  HD
 http://192.168.50.66:3257/stream/channelid/1523077096?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" tvg-id="3890a1934a143c16a75535fb463e0688" tvg-chno="704" group-title="广电市县",南京新闻综合 HD
