@@ -194,6 +194,8 @@ http://192.168.50.66:3257/stream/channelid/1913982320?auth=PQgplJJUrpQdu9Uk6VeO8
 http://192.168.50.66:3257/stream/channelid/1054051442?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" tvg-id="677abbf1f2da3f682537597bcb3e26cc" tvg-chno="320" group-title="数字频道",乐游 HD
 http://192.168.50.66:3257/stream/channelid/1908111975?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" tvg-id="668e124ee76a2ac8f6d8a69baafe4b48" tvg-chno="321" group-title="数字频道",财富天下 HD
+http://192.168.50.66:3257/stream/channelid/1309838950?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png" tvg-id="1f8ed7bab6687a4758abc2426da3575d" tvg-chno="323" group-title="数字频道",游戏风云 HD
 http://192.168.50.66:3257/stream/channelid/987205151?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" tvg-id="1e36552c43309fe82b9e2ed65b75ed96" tvg-chno="324" group-title="数字频道",快乐垂钓 HD
