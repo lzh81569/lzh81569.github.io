@@ -73,6 +73,8 @@ http://172.31.203.136:8006/jscn/CHCDianYingHD.m3u8
 http://172.31.203.136:8006/jscn/CHCDongZuoHD.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="CCTV-IP",CHC家庭影院 HD
 http://172.31.203.136:8006/jscn/CHCJiaTingHD.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zqjy.png" tvg-id="f04025777570529c6b458e3c2cc65edf" tvg-chno="57" group-title="CCTV-IP",早期教育 HD
+http://172.31.203.136:8006/jscn/ZaoQiJiaoYuHD.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="CCTV-IP",风云足球 HD
 http://172.31.203.136:8006/jscn/FengYunZuQiuHD.m3u8 
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="CCTV-IP",央视台球 HD
