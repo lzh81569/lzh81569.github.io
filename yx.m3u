@@ -230,8 +230,6 @@ http://192.168.50.66:3257/stream/channelid/796326283?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/2077059788?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=1024&m=133986896600700000&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="0cb84d38ba6bf913f61b049fac51dbfd" tvg-chno="505" group-title="数字频道",盐城2
 http://192.168.50.66:3257/stream/channelid/944617484?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=1024&m=133986896600700000&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="6af0fb86f0287f2b8a77d16a6cd7bb8d" tvg-chno="506" group-title="数字频道",盐城3
-http://192.168.50.66:3257/stream/channelid/117174378?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=1024&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" tvg-id="ea5b53626c351081c45f3b841fb11d4d" tvg-chno="513" group-title="数字频道",苏超-4KHDR
 http://192.168.50.66:3257/stream/channelid/1649630186?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" tvg-id="ad4ab312b0d0682e8256a9349c1cf340" tvg-chno="515" group-title="江浙沪",上海新闻综合
