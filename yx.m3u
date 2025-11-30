@@ -148,8 +148,6 @@ http://192.168.50.66:3257/stream/channelid/502095747?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/980850029?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="e362f49551f3f50d2810b766c74b1416" tvg-chno="295" group-title="数字频道",世界地理 HD
 http://192.168.50.66:3257/stream/channelid/368337635?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" tvg-id="2794b62682d4098feb65bc4a7f048ee5" tvg-chno="295" group-title="数字频道",世界地理 IP
-http://192.168.50.66:3257/stream/channelid/649499687?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" tvg-id="b364d032727804eb86d12960e445cce0" tvg-chno="296" group-title="数字频道",风云剧场 HD
 http://192.168.50.66:3257/stream/channelid/852518067?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" tvg-id="789ca00bce149f69e61e4236a04f06c1" tvg-chno="297" group-title="数字频道",第一剧场 HD
