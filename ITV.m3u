@@ -71,9 +71,9 @@ http://192.168.50.1:8888/rtp/239.49.8.120:8000
 http://192.168.50.1:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="62" group-title=" ",江苏体育 HD
 http://192.168.50.1:8888/rtp/239.49.8.117:8000            
-#EXTINF:-1,江苏影视
+#EXTINF:-1,江苏影视 HD
 http://192.168.50.1:8888/rtp/239.49.8.118:8000
-#EXTINF:-1,优漫卡通
+#EXTINF:-1,优漫卡通 HD
 http://192.168.50.1:8888/rtp/239.49.8.119:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="64" group-title=" ",江苏教育 HD
 http://192.168.50.1:8888/rtp/239.49.8.122:8000
