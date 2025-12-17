@@ -1,27 +1,20 @@
 #EXTM3U 
 url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png" group-title="国际频道" , CNN
-https://jmp2.uk/stvp-ATBD800001VA
-https://jmp2.uk/stvp-CHBD800001D0
-https://jmp2.uk/stvp-GBBD8000016N
+https://jmp2.uk/stvp-ATBD800001VA#https://jmp2.uk/stvp-CHBD800001D0#https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="国际频道" , BBC News
 https://stitcher.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760
 https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="国际频道" , NBC News NOW
-https://jmp2.uk/stvp-CAAJ2700011IF
-https://jmp2.uk/stvp-GBBB1500004LG
-https://jmp2.uk/stvp-ESBC400003YM
-https://jmp2.uk/stvp-ITBC4000028E
+https://jmp2.uk/stvp-CAAJ2700011IF#https://jmp2.uk/stvp-GBBB1500004LG#https://jmp2.uk/stvp-ESBC400003YM#https://jmp2.uk/stvp-ITBC4000028E
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="IT23000034W" tvg-name="IT23000034W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT23000034W_20251118T015444SQUARE.png" group-title="国际频道",半島電視台英語頻道
-https://jmp2.uk/stvp-GB2300005ML
-https://jmp2.uk/stvp-IT23000034W
+https://jmp2.uk/stvp-GB2300005ML#https://jmp2.uk/stvp-IT23000034W
 #EXTINF:-1 tvg-id="ATBD1100002TA" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="国际频道",FRANCE 24 FAST
 https://jmp2.uk/stvp-ATBD1100002TA
 #EXTINF:-1 tvg-id="US39000038W" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20251202T005927SQUARE.png" group-title="国际频道",K-POP by CJ ENM
-https://jmp2.uk/stvp-CA3900002PM
-https://jmp2.uk/stvp-US39000038W
+https://jmp2.uk/stvp-CA3900002PM#https://jmp2.uk/stvp-US39000038W
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="国际频道" , Sky News
 https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="国际频道" , LiveNOW from FOX
