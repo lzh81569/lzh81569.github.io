@@ -18,6 +18,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://jmp2.uk/stvp-IT23000034W
 #EXTINF:-1 tvg-id="ATBD1100002TA" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="国际频道",FRANCE 24 FAST
 https://jmp2.uk/stvp-ATBD1100002TA
+#EXTINF:-1 tvg-id="US39000038W" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20251202T005927SQUARE.png" group-title="国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-CA3900002PM
+https://jmp2.uk/stvp-US39000038W
 #EXTINF:-1 tvg-id="USBB52000022Q" tvg-name="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="国际频道" , Sky News
 https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="国际频道" , LiveNOW from FOX
