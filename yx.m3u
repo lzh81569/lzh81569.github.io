@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="CCTV本地",CCTV4K
 http://192.168.50.66:3257/stream/channelid/1068238843?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="电信",CCTV4K-ITV
+http://192.168.50.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="CCTV本地",CCTV1 HD
 http://192.168.50.66:3257/stream/channelid/864153780?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="32" group-title="CCTV本地",CCTV2 HD
@@ -205,13 +207,13 @@ http://192.168.50.66:3257/stream/channelid/1085875978?profile=pass
 http://192.168.50.66:3257/stream/channelid/2013561211?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="efe4d02620f5213aa22e85bb46f5a749" tvg-chno="341" group-title="数字频道",省平台直播通道
 http://192.168.50.66:3257/stream/channelid/651224303?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" tvg-id="43f4055449b4cdb0e4e1c8f6e66d6f98" tvg-chno="500" group-title="WSTV",天津卫视 HD电信
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" tvg-id="43f4055449b4cdb0e4e1c8f6e66d6f98" tvg-chno="500" group-title="WSTV",天津卫视 HDITV
 http://192.168.50.66:3257/stream/channelid/1409676355?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779909&size=240&m=133964226765530000&x=TR34MHOnn1ijr3eqrZjKZAUBtO1LCrv0" tvg-id="27453baa85665c30304e701e395128da" tvg-chno="500" group-title="数字频道",爱艺在线
 http://192.168.50.66:3257/stream/channelid/708527399?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou.png" tvg-id="17d88e66663c092d310bba1141a382b2" tvg-chno="501" group-title="WSTV",贵州卫视 HD电信
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou.png" tvg-id="17d88e66663c092d310bba1141a382b2" tvg-chno="501" group-title="WSTV",贵州卫视 HDITV
 http://192.168.50.66:3257/stream/channelid/1720637463?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" tvg-id="9c9872621721c5af96e9f3e6e46774b8" tvg-chno="502" group-title="WSTV",山西卫视 HD电信
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" tvg-id="9c9872621721c5af96e9f3e6e46774b8" tvg-chno="502" group-title="WSTV",山西卫视 HDITV
 http://192.168.50.66:3257/stream/channelid/1651677340?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" tvg-id="138a6fc43a92ebce55308224590e3ff8" tvg-chno="503" group-title="数字频道",睛彩竞技
 http://192.168.50.66:3257/stream/channelid/1148160531?profile=pass
