@@ -460,10 +460,10 @@ http://192.168.50.1:8888/rtp/239.49.0.128:8000
 http://192.168.50.1:8888/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-id="3dde8603aed2b060060dc4dc10b99989" tvg-chno="51" group-title="ITV",CCTV17 HD
 http://192.168.50.1:8888/rtp/239.49.8.52:9810
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="9dd60150ace53f5549b5d5dcf1ab48e1" tvg-chno="71" group-title="ITV",无锡新闻综合 HD
-http://192.168.50.1:8888/rtp/239.49.8.77:8000
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="4815280e798cef8aaae22d3350e14cb9" tvg-chno="72" group-title="ITV",无锡都市资讯 HD
-http://192.168.50.1:8888/rtp/239.49.8.78:8000
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="9dd60150ace53f5549b5d5dcf1ab48e1" tvg-chno="71" group-title=" ",无锡新闻综合 HD
+http://192.168.50.1:8888/rtp/239.49.1.77:8000
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="4815280e798cef8aaae22d3350e14cb9" tvg-chno="72" group-title=" ",无锡都市资讯 HD
+http://192.168.50.1:8888/rtp/239.49.1.78:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="ITV",东方卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.70:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title="ITV",江苏卫视 4K
