@@ -139,7 +139,8 @@ http://192.168.50.1:8888/rtp/239.49.0.167:8000
 http://192.168.50.1:8888/rtp/239.49.0.250:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" tvg-id="2461939b359678f6d27758d5c55fdb6e" tvg-chno="749" group-title=" ",青海卫视 HD
 http://192.168.50.1:8888/rtp/239.49.0.81:8000
-                
+#EXTINF:-1,财富天下
+http://192.168.50.1:8888/rtp/239.49.1.29:6000     
 #EXTINF:-1,金鹰纪实
 http://192.168.50.1:8888/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" tvg-id="fc9088fbd79b07d0fad52dd42c5ea478" tvg-chno="143" group-title=" ",金鹰卡通 HD
