@@ -247,7 +247,7 @@ http://192.168.50.66:3257/stream/channelid/1938531070?profile=pass
 http://192.168.50.66:3257/stream/channelid/1776287384?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="a2e7f5dd57993d437db309ab9f257aac" tvg-chno="601" group-title="江浙沪",4K跨年直播2
 http://192.168.50.66:3257/stream/channelid/1576396706?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="4314812dc7811a7192283b1271678575" tvg-chno="601" group-title="江浙沪",江苏卫视 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="4314812dc7811a7192283b1271678575" tvg-chno="601" group-title="江浙沪",江苏卫视 4K-ITV
 http://192.168.50.66:3257/stream/channelid/763434051?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="063884abe7f699b283a3474e7545d0e4" tvg-chno="700" group-title="广电市县",江苏卫视 HD
 http://192.168.50.66:3257/stream/channelid/730085382?profile=pass
