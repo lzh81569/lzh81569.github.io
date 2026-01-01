@@ -1,14 +1,5 @@
 #EXTM3U 
 url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
-
-#EXTINF:-1 tvg-id="5682" tvg-name="NHK World Premium HD" tvg-logo="https://bkimg.cdn.bcebos.com/pic/9a504fc2d5628535e5dd04451bb961c6a7efce1bc502" group-title="SingtelTV",NHK World Premium HD
-#EXTVLCOPT:http-referrer=https://watchcast.singtel.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a63f50e1b3243918ccf3b2040c240a3:f62c20ad63e4b78cbfec70c44b40df98
-https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5682/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
-
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png" group-title="国际频道" , CNN
 https://jmp2.uk/stvp-ATBD800001VA#https://jmp2.uk/stvp-CHBD800001D0#https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="国际频道" , BBC News
