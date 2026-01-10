@@ -2,6 +2,7 @@
 url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 #EXTINF:-1 tvg-id="ATBD800001VA" tvg-name="ATBD800001VA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD800001VA_20250415T021523SQUARE.png" group-title="国际频道" , CNN
 https://jmp2.uk/stvp-ATBD800001VA#https://jmp2.uk/stvp-CHBD800001D0#https://jmp2.uk/stvp-GBBD8000016N
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="国际频道" , BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8#https://stitcher.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760#https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1 tvg-id="USBB2200014DK" tvg-name="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="国际频道" , NBC News NOW
