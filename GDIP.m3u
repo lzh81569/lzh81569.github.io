@@ -381,14 +381,14 @@ http://172.31.203.136:8006/jscn/DongTai2HD.m3u8
 http://172.31.203.136:8006/jscn/BinHaiXinWenHD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",滨海经济生活 HD
 http://172.31.203.136:8006/jscn/BinHaiJingJiHD.m3u8
-#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",响水综合
-http://172.31.203.136:8006/jscn/XiangShuiZongHe.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",响水综合 HD
+http://172.31.203.136:8006/jscn/XiangShuiZongHeHD.m3u8
 #EXTINF:-1 tvg-id=" " tvg-name=" " tvg-logo=" " group-title="江苏区县-IP",建湖综合 HD
 http://172.31.203.136:8006/jscn/JianHu1HD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",建湖二套
 http://172.31.203.136:8006/jscn/JianHu2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁新闻
-http://172.31.203.136:8006/jscn/FuNing1.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁新闻 HD
+http://172.31.203.136:8006/jscn/FuNing1HD.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",阜宁二套
 http://172.31.203.136:8006/jscn/FuNing2.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="江苏区县-IP",射阳新闻 HD
