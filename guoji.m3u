@@ -15,7 +15,7 @@ https://jmp2.uk/stvp-GB2300005ML#https://jmp2.uk/stvp-IT23000034W
 https://jmp2.uk/stvp-USBB52000022Q#https://tg-sub-bot.sharewithyou.dpdns.org/play?id=5988168658&sign=NTk4ODE2ODY1OC1odHRwczovL2RicmI0OXBqb3ltZzQuY2xvdWRmcm9udC5uZXQvbWFuaWZlc3QvM2ZlYzNlNWNhYzM5YTUyYjIxMzJmOWM2NmM4M2RhZTA0M2RjMTdkNC9wcm9kX2RlZmF1bHRfeHVtby1hbXMtYXdzLzcxOGMzOWM0LTNmYjktNGVjZC05YzU2LWE3Yjg4MGM3ZGY3ZC80Lm0zdTgtbGlua3NpZ25zZWNyZXRfMjAyNg&url=https%3A%2F%2Fdbrb49pjoymg4.cloudfront.net%2Fmanifest%2F3fec3e5cac39a52b2132f9c66c83dae043dc17d4%2Fprod_default_xumo-ams-aws%2F718c39c4-3fb9-4ecd-9c56-a7b880c7df7d%2F4.m3u8
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="国际频道" , LiveNOW from FOX
 https://jmp2.uk/stvp-USBA300024TN
-#EXTINF:-1 tvg-id="ITBD3600002PA" tvg-name="ITBD3600002PA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20241022T051546SQUARE.png" group-title="News" , CNBC
+#EXTINF:-1 tvg-id="ITBD3600002PA" tvg-name="ITBD3600002PA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20241022T051546SQUARE.png" group-title="国际频道" , CNBC
 https://jmp2.uk/stvp-GBBD3600001NO#https://tg-sub-bot.sharewithyou.dpdns.org/play?id=5988168658&e=1768579176&sign=NTk4ODE2ODY1OC1odHRwczovL2ZsMS5tb3Zlb25qb3kuY29tL0NOQkMvaW5kZXgubTN1OC0xNzY4NTc5MTc2LWxpbmtzaWduc2VjcmV0XzIwMjY&v=aHR0cHM6Ly9mbDEubW92ZW9uam95LmNvbS9DTkJDL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="ATBD1100002TA" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="国际频道",FRANCE 24 FAST
 https://jmp2.uk/stvp-ATBD1100002TA
@@ -33,12 +33,14 @@ https://jmp2.uk/stvp-USBA30002142
 https://jmp2.uk/stvp-US2700001QY
 #EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title="国际频道", NBC Sports NOW
 https://jmp2.uk/stvp-USBD420002446
-#EXTINF:-1 tvg-id="USBA300031OT" tvg-name="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png" group-title="国际频道", SportsGrid
-https://jmp2.uk/stvp-USBA300031OT
-#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="国际频道", FIFA+
-https://jmp2.uk/stvp-USBD12000255B
+#EXTINF:-1 tvg-id="US3600003R7" tvg-name="US3600003R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260105T175814SQUARE.png" group-title="国际频道" , The NBA Channel
+https://jmp2.uk/stvp-US3600003R7
 #EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="国际频道", beIN SPORTS XTRA
 https://jmp2.uk/stvp-USAJ4300001Q7
+#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="国际频道", FIFA+
+https://jmp2.uk/stvp-USBD12000255B
+#EXTINF:-1 tvg-id="USBA300031OT" tvg-name="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png" group-title="国际频道", SportsGrid
+https://jmp2.uk/stvp-USBA300031OT
 #EXTINF:-1 tvg-id="US1400008DW" tvg-name="US1400008DW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" group-title="国际频道", Unbeaten Sports Channel
 https://jmp2.uk/stvp-US1400008DW
 #EXTINF:-1 tvg-id="US37000017A" tvg-name="US37000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20241210T013843SQUARE.png" group-title="国际频道", Big 12 Studios
@@ -81,9 +83,9 @@ https://jmp2.uk/stvp-USAJ3000007MT
 https://jmp2.uk/stvp-USBB1000002TK
 #EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="USBA3400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20250204T234403SQUARE.png" group-title="国际频道" , Love Nature 4K
 https://jmp2.uk/stvp-USBA3400003IP
-#EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png" group-title="Nature, History & Science" , BBC Earth
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20250421T234905SQUARE.png" group-title="国际频道" , BBC Earth
 https://jmp2.uk/stvp-USBD1700001RW
-#EXTINF:-1 tvg-id="US3700005GP" tvg-name="US3700005GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700005GP_20241119T020405SQUARE.png" group-title="Action & Drama" , BBC Drama
+#EXTINF:-1 tvg-id="US3700005GP" tvg-name="US3700005GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700005GP_20241119T020405SQUARE.png" group-title="国际频道" , BBC Drama
 https://jmp2.uk/stvp-US3700005GP
 #EXTINF:-1 tvg-id="US3700006XE" tvg-name="US3700006XE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700006XE_20241203T004820SQUARE.png" group-title="国际频道" , Dinos 24/7
 https://jmp2.uk/stvp-US3700006XE
