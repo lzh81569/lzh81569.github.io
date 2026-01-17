@@ -132,7 +132,7 @@ http://192.168.50.1:8888/rtp/239.49.8.8:9632
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" tvg-id="b173da8368e4bd6aa7ea5887ba819617" tvg-chno="111" group-title=" ",河南卫视 HD
 http://192.168.50.1:8888/rtp/239.49.8.29:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" tvg-id="ea8c49812515d73dcd8d9b974825e77e" tvg-chno="502" group-title=" ",山西卫视 HD
-http://192.168.50.1:8888/rtp/239.49.1.55ƒ:8528
+http://192.168.50.1:8888/rtp/239.49.1.55:8528
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" tvg-id="07d6dcf48309a979c46bc4430d4f1583" tvg-chno="744" group-title=" ",三沙卫视 HD
 http://192.168.50.1:8888/rtp/239.49.0.167:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" tvg-id="76234d27fc347e10d12e13673874d498" tvg-chno="120" group-title=" ",甘肃卫视 HD
