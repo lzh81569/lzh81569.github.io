@@ -151,8 +151,6 @@ http://192.168.50.1:8888/rtp/239.49.1.76:8000
 http://192.168.50.1:8888/rtp/239.49.1.79:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="334" group-title=" ",四海钓鱼 HD
 http://192.168.50.1:8888/rtp/239.49.1.80:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id=" " tvg-chno=" " group-title=" ",江苏国际 HD
-http://192.168.50.1:8888/rtp/239.49.1.81:8000
 #EXTINF:-1,金鹰纪实
 http://192.168.50.1:8888/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" tvg-id="fc9088fbd79b07d0fad52dd42c5ea478" tvg-chno="143" group-title=" ",金鹰卡通 HD
