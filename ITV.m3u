@@ -75,10 +75,12 @@ http://192.168.50.1:8888/rtp/239.49.8.120:8000
 http://192.168.50.1:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="62" group-title=" ",江苏体育 HD
 http://192.168.50.1:8888/rtp/239.49.8.117:8000            
-#EXTINF:-1,江苏影视 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" ,江苏影视 HD
 http://192.168.50.1:8888/rtp/239.49.8.118:8000
-#EXTINF:-1,优漫卡通 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" ,优漫卡通 HD
 http://192.168.50.1:8888/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id=" " tvg-chno=" " group-title=" ",江苏国际 HD
+http://192.168.50.1:8888/rtp/239.49.1.81:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="64" group-title=" ",江苏教育 HD
 http://192.168.50.1:8888/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" tvg-id="7b48384eccf0c5b523b2a8feab1de576" tvg-chno="65" group-title=" ",江苏综艺 HD
@@ -135,12 +137,22 @@ http://192.168.50.1:8888/rtp/239.49.8.29:8000
 http://192.168.50.1:8888/rtp/239.49.1.55:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" tvg-id="07d6dcf48309a979c46bc4430d4f1583" tvg-chno="744" group-title=" ",三沙卫视 HD
 http://192.168.50.1:8888/rtp/239.49.0.167:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" tvg-id="b6f5dc1a0549d4d798448d422ebd0981" tvg-chno="746" group-title=" ",陕西卫视 HD
+http://192.168.50.1:8888/rtp/239.49.1.74:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" tvg-id="1cb1b68fa632d6dbdd9e0306acdec8d5" tvg-chno="132" group-title=" ",内蒙古卫视 HD
+http://192.168.50.1:8888/rtp/239.49.1.75:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" tvg-id="76234d27fc347e10d12e13673874d498" tvg-chno="120" group-title=" ",甘肃卫视 HD
 http://192.168.50.1:8888/rtp/239.49.0.250:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" tvg-id="2461939b359678f6d27758d5c55fdb6e" tvg-chno="749" group-title=" ",青海卫视 HD
 http://192.168.50.1:8888/rtp/239.49.0.81:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" tvg-id="668e124ee76a2ac8f6d8a69baafe4b48" tvg-chno="321" group-title="数字频道",财富天下 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" tvg-id="668e124ee76a2ac8f6d8a69baafe4b48" tvg-chno="321" group-title=" ",财富天下 HD
 http://192.168.50.1:8888/rtp/239.49.1.76:8000 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="334" group-title=" ",天元围棋 HD
+http://192.168.50.1:8888/rtp/239.49.1.79:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="334" group-title=" ",四海钓鱼 HD
+http://192.168.50.1:8888/rtp/239.49.1.80:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id=" " tvg-chno=" " group-title=" ",江苏国际 HD
+http://192.168.50.1:8888/rtp/239.49.1.81:8000
 #EXTINF:-1,金鹰纪实
 http://192.168.50.1:8888/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" tvg-id="fc9088fbd79b07d0fad52dd42c5ea478" tvg-chno="143" group-title=" ",金鹰卡通 HD
