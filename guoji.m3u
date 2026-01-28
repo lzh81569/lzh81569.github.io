@@ -117,42 +117,5 @@ https://jmp2.uk/stvp-US2200007QG
 #EXTINF:-1 tvg-id="USBB1900004J9" tvg-name="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="国际频道" , Toon Goggles
 https://jmp2.uk/stvp-USBB1900004J9
 #EXTINF:-1 tvg-id="USAK3508716A" tvg-name="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20250325T020225SQUARE.png" group-title="国际频道" , Kidoodle.TV
-https://jmp2.uk/stvp-USAK3508716A
-#EXTINF:-1 tvg-id="US800003JM" tvg-name="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="国际频道" , BBC Kids
-https://jmp2.uk/stvp-US800003JM
-#EXTINF:-1 ,Sky Movies Premiere
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/sky-movies-premiere-hls/cmaf/dash.mpd$license-type=clearkey$license-key=23b2872e37c93138823c997e46d9cfb1:80f61bbe264a4f39bba2943b5b9d949b
-#EXTINF:-1 ,Sky Movies Comedy
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/sky-movies-comedy-hls/cmaf/dash.mpd$license-type=clearkey$license-key=84c3cf49193630d6931c2fd6bfe0ad99:d8a51ab3e5ca43d391a4671ddbf4dd41
-#EXTINF:-1 ,Sky Movies Action
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/sky-movies-action-hls/cmaf/dash.mpd$license-type=clearkey$license-key=62f809b3810d39218d04873ab201e5e2:62347ba439754f62aa08382bfc4aec89
-#EXTINF:-1 ,Sky Movies Greats
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/sky-movies-greats-hls/cmaf/dash.mpd$license-type=clearkey$license-key=af1989ffe23937efb214ae71ad4d8b21:1423d2a0fce64365aae12df10a3dba2b
-#EXTINF:-1 ,Sky Movies Classics
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/sky-movies-classics-hls/cmaf/dash.mpd$license-type=clearkey$license-key=d91a31bf26223952a0d55c472c69375c:139368cc25e543fca1fc15be36257668
-#EXTINF:-1 ,Sky Movies Family
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/sky-movies-family-hls/cmaf/dash.mpd$license-type=clearkey$license-key=e06647f561fc30d981b2903334e34c54:d074fd2d20db49fb8ee3073555196096
-#EXTINF:-1 ,Sky Sport Select
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-select-hls/cmaf/dash.mpd$license-type=clearkey$license-key=7a9c8aa259c733f89b39e6fa446ccb6c:6c8986db00cc441bb2605b7036fed686
-#EXTINF:-1 ,Sky Sport 1
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-1-hls/cmaf/dash.mpd$license-type=clearkey$license-key=c48951ce945d305c9e8808186a4bc0d2:074d2effa3544ad082c782e0cba14ebd
-#EXTINF:-1 ,Sky Sport 2
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-2-hls/cmaf/dash.mpd$license-type=clearkey$license-key=6799e6cbd93f3d52a0c61acc6cde0af3:8d7512f96de244b9bad7e5ccdf49c61d
-#EXTINF:-1 ,Sky Sport 3
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-3-hls/cmaf/dash.mpd$license-type=clearkey$license-key=b822b1a6b0113d91902aa1d29b0b6b58:c555107778f047ffa7120b0ad2f155b9
-#EXTINF:-1 ,Sky Sport 4
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-4-hls/cmaf/dash.mpd$license-type=clearkey$license-key=efadb59407fc36ecbd44636f1d2abab8:d2dbbef89c274881aeb82fa01123089f
-#EXTINF:-1 ,Sky Sport 5
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-5-hls/cmaf/dash.mpd$license-type=clearkey$license-key=acd7a4036e8b3d6b9d427ef3449035ca:2f8c50faf84d48f590a7a4095a29448a
-#EXTINF:-1 ,Sky Sport 6
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-6-hls/cmaf/dash.mpd$license-type=clearkey$license-key=c2fec725535a3c79b0b5e2e34efdfc18:65997626394b4fb684ec48bc1f968a79
-#EXTINF:-1 ,Sky Sport 7
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-7-hls/cmaf/dash.mpd$license-type=clearkey$license-key=ebdb88aaaba537ad880cfdf7027b8cf3:e38f1e4f8e3e4a66913421770e0792c3
-#EXTINF:-1 ,Sky Sport 8
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-8-hls/cmaf/dash.mpd$license-type=clearkey$license-key=9c2fd8ef1c793057ad953f44df6517e0:5eb0b7321d414c3bab3aa8e947d9d79b
-#EXTINF:-1 ,Sky Sport 9
-https://linear.stream.skyone.co.nz/out/v1/g-tier1-v1-h/sky-sport-9-hls/cmaf/dash.mpd$license-type=clearkey$license-key=534b25a5cfca32d09a30ef5f6d37ee02:abe0bcde0284455daac04a550e7e42ba
-#EXTINF:-1 ,Espn
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/espn-hls/cmaf/dash.mpd$license-type=clearkey$license-key=5bc51e1afdf03dc0aa9d3a412a6dcecf:9aab700e70ca4ad4bbb3dc4ff78c4713
-#EXTINF:-1 ,Espn 2
-https://linear.stream.skyone.co.nz/out/v1/g-tier2-v1-h/espn-2-hls/cmaf/dash.mpd$license-type=clearkey$license-key=d990c8755bd23c6a8c86417e075abb8f:025ebf5c7b614cbcaf4a9d644d7ed402
+
+
