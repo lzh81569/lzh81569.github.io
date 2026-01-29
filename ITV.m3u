@@ -3,6 +3,8 @@
 http://192.168.50.1:8888/rtp/239.49.1.70:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title=" ",江苏卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.62:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title=" ",江苏卫视 4K
+http://192.168.50.1:8888/rtp:/239.49.8.65:9368
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="2f5332fee902aee64dbec8826d07ef68" tvg-chno="102" group-title=" ",湖南卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.68:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="0f936bb168aa28e0c0f71a89d64ad739" tvg-chno="103" group-title=" ",浙江卫视 4K 
