@@ -13,8 +13,8 @@ http://192.168.50.66:3257/stream/channelid/1303270667?profile=pass
 http://192.168.50.66:3257/stream/channelid/2034458709?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="35" group-title="CCTV本地",CCTV5 HD
 http://192.168.50.66:3257/stream/channelid/388043606?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ef3c7adce37a214664dcd94cd05f39e3" tvg-chno="35" group-title="CCTV本地",CCTV5 HD-IP
-http://192.168.50.66:3257/stream/channelid/1551514863?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="a5463aa048dfb437befc0faaacd8cc6f" tvg-chno="35" group-title="CCTV本地",CCTV5 HD-ITV1
+http://192.168.50.66:3257/stream/channelid/540690085?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="36" group-title="CCTV本地",CCTV5+ HD
 http://192.168.50.66:3257/stream/channelid/442253313?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="d8a7254065e8cedadca63ce7e57d40a8" tvg-chno="37" group-title="CCTV本地",CCTV16 4K
@@ -239,22 +239,28 @@ http://192.168.50.66:3257/stream/channelid/103406415?profile=pass
 http://192.168.50.66:3257/stream/channelid/180765448?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang.png" tvg-id="fc1bbe1c1fc55e36bae1e81621112c2f" tvg-chno="517" group-title="江浙沪",之江纪录
 http://192.168.50.66:3257/stream/channelid/482221052?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang.png" tvg-id="ebd79828b62aaec075b2a33dbb9261be" tvg-chno="518" group-title="CCTV本地",嘉兴新闻综合
-http://192.168.50.66:3257/stream/channelid/681105387?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ef3c7adce37a214664dcd94cd05f39e3" tvg-chno="535" group-title="CCTV本地",CCTV5 HD-IP
+http://192.168.50.66:3257/stream/channelid/1551514863?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="3ffbd67d22773da28ecb0d3f9cc7d242" tvg-chno="535" group-title="CCTV本地",CCTV5 HD-ITV2
+http://192.168.50.66:3257/stream/channelid/2111241023?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="fea28b73738d6177a697126b3ad60b36" tvg-chno="571" group-title="江浙沪",无锡新闻综合 HD
 http://192.168.50.66:3257/stream/channelid/1938531070?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="98fedfe9b826a1bce0461db97913bb19" tvg-chno="572" group-title="江浙沪",无锡都市资讯 HD
 http://192.168.50.66:3257/stream/channelid/1776287384?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="a2e7f5dd57993d437db309ab9f257aac" tvg-chno="601" group-title="江浙沪",4K跨年直播2
 http://192.168.50.66:3257/stream/channelid/1576396706?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="4314812dc7811a7192283b1271678575" tvg-chno="601" group-title="江浙沪",江苏卫视 4K-ITV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="4314812dc7811a7192283b1271678575" tvg-chno="601" group-title="江浙沪",江苏卫视 4K
 http://192.168.50.66:3257/stream/channelid/763434051?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="063884abe7f699b283a3474e7545d0e4" tvg-chno="700" group-title="广电市县",江苏卫视 HD
 http://192.168.50.66:3257/stream/channelid/730085382?profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="5e9c48cacbd301b6134983413ee920cd" tvg-chno="701" group-title="广电市县",盐城新闻综合 HD
-http://192.168.50.66:3257/stream/channelid/1246272606?profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=1024&m=133986896600700000&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="6b36ec016739acb6d87ef4552bca77f9" tvg-chno="702" group-title="广电市县",盐城2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-id="5bb19623646146a64e2f6dd9da154ecf" tvg-chno="701" group-title="广电市县",鳳凰衛視中文台 HD
+http://192.168.50.66:3257/stream/channelid/597078363?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-id="bf07b9fcc1737d421c338a5830ee1cf2" tvg-chno="702" group-title="广电市县",鳳凰衛視資訊台 HD
+http://192.168.50.66:3257/stream/channelid/2092500927?profile=pass
+#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=1024&m=133986896600700000&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="6b36ec016739acb6d87ef4552bca77f9" tvg-chno="703" group-title="广电市县",盐城2 HD
 http://192.168.50.66:3257/stream/channelid/32257643?profile=pass
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1040113901&size=240&m=133986896600693608&x=3DVe5z1MWilem52jPLNK7p7ymkuZSpUq" tvg-id="5e9c48cacbd301b6134983413ee920cd" tvg-chno="703" group-title="广电市县",盐城新闻综合 HD
+http://192.168.50.66:3257/stream/channelid/1246272606?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" tvg-id="9d73da8942808a9ac44964540c396849" tvg-chno="704" group-title="广电市县",南京新闻综合 HD
 http://192.168.50.66:3257/stream/channelid/165311389?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1039901852&size=240&m=133985789793432760&x=uTnjBhayVbdWDq52JKowvLnoTwQW1lFC" tvg-id="172a4459580b2de92e731e32fb497080" tvg-chno="705" group-title="广电市县",南京文旅纪录 HD
@@ -379,6 +385,8 @@ http://192.168.50.66:3257/stream/channelid/1111844982?profile=pass
 http://192.168.50.66:3257/stream/channelid/906752522?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="8721b8ba41899fb79a08b278da72c767" tvg-chno="768" group-title="广电市县",欢笑剧场 4K
 http://192.168.50.66:3257/stream/channelid/985145735?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="9849f56c90b05d775f969ac3a7365741" tvg-chno="769" group-title="广电市县",江苏卫视 4K回看
+http://192.168.50.66:3257/stream/channelid/1828014488?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="9a7f02fde87eb83f8ba0d5516fab4e43" tvg-chno="1101" group-title="Radio channels",江苏建康广播
 http://192.168.50.66:3257/stream/channelid/2097315738?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="e7ad49cfe66283f83d93f2709809a30b" tvg-chno="1102" group-title="Radio channels",梁溪之声频率
@@ -417,8 +425,6 @@ http://192.168.50.66:3257/stream/channelid/1057147804?profile=pass
 http://192.168.50.66:3257/stream/channelid/885971367?profile=pass
 #EXTINF:-1 tvg-logo="https://www.ceobaike.com/uploads/202304/1680782350RuIr6cXy.jpg" tvg-id="c00a9627f8b30b3a122bee055e6ac5eb" tvg-chno="1119" group-title="Radio channels",中央华夏之声
 http://192.168.50.66:3257/stream/channelid/664144576?profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="229c327b572f1e0b23176e2b52afa1b1" tvg-chno="1120" group-title="Radio channels",都市生活频率
-http://192.168.50.66:3257/stream/channelid/2066914338?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="29ad0528a42598b0e70ec6345e4b427e" tvg-chno="1121" group-title="Radio channels",江苏文艺广播
 http://192.168.50.66:3257/stream/channelid/671460649?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="0086d61c2402ed10490eddfbe14f388e" tvg-chno="1122" group-title="Radio channels",江苏交通广播网
