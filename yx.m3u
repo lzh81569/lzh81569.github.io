@@ -124,7 +124,7 @@ http://192.168.50.66:3257/stream/channelid/127536735?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" tvg-id="50948188ece51360ffd2e54c19d05feb" tvg-chno="119" group-title="WSTV",吉林卫视 HD
 http://192.168.50.66:3257/stream/channelid/142709840?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" tvg-id="76234d27fc347e10d12e13673874d498" tvg-chno="120" group-title="WSTV",甘肃卫视 HD
-http://192.168.50.66:3257/stream/channelid/659366774?profile=pass
+http://192.168.50.1:8888/rtp/239.49.0.250:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" tvg-id="0a8f2f77f12953a3416010683a3a9790" tvg-chno="121" group-title="WSTV",云南卫视 HD
 http://192.168.50.66:3257/stream/channelid/1999605514?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" tvg-id="80886f017cd2a481c3d71128517af2a2" tvg-chno="131" group-title="WSTV",宁夏卫视 HD
