@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="29" group-title="CCTV本地",CCTV4K
 http://192.168.50.66:3257/stream/channelid/1068238843?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="c8b8df260684538483323d048c2ab31a" tvg-chno="30" group-title="CCTV本地",CCTV4K-ITV
-http://192.168.50.66:3257/stream/channelid/652196040?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="c8b8df260684538483323d048c2ab31a" tvg-chno="30" group-title="CCTV本地",CCTV4K-IP
+http://192.168.50.66:3257/stream/channelid/2056418378?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="CCTV本地",CCTV1 HD
 http://192.168.50.66:3257/stream/channelid/864153780?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="32" group-title="CCTV本地",CCTV2 HD
@@ -13,7 +13,7 @@ http://192.168.50.66:3257/stream/channelid/1303270667?profile=pass
 http://192.168.50.66:3257/stream/channelid/2034458709?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="35" group-title="CCTV本地",CCTV5 HD
 http://192.168.50.66:3257/stream/channelid/388043606?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="a5463aa048dfb437befc0faaacd8cc6f" tvg-chno="35" group-title="CCTV本地",CCTV5 HD-ITV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="a5463aa048dfb437befc0faaacd8cc6f" tvg-chno="35" group-title="CCTV本地",CCTV5 HD-ITV
 http://192.168.50.66:3257/stream/channelid/540690085?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="36" group-title="CCTV本地",CCTV5+ HD
 http://192.168.50.66:3257/stream/channelid/442253313?profile=pass
