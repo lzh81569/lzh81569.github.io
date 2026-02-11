@@ -122,6 +122,74 @@ https://jmp2.uk/stvp-USBA2300001S8
 https://jmp2.uk/stvp-US2200007QG
 #EXTINF:-1 tvg-id="USBB1900004J9" tvg-name="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="国际频道" , Toon Goggles
 https://jmp2.uk/stvp-USBB1900004J9
-#EXTINF:-1 tvg-id="USAK3508716A" tvg-name="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20250325T020225SQUARE.png" group-title="国际频道" , Kidoodle.TV
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="新加坡",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="新加坡",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-3-sg.png?raw=true" group-title="新加坡",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 tvg-id="Hub.Premier.4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-4-sg.png?raw=true" group-title="新加坡",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="新加坡",SG: Hub Premier 2 UHD
+https://a1xs.vip/9000012
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 10  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292475
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 11  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292476
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 1 (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292466
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 2 (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292467
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 3  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292468
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 4  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292469
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 5  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292470
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 6  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 7  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292472
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 8  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292473
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",SG (SH) HubPremier 9  (D)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/292474
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="新加坡",US Asian (Hindi) Shubh TV (S)
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/27449
 
-
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png" group-title="新加坡",Animax Asia India (1080p)
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="AniplusAsia.sg@SD" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="新加坡",Aniplus Asia (720p)
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新加坡",Channel 5
+https://app.viloud.tv/hls/channel/dcbf7a54c89ba12d98cc7c401c37f565.m3u8
+#EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新加坡",Channel 8
+https://app.viloud.tv/hls/channel/57148804a268f59e0c1af0c1b67a2f7e.m3u8
+#EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="新加坡",Channel U
+https://app.viloud.tv/hls/channel/aaf404bee904cff424bb5d1f6fdf9333.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="新加坡",CNA (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="新加坡",CNA International (1080p)
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" group-title="新加坡",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/512px-CNBC_2025.svg.png" group-title="新加坡",CNBC Asia (720p)
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="新加坡",Crime + Investigation Asia HD (720p)
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:-1 tvg-id="KCM.sg@India" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png" group-title="新加坡",KCM (1080p)
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="KPlus.sg@SD" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="新加坡",K+ (Indonesian subtitle) (576p)
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="新加坡",meWATCH LIVE 1 (1080p)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="ONE.sg@SD" tvg-logo="https://i.imgur.com/ea0iGfA.png" group-title="新加坡",One TV Asia (576p)
+http://210.210.155.37/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-id="Suria.sg@SD" tvg-logo="https://i.imgur.com/9xWAwzy.png" group-title="新加坡",Suria
+https://app.viloud.tv/hls/channel/f0aa5d1d897c28bc8abed7afa90979c7.m3u8
+#EXTINF:-1 tvg-id="TechStorm.sg@SD" tvg-logo="https://i.imgur.com/fAprFBJ.png" group-title="新加坡",Tech Storm (720p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 tvg-id="Vasantham.sg@SD" tvg-logo="https://i.imgur.com/vqVEcuT.png" group-title="新加坡",Vasantham
+https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="新加坡",Zoo Moo (1080p)
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
