@@ -29,7 +29,7 @@ http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
 http://169.150.223.25/ArenaSport5HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="塞尔维亚",Arena Sport 9
 http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Arena Sport 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="塞尔维亚",Arena Sport 4
 http://169.150.223.25/ArenaSport4HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="塞尔维亚",Arena Sport 6
 http://169.150.223.25/ArenaSport6HD/index.m3u8
