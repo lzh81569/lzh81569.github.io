@@ -58,6 +58,8 @@ https://jmp2.uk/stvp-US3800007CR
 https://jmp2.uk/stvp-USBA300023G8
 #EXTINF:-1 tvg-id="US900001CX" tvg-name="US900001CX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" group-title="国际频道" , Universe: Mysteries Solved
 https://jmp2.uk/stvp-US900001CX
+#EXTINF:-1 tvg-logo="https://search-operate.cdn.bcebos.com/b729e5a5426d270fc422a5bdcd1533ed.png" group-title="NBA",NBATV
+https://moveonjoy-cdn-scanner-roan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://search-operate.cdn.bcebos.com/4e67b14905a05af9e1bd04406bf8690f.png" group-title="NBA",Atlanta Hawks
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418405
 #EXTINF:-1 tvg-logo="https://search-operate.cdn.bcebos.com/884c1c1f5db46c170df3c34a8e213ec9.png" group-title="NBA",Boston Celtics
