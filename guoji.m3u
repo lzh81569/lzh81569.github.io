@@ -14,12 +14,6 @@ https://jmp2.uk/stvp-GB2300005ML#https://jmp2.uk/stvp-IT23000034W
 https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="USBA300024TN" tvg-name="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" group-title="国际频道" , LiveNOW from FOX
 
-
-#EXTINF:-1 tvg-id="HubSports1HD" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="HUB SPORTS",HUBSPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-https://anywhere.pwisetthon.com/https://CO2-BKS400-05.starhubgo.com:443/bpk-token/1ab@w23nckcxxxjiz11cykova11euufpptqswc3plsca/bpk-tv/HubSports1HDnew1/output/manifest.mpd?bkm-query
-
 #EXTINF:-1 tvg-id="ITBD3600002PA" tvg-name="ITBD3600002PA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD3600002PA_20241022T051546SQUARE.png" group-title="国际频道" , CNBC
 https://jmp2.uk/stvp-GBBD3600001NO#https://tg-sub-bot.sharewithyou.dpdns.org/play?id=5988168658&e=1768579176&sign=NTk4ODE2ODY1OC1odHRwczovL2ZsMS5tb3Zlb25qb3kuY29tL0NOQkMvaW5kZXgubTN1OC0xNzY4NTc5MTc2LWxpbmtzaWduc2VjcmV0XzIwMjY&v=aHR0cHM6Ly9mbDEubW92ZW9uam95LmNvbS9DTkJDL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="ATBD1100002TA" tvg-name="FRANCE 24 FAST" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD1100002TA_20250107T022112SQUARE.png" group-title="国际频道",FRANCE 24 FAST
@@ -36,32 +30,6 @@ https://jmp2.uk/stvp-USAJ4300005PJ
 https://jmp2.uk/stvp-USBA30002142
 #EXTINF:-1 tvg-id="US2700001QY" tvg-name="US2700001QY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="国际频道", FOX Sports
 https://jmp2.uk/stvp-US2700001QY
-#EXTINF:-1 tvg-id="USBD420002446" tvg-name="USBD420002446" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD420002446_20250204T014255SQUARE.png" group-title="国际频道", NBC Sports NOW
-https://jmp2.uk/stvp-USBD420002446
-#EXTINF:-1 tvg-id="US3600003R7" tvg-name="US3600003R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3600003R7_20260105T175814SQUARE.png" group-title="国际频道" , The NBA Channel
-https://jmp2.uk/stvp-US3600003R7
-#EXTINF:-1 tvg-id="USBB4800005VO" tvg-name="CBS Sports HQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20250401T004857SQUARE.png" group-title="国际频道" ,CBS Sports HQ
-https://jmp2.uk/stvp-USBB4800005VO
-#EXTINF:-1 tvg-id="USAJ4300001Q7" tvg-name="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20241105T024240SQUARE.png" group-title="国际频道", beIN SPORTS XTRA
-https://jmp2.uk/stvp-USAJ4300001Q7
-#EXTINF:-1 tvg-id="USAJ2200023Z0" tvg-name="fubo Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20251014T230120SQUARE.png" group-title="国际频道" ,fubo Sports Network
-https://jmp2.uk/stvp-USAJ2200023Z0
-#EXTINF:-1 tvg-id="USBD12000255B" tvg-name="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20250623T224708SQUARE.png" group-title="国际频道", FIFA+
-https://jmp2.uk/stvp-USBD12000255B
-#EXTINF:-1 tvg-id="USBA300031OT" tvg-name="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20250616T221644SQUARE.png" group-title="国际频道", SportsGrid
-https://jmp2.uk/stvp-USBA300031OT
-#EXTINF:-1 tvg-id="US1400008DW" tvg-name="US1400008DW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400008DW_20240910T003812SQUARE.png" group-title="国际频道", Unbeaten Sports Channel
-https://jmp2.uk/stvp-US1400008DW
-#EXTINF:-1 tvg-id="US37000017A" tvg-name="US37000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20241210T013843SQUARE.png" group-title="国际频道", Big 12 Studios
-https://jmp2.uk/stvp-US37000017A
-#EXTINF:-1 tvg-id="USBA300034DB" tvg-name="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20250415T005925SQUARE.png" group-title="国际频道" , Pac-12 Insider
-https://jmp2.uk/stvp-USBA300034DB
-#EXTINF:-1 tvg-id="USBD300021B8" tvg-name="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20240520T220114SQUARE.png" group-title="国际频道", MSG SportsZone
-https://jmp2.uk/stvp-USBD300021B8
-#EXTINF:-1 tvg-id="US4100001KP" tvg-name="US4100001KP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100001KP_20241210T013946SQUARE.png" group-title="国际频道", Women's Sports Network
-https://jmp2.uk/stvp-US4100001KP
-#EXTINF:-1 tvg-id="USBB400000145" tvg-name="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png" group-title="国际频道", GOLFPASS
-https://jmp2.uk/stvp-USBB400000145
 #EXTINF:-1 tvg-id="USAJ3504707A" tvg-name="USAJ3504707A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20250325T014938SQUARE.png" group-title="国际频道", Outside TV
 https://jmp2.uk/stvp-USAJ3504707A
 #EXTINF:-1 tvg-id="USBB440002055" tvg-name="USBB440002055" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20240722T230849SQUARE.png" group-title="国际频道", Waypoint TV
@@ -70,22 +38,6 @@ https://jmp2.uk/stvp-USBB440002055
 https://jmp2.uk/stvp-USBD17000025J
 #EXTINF:-1 tvg-id="USBD1200020Y4" tvg-name="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20250325T015246SQUARE.png" group-title="国际频道", Outdoor America
 https://jmp2.uk/stvp-USBD1200020Y4
-#EXTINF:-1 tvg-id="US1400012RF" tvg-name="US1400012RF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400012RF_20250318T021027SQUARE.png" group-title="国际频道", FanDuel TV Extra
-https://jmp2.uk/stvp-US1400012RF
-#EXTINF:-1 tvg-id="US2900014UU" tvg-name="US2900014UU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900014UU_20240924T011025SQUARE.png" group-title="国际频道", The Jim Rome Show
-https://jmp2.uk/stvp-US2900014UU
-#EXTINF:-1 tvg-id="US2900017P2" tvg-name="US2900017P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="国际频道", UFC
-https://jmp2.uk/stvp-US2900017P2
-#EXTINF:-1 tvg-id="US350000231" tvg-name="US350000231" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png" group-title="国际频道", PFL
-https://jmp2.uk/stvp-US350000231
-#EXTINF:-1 tvg-id="US4600006R8" tvg-name="US4600006R8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600006R8_20250421T234910SQUARE.png" group-title="国际频道", Combate Global MMA
-https://jmp2.uk/stvp-US4600006R8
-#EXTINF:-1 tvg-id="USAJ26000054W" tvg-name="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" group-title="国际频道" , Paramount Movie Channel
-https://jmp2.uk/stvp-USAJ26000054W
-#EXTINF:-1 tvg-id="USBD700011RE" tvg-name="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="国际频道" , Gravitas Movies
-https://jmp2.uk/stvp-USBD700011RE
-#EXTINF:-1 tvg-id="USAJ30000122O" tvg-name="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20250325T020233SQUARE.png" group-title="国际频道" , NEW KMOVIES
-
 #EXTINF:-1 tvg-id="USAJ3000007MT" tvg-name="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20250325T020231SQUARE.png" group-title="国际频道" , Maverick Black Cinema
 https://jmp2.uk/stvp-USAJ3000007MT
 #EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20250729T010408SQUARE.png" group-title="国际频道" , Clarity 4K
@@ -106,22 +58,67 @@ https://jmp2.uk/stvp-US3800007CR
 https://jmp2.uk/stvp-USBA300023G8
 #EXTINF:-1 tvg-id="US900001CX" tvg-name="US900001CX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US900001CX_20250325T015328SQUARE.png" group-title="国际频道" , Universe: Mysteries Solved
 https://jmp2.uk/stvp-US900001CX
-#EXTINF:-1 tvg-id="USBD1200009JI" tvg-name="USBD1200009JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20250401T004831SQUARE.png" group-title="国际频道" , History & Warfare Now
-https://jmp2.uk/stvp-USBD1200009JI
-#EXTINF:-1 tvg-id="USAJ3400014LK" tvg-name="USAJ3400014LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20240520T214723SQUARE.png" group-title="国际频道" , WeatherSpy
-https://jmp2.uk/stvp-USAJ3400014LK
-#EXTINF:-1 tvg-id="USBB800001O7" tvg-name="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20250325T020244SQUARE.png" group-title="国际频道" , PBS Digital Studios
-https://jmp2.uk/stvp-USBB800001O7
-#EXTINF:-1 tvg-id="US3400003HI" tvg-name="US3400003HI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400003HI_20241119T020447SQUARE.png" group-title="国际频道" , ducktv
-https://jmp2.uk/stvp-US3400003HI
-#EXTINF:-1 tvg-id="US2900015RO" tvg-name="US2900015RO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20250217T210812SQUARE.png" group-title="国际频道" , Kartoon Channel!
-https://jmp2.uk/stvp-US2900015RO
-#EXTINF:-1 tvg-id="USBA2300001S8" tvg-name="USBA2300001S8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20241210T013828SQUARE.png" group-title="国际频道" , The LEGO Channel
-https://jmp2.uk/stvp-USBA2300001S8
-#EXTINF:-1 tvg-id="US2200007QG" tvg-name="US2200007QG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200007QG_20240924T011005SQUARE.png" group-title="国际频道" , Ninja Kidz
-https://jmp2.uk/stvp-US2200007QG
-#EXTINF:-1 tvg-id="USBB1900004J9" tvg-name="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20240520T214715SQUARE.png" group-title="国际频道" , Toon Goggles
-https://jmp2.uk/stvp-USBB1900004J9
+#EXTINF:-1 group-title="NBA",Atlanta Hawks
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418405
+#EXTINF:-1 group-title="NBA",Boston Celtics
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418406
+#EXTINF:-1 group-title="NBA",Brooklyn Nets
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418407
+#EXTINF:-1 group-title="NBA",Charlotte Hornets
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418408
+#EXTINF:-1 group-title="NBA",Chicago Bulls
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418409
+#EXTINF:-1 group-title="NBA",Cleveland Cavaliers
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418410
+#EXTINF:-1 group-title="NBA",Dallas Mavericks
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418411
+#EXTINF:-1 group-title="NBA",Denver Nuggets
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418412
+#EXTINF:-1 group-title="NBA",Detroit Pistons
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418413
+#EXTINF:-1 group-title="NBA",Golden State Warriors
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418414
+#EXTINF:-1 group-title="NBA",Houston Rockets
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418415
+#EXTINF:-1 group-title="NBA",Indiana Pacers
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418416
+#EXTINF:-1 group-title="NBA",Los Angeles Clippers
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418417
+#EXTINF:-1 group-title="NBA",Los Angeles Lakers
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418418
+#EXTINF:-1 group-title="NBA",Memphis Grizzlies
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418419
+#EXTINF:-1 group-title="NBA",Miami Heat
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418420
+#EXTINF:-1 group-title="NBA",Milwaukee Bucks
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418421
+#EXTINF:-1 group-title="NBA",Minnesota Timberwolves
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418422
+#EXTINF:-1 group-title="NBA",New Orleans Pelicans
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418423
+#EXTINF:-1 group-title="NBA",New York Knicks
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418424
+#EXTINF:-1 group-title="NBA",Oklahoma City Thunder
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418425
+#EXTINF:-1 group-title="NBA",Orlando Magic
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418426
+#EXTINF:-1 group-title="NBA",Philadelphia 76ers
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418427
+#EXTINF:-1 group-title="NBA",Phoenix Suns
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418428
+#EXTINF:-1 group-title="NBA",Portland Trail Blazers
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418429
+#EXTINF:-1 group-title="NBA",Sacramento Kings
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418430
+#EXTINF:-1 group-title="NBA",San Antonio Spurs
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418431
+#EXTINF:-1 group-title="NBA",Toronto Raptors
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418432
+#EXTINF:-1 group-title="NBA",Utah Jazz
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418433
+#EXTINF:-1 group-title="NBA",Washington Wizards
+http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HKO7JwzL/418434
+
 #EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-1-sg.png?raw=true" group-title="新加坡",Hub Premier 1 FHD
 https://a1xs.vip/1100041
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-premier-2-sg.png?raw=true" group-title="新加坡",Hub Premier 2 FHD
