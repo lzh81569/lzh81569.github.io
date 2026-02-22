@@ -1,4 +1,5 @@
 #EXTM3U
+http://192.168.50.66:3257/xmltv/channels
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="29" group-title="CCTV本地",CCTV4K
 http://192.168.50.66:3257/stream/channelid/1068238843?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="c8b8df260684538483323d048c2ab31a" tvg-chno="30" group-title="CCTV本地",CCTV4K-IP
