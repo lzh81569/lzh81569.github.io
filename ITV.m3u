@@ -79,7 +79,7 @@ http://192.168.50.1:8888/rtp/239.49.8.16:9602
 http://192.168.50.1:8888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="63" group-title="电信",江苏城市 HD
 http://192.168.50.1:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="62" group-title="电信",江苏体育 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="62" group-title="电信",江苏体育休闲 HD
 http://192.168.50.1:8888/rtp/239.49.8.117:8000            
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="电信",江苏影视 HD
 http://192.168.50.1:8888/rtp/239.49.8.118:8000
