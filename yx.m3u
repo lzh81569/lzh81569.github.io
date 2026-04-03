@@ -106,7 +106,7 @@ http://192.168.50.66:3257/stream/channelid/981953812?profile=pass
 http://192.168.50.66:3257/stream/channelid/2035401912?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="WSTV",深圳卫视 4K
 http://192.168.50.66:3257/stream/channelid/253961239?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="7c435aa8ba15e6104a79924d5f9d4f5b" tvg-chno="109" group-title="WSTV",欢笑剧场 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="7c435aa8ba15e6104a79924d5f9d4f5b" tvg-chno="109" group-title="WSTV",多彩文体 4K
 http://192.168.50.66:3257/stream/channelid/677004156?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" tvg-id="b7f15b63e89646ab57d24355fd0ee34c" tvg-chno="110" group-title="WSTV",重庆卫视 HD
 http://192.168.50.66:3257/stream/channelid/1666970039?profile=pass
@@ -174,7 +174,7 @@ http://192.168.50.66:3257/stream/channelid/1064408453?profile=pass
 http://192.168.50.66:3257/stream/channelid/1208811210?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" tvg-id="d0e600c775083ee564daa9a2a67d3649" tvg-chno="314" group-title="数字频道",生活时尚 HD
 http://192.168.50.66:3257/stream/channelid/1191241424?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" tvg-id="08ad380275d5ab2e1a3b68117f2a0df6" tvg-chno="315" group-title="数字频道",欢笑剧场 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" tvg-id="08ad380275d5ab2e1a3b68117f2a0df6" tvg-chno="315" group-title="数字频道",多彩文体 HD
 http://192.168.50.66:3257/stream/channelid/37268744?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" tvg-id="0b08a73bb3a1e033fa6de2a8c6ad1cd2" tvg-chno="317" group-title="数字频道",东方财经 HD
 http://192.168.50.66:3257/stream/channelid/1000802315?profile=pass
@@ -384,7 +384,7 @@ http://192.168.50.66:3257/stream/channelid/124662547?profile=pass
 http://192.168.50.66:3257/stream/channelid/1111844982?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="0af20b36c80a0173ced83de5e7526bfd" tvg-chno="767" group-title="广电市县",四川卫视 4K
 http://192.168.50.66:3257/stream/channelid/906752522?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="8721b8ba41899fb79a08b278da72c767" tvg-chno="768" group-title="广电市县",欢笑剧场 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="8721b8ba41899fb79a08b278da72c767" tvg-chno="768" group-title="广电市县",多彩文体 4K
 http://192.168.50.66:3257/stream/channelid/985145735?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="ITV",CCTV4K
 http://192.168.50.1:8888/rtp/239.49.0.82:8000
