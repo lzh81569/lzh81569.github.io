@@ -190,8 +190,6 @@ http://192.168.50.66:3257/stream/channelid/1309838950?profile=pass
 http://192.168.50.66:3257/stream/channelid/987205151?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" tvg-id="1e36552c43309fe82b9e2ed65b75ed96" tvg-chno="324" group-title="数字频道",快乐垂钓 HD
 http://192.168.50.66:3257/stream/channelid/743781918?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" tvg-id="6384cf3ccfd361f9ffaa5b31f5bd2a5b" tvg-chno="325" group-title="数字频道",茶频道 HD
-http://192.168.50.66:3257/stream/channelid/1020232803?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" tvg-id="199dd19e23faef607ffd43009936e899" tvg-chno="326" group-title="数字频道",第一财经 HD
 http://192.168.50.66:3257/stream/channelid/517053721?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" tvg-id="77ab6913c94eecae4dd9ec94604dafb0" tvg-chno="329" group-title="数字频道",中国天气 HD
