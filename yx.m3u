@@ -397,8 +397,6 @@ http://192.168.50.1:8888/rtp/239.49.0.28:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" tvg-id="556043f9e6d0ef990ea6819297c789c8" tvg-chno="34" group-title="ITV",CCTV4 HD
 http://192.168.50.1:8888/rtp/239.49.8.51:9806
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="35" group-title="ITV",CCTV5 HD
-http://192.168.50.1:8888/rtp/239.49.0.29:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="35" group-title="ITV",CCTV5 HD
 http://192.168.50.1:8888/rtp/239.49.8.75:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="35" group-title="ITV",CCTV5 HD
 http://192.168.50.1:8888/rtp/239.49.0.206:8000
