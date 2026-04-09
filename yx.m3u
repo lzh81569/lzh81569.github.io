@@ -432,6 +432,12 @@ http://192.168.50.1:8888/rtp/239.49.8.52:9810
 http://192.168.50.1:8888/rtp/239.49.1.77:8000
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="4815280e798cef8aaae22d3350e14cb9" tvg-chno="72" group-title="ITV",无锡都市资讯 HD
 http://192.168.50.1:8888/rtp/239.49.1.78:8000
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" tvg-id="d9195785c581ea57e81ffa608fae9570" tvg-chno="719" group-title=ITV",常州新闻 HD
+http://192.168.50.1:8888/rtp/239.49.1.83:8000
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" tvg-id="db164ea64c3ed70f9b709cb6634dd816" tvg-chno="720" group-title="ITV",常州都市 HD
+http://192.168.50.1:8888/rtp/239.49.1.84:8000 
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1040113899&size=240&m=133986896597552172&x=IDGLCLo21wTDtm0Yrc3uP61QUXIKwWvN" tvg-id="db164ea64c3ed70f9b709cb6634dd816" tvg-chno="720" group-title="ITV",常州生活 HD
+http://192.168.50.1:8888/rtp/239.49.1.85:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="ITV",东方卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.70:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title="ITV",江苏卫视 4K
