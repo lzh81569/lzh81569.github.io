@@ -87,11 +87,11 @@ http://192.168.50.1:8888/rtp/239.49.8.120:8000
 http://192.168.50.1:8888/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="62" group-title="电信",江苏体育休闲 HD
 http://192.168.50.1:8888/rtp/239.49.8.117:8000            
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="电信",江苏影视 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="电信",江苏影视 HD
 http://192.168.50.1:8888/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="电信",优漫卡通 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" group-title="电信",优漫卡通 HD
 http://192.168.50.1:8888/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id=" " tvg-chno=" " group-title="电信",江苏国际 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu6.png" tvg-id=" " tvg-chno=" " group-title="电信",江苏国际 HD
 http://192.168.50.1:8888/rtp/239.49.1.81:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="64" group-title="电信",江苏教育 HD
 http://192.168.50.1:8888/rtp/239.49.8.122:8000
@@ -163,7 +163,7 @@ http://192.168.50.1:8888/rtp/239.49.1.76:8000
 http://192.168.50.1:8888/rtp/239.49.1.79:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="334" group-title="电信",四海钓鱼 HD
 http://192.168.50.1:8888/rtp/239.49.1.80:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id=" " tvg-chno=" " group-title="电信",金鹰纪实
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jyjs.png" tvg-id=" " tvg-chno=" " group-title="电信",金鹰纪实 HD
 http://192.168.50.1:8888/rtp/239.49.8.79:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" tvg-id="fc9088fbd79b07d0fad52dd42c5ea478" tvg-chno="143" group-title="电信",金鹰卡通 HD
 http://192.168.50.1:8888/rtp/239.49.8.33:8000
@@ -187,20 +187,20 @@ http://192.168.50.1:8888/rtp/239.49.0.148:8000
 http://192.168.50.1:8888/rtp/239.49.0.114:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/lypd.png" tvg-id="0a27b9c046cb2e7421164a35e92abf87" tvg-chno="335" group-title="电信",梨园 HD
 http://192.168.50.1:8888/rtp/239.49.8.193:8000               
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="电信",武术世界
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="电信",武术世界 HD
 http://192.168.50.1:8888/rtp/239.49.0.205:8000            
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wwbk.png" group-title="电信",文物宝库
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wwbk.png" group-title="电信",文物宝库 HD
 http://192.168.50.1:8888/rtp/239.49.0.209:8000 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="电信",睛彩竞技
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="电信",睛彩竞技 HD
 http://192.168.50.1:8888/rtp/239.49.8.39:8000
                 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="电信",睛彩篮球
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="电信",睛彩篮球 HD
 http://192.168.50.1:8888/rtp/239.49.8.42:8000
                 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png" group-title="电信",睛彩羽毛球
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png" group-title="电信",睛彩青少 HD
 http://192.168.50.1:8888/rtp/239.49.8.46:8000
                 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png" group-title="电信",睛彩广场舞
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png" group-title="电信",睛彩广场舞 HD
 http://192.168.50.1:8888/rtp/239.49.8.64:8000
           
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="电信",江苏省城市足球联赛1
@@ -215,9 +215,6 @@ http://192.168.50.1:8888/rtp/239.49.8.99:8000
 http://192.168.50.1:8888/rtp/239.49.8.100:8000     
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="电信",江苏省城市足球联赛6
 http://192.168.50.1:8888/rtp/239.49.8.101:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="电信",深圳卫视4K SDR
-http://192.168.50.1:8888/rtp/239.49.8.38:8000
-
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="电信",多画面导航
 http://192.168.50.1:8888/rtp/239.49.8.73:8000
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="电信",多机位1
