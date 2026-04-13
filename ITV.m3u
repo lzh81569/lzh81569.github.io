@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="电信",多画面导航
+http://192.168.50.1:8888/rtp/239.49.8.73:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="电信",东方卫视
 http://192.168.50.1:8888/rtp/239.49.1.70:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="101" group-title="电信",江苏卫视
@@ -215,8 +218,7 @@ http://192.168.50.1:8888/rtp/239.49.8.99:8000
 http://192.168.50.1:8888/rtp/239.49.8.100:8000     
 #EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="电信",江苏省城市足球联赛6
 http://192.168.50.1:8888/rtp/239.49.8.101:8000
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="电信",多画面导航
-http://192.168.50.1:8888/rtp/239.49.8.73:8000
+
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="电信",多机位1
 http://192.168.50.1:8888/rtp/239.49.8.65:9368
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="电信",多机位3
