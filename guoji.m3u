@@ -30,6 +30,8 @@ https://jmp2.uk/stvp-CABC2300009KD
 https://jmp2.uk/stvp-USAJ4300005PJ
 #EXTINF:-1 tvg-id="USBA30002142" tvg-name="USBA30002142" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png" group-title="国际频道" , TYT Network
 https://jmp2.uk/stvp-USBA30002142
+#EXTINF:-1 tvg-id="US4000033L" tvg-name="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="国际频道" , BBC红按钮1台
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_mse_v0_hevc.mpd
 #EXTINF:-1 tvg-id="US2700001QY" tvg-name="US2700001QY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="国际频道", FOX Sports
 https://jmp2.uk/stvp-US2700001QY
 #EXTINF:-1 tvg-id="USAJ3504707A" tvg-name="USAJ3504707A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20250325T014938SQUARE.png" group-title="国际频道", Outside TV
