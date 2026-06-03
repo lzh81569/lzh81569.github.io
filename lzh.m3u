@@ -31,10 +31,13 @@ http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8#http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="11" group-title="CCTV本地",CCTV1 HD
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
+http://223.110.255.207:6610/gitv/live1/G_CCTV-1-AVS-4K264/G_CCTV-1-AVS-4K264/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="12" group-title="CCTV本地",CCTV2 HD
+http://223.110.255.207:6610/gitv/live1/G_CCTV-2-AVS-4K264/G_CCTV-2-AVS-4K264/1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" tvg-id="0b55ae4d4d403048a25a63da24ea2033" tvg-chno="13" group-title="CCTV本地",CCTV3 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
+http://223.110.255.207:6610/gitv/live1/G_CCTV-3-AVS-4K264/G_CCTV-3-AVS-4K264/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" tvg-id="556043f9e6d0ef990ea6819297c789c8" tvg-chno="14" group-title="CCTV本地",CCTV4 HD
 http://ott.mobaibox.com/PLTV/1/224/3221228091/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD
@@ -42,10 +45,12 @@ http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8#http://ott.mobaibox.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="16" group-title="CCTV本地",CCTV5+ HD
 http://ott.mobaibox.com/PLTV/1/224/3221228176/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" tvg-id="e31f3878c650efd69221a2abe91ccbaf" tvg-chno="18" group-title="CCTV本地",CCTV6 HD
+http://223.110.255.207:6610/gitv/live1/G_CCTV-6-AVS-4K264/G_CCTV-6-AVS-4K264/1.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8#http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" tvg-id="17e0f960432f0f09da92ab78c532be0d" tvg-chno="19" group-title="CCTV本地",CCTV7 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" tvg-id="0624d8152b44b94e831557942fdcfd6d" tvg-chno="20" group-title="CCTV本地",CCTV8 HD
+http://223.110.255.207:6610/gitv/live1/G_CCTV-8-AVS-4K264/G_CCTV-8-AVS-4K264/1.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228578/1.m3u8#http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" tvg-id="9451a35ec23360d8fff5a244776bcffe" tvg-chno="21" group-title="CCTV本地",CCTV9 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
