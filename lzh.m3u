@@ -1,16 +1,18 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="体育",CCTV16 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="d8a7254065e8cedadca63ce7e57d40a8" tvg-chno="17" group-title="CCTV本地",CCTV16 4K
+http://183.207.248.71/cntv/live1/-/JSGD-GW-SMS-cctv16-4K
+http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv16-4K
 http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="体育",CCTV 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD
 http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="体育",CCTV 5+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="16" group-title="CCTV本地",CCTV5+ HD
 http://ott.mobaibox.com/PLTV/1/224/3221228176/1.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视中文" tvg-name="凤凰中文" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png" group-title="港澳台",凤凰中文
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-id="0dbe4a63ab68e12dbaaf6437344aeefa" tvg-chno="98" group-title="卫视频道",凤凰中文 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视资讯" tvg-name="凤凰资讯" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png" group-title="港澳台",凤凰资讯
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-id="2615866feb25e299b3a9bbacee03d73d" tvg-chno="99" group-title="卫视频道",凤凰资讯 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视香港" tvg-name="凤凰香港" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png" group-title="港澳台",凤凰香港
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" tvg-id="2615866feb25e299b3a9bbacee03d73d" tvg-chno="99" group-title="卫视频道",凤凰香港 HD
 http://ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="港台電視-31" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/RTHK31.png" group-title="港澳台",RTHK31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -22,54 +24,71 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="港澳台",RTHK35CGTN
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="CNA-亞洲新聞台" tvg-name="CNA" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="News",CNA 亞洲新聞台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="News",半岛国际新闻台
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="CCTV",CCTV 8K
+#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="CCTV本地",CCTV8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="CCTV",CCTV 4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="9" group-title="CCTV本地",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8#http://ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="CCTV",CCTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="11" group-title="CCTV本地",CCTV1 HD
 http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221227467/index.m3u8
-#EXTINF:-1 -id="CCTV2" tvg-name="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="CCTV",CCTV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="12" group-title="CCTV本地",CCTV2 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="CCTV",CCTV 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" tvg-id="0b55ae4d4d403048a25a63da24ea2033" tvg-chno="13" group-title="CCTV本地",CCTV3 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="CCTV",CCTV 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" tvg-id="556043f9e6d0ef990ea6819297c789c8" tvg-chno="14" group-title="CCTV本地",CCTV4 HD
 http://ott.mobaibox.com/PLTV/1/224/3221228091/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="CCTV",CCTV 5
-http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8#http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="体育",CCTV 5+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD
+http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="16" group-title="CCTV本地",CCTV5+ HD
 http://ott.mobaibox.com/PLTV/1/224/3221228176/1.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="CCTV",CCTV 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" tvg-id="e31f3878c650efd69221a2abe91ccbaf" tvg-chno="18" group-title="CCTV本地",CCTV6 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228123/index.m3u8#http://ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="CCTV",CCTV 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" tvg-id="17e0f960432f0f09da92ab78c532be0d" tvg-chno="19" group-title="CCTV本地",CCTV7 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="CCTV",CCTV 8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" tvg-id="0624d8152b44b94e831557942fdcfd6d" tvg-chno="20" group-title="CCTV本地",CCTV8 HD
 http://ott.mobaibox.com/PLTV/1/224/3221228578/1.m3u8#http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228194/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="CCTV",CCTV 9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" tvg-id="9451a35ec23360d8fff5a244776bcffe" tvg-chno="21" group-title="CCTV本地",CCTV9 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="CCTV",CCTV 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" tvg-id="396ac0749047d6cb4d1e355dc9496d27" tvg-chno="22" group-title="CCTV本地",CCTV10 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="CCTV",CCTV 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV11.png" tvg-id="ba7df563f62b23c65d4782facfa56d14" tvg-chno="23" group-title="CCTV本地",CCTV11 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="CCTV",CCTV 12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV12.png" tvg-id="cb7bf7194b41c49236c4930cd1aef9d4" tvg-chno="24" group-title="CCTV本地",CCTV12 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="CCTV",CCTV 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV13.png" tvg-id="d7e7a74d94c9e434887e21a9937146b4" tvg-chno="25" group-title="CCTV本地",CCTV13 HD
 http://ott.mobaibox.com/PLTV/1/224/3221228324/1.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="CCTV",CGTN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" tvg-id="442f53a02c5816095a5cfe4bf3061a40" tvg-chno="33" group-title="CCTV本地",CGTN HD
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="CCTV",CCTV 14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV14.png" tvg-id="9a9ceac275a1f9c4453f7d4736ab0a21" tvg-chno="26" group-title="CCTV本地",CCTV14 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="CCTV",CCTV 15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" tvg-id="63199b9f230a8017b7e40e457d7fe8df" tvg-chno="27" group-title="CCTV本地",CCTV15 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="CCTV",CCTV 16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="eedc442ce559e0fbf83f47aed97269fd" tvg-chno="28" group-title="CCTV本地",CCTV16 HD
 http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="CCTV",CCTV 17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" tvg-id="3dde8603aed2b060060dc4dc10b99989" tvg-chno="29" group-title="CCTV本地",CCTV17 HD
 http://ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing.png" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" tvg-id="d7ee6cb4a9356af6cb245865d2411474" tvg-chno="104" group-title="卫视频道",北京卫视 4K
 http://ott.mobaibox.com/PLTV/1/224/3221228890/1.m3u8#http://ott.mobaibox.com/PLTV/1/224/3221227896/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="卫视频道",东方卫视 4K
+http://183.207.248.71/cntv/live1/-/JS-SMS-gddongfangstv-4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="ae922297f27f0ac12b9a0154a163eaa2" tvg-chno="101" group-title="卫视频道",江苏卫视 4K
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="2f5332fee902aee64dbec8826d07ef68" tvg-chno="102" group-title="卫视频道",湖南卫视 4K
+http://183.207.248.71/cntv/live1/-/JS-SMS-gdhunanstv-4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="0f936bb168aa28e0c0f71a89d64ad739" tvg-chno="103" group-title="卫视频道",浙江卫视 4K 
+http://183.207.248.71/cntv/live1/-/JS-SMS-gdzhejiangstv-4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" tvg-id="d7ee6cb4a9356af6cb245865d2411474" tvg-chno="104" group-title="卫视频道",北京卫视 4K
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" tvg-id="a1210e90a42d76d3439a04035c2ada76" tvg-chno="105" group-title="卫视频道",山东卫视 4K
+http://183.207.248.71/cntv/live1/-/JS-SMS-gdshandongstv-4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="146d87ba08d0de06886fb9685bbb8af7" tvg-chno="106" group-title="卫视频道",四川卫视 4K
+http://183.207.248.71/cntv/live1/-/JS-SMS-gdsichuanstv-4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" tvg-id="b8c451f9cff8a317d60396c316513045" tvg-chno="107" group-title="卫视频道",广东卫视 4K
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="卫视频道",深圳卫视 4K
+
+
+
+
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/1/224/3221227511/1.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
