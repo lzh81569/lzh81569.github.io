@@ -72,18 +72,16 @@ http://192.168.50.66:3257/stream/channelid/518204111?profile=pass
 http://192.168.50.66:3257/stream/channelid/369685281?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1095296314&size=240&m=134163943675876692&x=oRdahIVMRzZLPu8fdVwMcaKF1gaaRmjH" tvg-id="b6fdeea69ddf0e52a8397ada80889544" tvg-chno="44" group-title="CCTV本地",宜兴新闻 HD
 http://192.168.50.66:3257/stream/channelid/653196726?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="a2e7f5dd57993d437db309ab9f257aac" tvg-chno="50" group-title="CCTV本地",江苏卫视4K跨年
-http://192.168.50.66:3257/stream/channelid/1576396706?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="4314812dc7811a7192283b1271678575" tvg-chno="51" group-title="CCTV本地",江苏卫视4K
 http://192.168.50.66:3257/stream/channelid/763434051?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="CCTV本地",江苏新闻 HD
-http://192.168.50.66:3257/stream/channelid/501650765?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="53" group-title="CCTV本地",江苏体育 HD
 http://192.168.50.66:3257/stream/channelid/339788129?profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="CCTV本地",江苏新闻 HD
+http://192.168.50.66:3257/stream/channelid/501650765?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="54" group-title="CCTV本地",江苏城市 HD
 http://192.168.50.66:3257/stream/channelid/1503807087?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" tvg-id="89459ecdf9e7a457c77aaab7426d1640" tvg-chno="55" group-title="CCTV本地",电信分屏 HD
-http://192.168.50.66:3257/stream/channelid/1302218121?profile=pass
+http://192.168.50.1:8888/rtp/239.49.8.73:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="56" group-title="CCTV本地",江苏教育 HD
 http://192.168.50.66:3257/stream/channelid/1438150384?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" tvg-id="7b48384eccf0c5b523b2a8feab1de576" tvg-chno="57" group-title="CCTV本地",江苏综艺 HD
@@ -108,8 +106,6 @@ http://192.168.50.66:3257/stream/channelid/103406415?profile=pass
 http://192.168.50.66:3257/stream/channelid/180765448?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang.png" tvg-id="fc1bbe1c1fc55e36bae1e81621112c2f" tvg-chno="70" group-title="CCTV本地",之江纪录 HD
 http://192.168.50.66:3257/stream/channelid/482221052?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ef3c7adce37a214664dcd94cd05f39e3" tvg-chno="72" group-title="CCTV本地",CCTV5 HD-IP
-http://192.168.50.66:3257/stream/channelid/1551514863?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="fea28b73738d6177a697126b3ad60b36" tvg-chno="96" group-title="卫视频道",无锡新闻综合 HD
 http://192.168.50.66:3257/stream/channelid/1938531070?profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r1.photofinale.com/storage/8.0/photo.aspx?photo=1040113902&size=240&m=133986896601630000&x=lCtWIuIr8964oYRLuHzvZOLe1KjEOka4" tvg-id="98fedfe9b826a1bce0461db97913bb19" tvg-chno="97" group-title="卫视频道",无锡都市资讯 HD
@@ -455,4 +451,171 @@ http://192.168.50.1:8888/rtp/239.49.1.66:8000
 http://192.168.50.1:8888/rtp/239.49.1.26:8000         
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="ITV",深圳卫视 4K
 http://192.168.50.1:8888/rtp/239.49.1.28:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" tvg-id="780bd4041223b5b4d4d7579ed8ef111b" tvg-chno="56" group-title="ITV",CETV1
+http://192.168.50.1:8888/rtp/239.49.8.115:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" tvg-id="780bd4041223b5b4d4d7579ed8ef111b" tvg-chno="56" group-title="ITV",CETV4
+http://192.168.50.1:8888/rtp/239.49.0.125:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" tvg-id="442f53a02c5816095a5cfe4bf3061a40" tvg-chno="55" group-title="ITV",CGTN
+http://192.168.50.1:8888/rtp/239.49.0.9:8064
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="e84fc8da29491071df64f6c41ebd8801" tvg-chno="700" group-title="ITV",江苏卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.16:9602
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="61" group-title="ITV",江苏新闻 HD
+http://192.168.50.1:8888/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="63" group-title="ITV",江苏城市 HD
+http://192.168.50.1:8888/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="62" group-title="ITV",江苏体育休闲 HD
+http://192.168.50.1:8888/rtp/239.49.8.117:8000            
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu6.png" tvg-id=" " tvg-chno=" " group-title="ITV",江苏国际 HD
+http://192.168.50.1:8888/rtp/239.49.1.81:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="64" group-title="ITV",江苏教育 HD
+http://192.168.50.1:8888/rtp/239.49.8.122:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" tvg-id="7b48384eccf0c5b523b2a8feab1de576" tvg-chno="65" group-title="ITV",江苏综艺 HD
+http://192.168.50.1:8888/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="ITV",江苏影视 HD
+http://192.168.50.1:8888/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" group-title="ITV",优漫卡通 HD
+http://192.168.50.1:8888/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai04.png" group-title="ITV",睛彩竞技 HD
+http://192.168.50.1:8888/rtp/239.49.8.39:8000           
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" group-title="ITV",睛彩篮球 HD
+http://192.168.50.1:8888/rtp/239.49.8.42:8000             
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai02.png" group-title="ITV",睛彩青少 HD
+http://192.168.50.1:8888/rtp/239.49.8.46:8000             
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai01.png" group-title="ITV",睛彩广场舞 HD
+http://192.168.50.1:8888/rtp/239.49.8.64:8000        
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" tvg-id="d39ac1c8b527ffb7474e4614b47f1807" tvg-chno="100" group-title="ITV",东方卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.17:9606
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="e84fc8da29491071df64f6c41ebd8801" tvg-chno="700" group-title="ITV",江苏卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.16:9602
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" tvg-id="2f5332fee902aee64dbec8826d07ef68" tvg-chno="102" group-title="ITV",湖南卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.12:9418  
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" tvg-id="0f936bb168aa28e0c0f71a89d64ad739" tvg-chno="103" group-title="ITV",浙江卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.20:9618
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" tvg-id="d7ee6cb4a9356af6cb245865d2411474" tvg-chno="104" group-title="ITV",北京卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.11:9414
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" tvg-id="a56b9930476a154541556fad0940ee6a" tvg-chno="750" group-title="ITV",广西卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.10:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" tvg-id="6cb2f0a2fadd5ff595cd3c0c421dfa25" tvg-chno="500" group-title="ITV",天津卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.35:8620           
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" tvg-id="b7f15b63e89646ab57d24355fd0ee34c" tvg-chno="110" group-title="ITV",重庆卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.57:9830
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" tvg-id="533606d2a5d7d11dec720003fae933b0" tvg-chno="115" group-title="ITV",辽宁卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.48:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" tvg-id="b057f246dbc170188e951bb8e5778260" tvg-chno="745" group-title="ITV",海南卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.83:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="146d87ba08d0de06886fb9685bbb8af7" tvg-chno="106" group-title="ITV",四川卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.110:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" tvg-id="7cb8d2ab8b1fa5d0c51c90058020d64c" tvg-chno="117" group-title="ITV",江西卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.111:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" tvg-id="2be6d800a4d6941cbda993bec3021165" tvg-chno="113" group-title="ITV",东南卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.112:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" tvg-id="50948188ece51360ffd2e54c19d05feb" tvg-chno="119" group-title="ITV",吉林卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.113:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" tvg-id="5f0e9a87415e1371c7e3ca5aaa5f0be5" tvg-chno="118" group-title="ITV",河北卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.114:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" tvg-id="b8c451f9cff8a317d60396c316513045" tvg-chno="107" group-title="ITV",广东卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.13:9422
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" tvg-id="d1f4539c78d9d84554b69333e3e4482a" tvg-chno="114" group-title="ITV",黑龙江卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.14:9426
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" tvg-id="1724238f594393ff6f998ae74b9c01d0" tvg-chno="108" group-title="ITV",深圳卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.15:9430
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" tvg-id="0a8f2f77f12953a3416010683a3a9790" tvg-chno="121" group-title="ITV",云南卫视 HD
+http://192.168.50.1:8888/rtp/239.49.0.177:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" tvg-id="a1210e90a42d76d3439a04035c2ada76" tvg-chno="105" group-title="ITV",山东卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.7:9306
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Guizhou.png" tvg-id="9fea5bc334f46715a16e66bbf22a476f" tvg-chno="501" group-title="ITV",贵州卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.49:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" tvg-id="2520e5b848f33021ed843e5733699682" tvg-chno="112" group-title="ITV",安徽卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.80:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" tvg-id="745ce56df697d7120f86711f0e91efbb" tvg-chno="116" group-title="ITV",湖北卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.8:9632
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" tvg-id="b173da8368e4bd6aa7ea5887ba819617" tvg-chno="111" group-title="ITV",河南卫视 HD
+http://192.168.50.1:8888/rtp/239.49.8.29:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" tvg-id="ea8c49812515d73dcd8d9b974825e77e" tvg-chno="502" group-title="ITV",山西卫视 HD
+http://192.168.50.1:8888/rtp/239.49.1.55:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" tvg-id="07d6dcf48309a979c46bc4430d4f1583" tvg-chno="744" group-title="ITV",三沙卫视 HD
+http://192.168.50.1:8888/rtp/239.49.0.167:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" tvg-id="b6f5dc1a0549d4d798448d422ebd0981" tvg-chno="746" group-title="ITV",陕西卫视 HD
+http://192.168.50.1:8888/rtp/239.49.1.74:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" tvg-id="1cb1b68fa632d6dbdd9e0306acdec8d5" tvg-chno="132" group-title="ITV",内蒙古卫视 HD
+http://192.168.50.1:8888/rtp/239.49.1.75:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" tvg-id="76234d27fc347e10d12e13673874d498" tvg-chno="120" group-title="ITV",甘肃卫视 HD
+http://192.168.50.1:8888/rtp/239.49.0.250:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" tvg-id="2461939b359678f6d27758d5c55fdb6e" tvg-chno="749" group-title="ITV",青海卫视 HD
+http://192.168.50.1:8888/rtp/239.49.0.81:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cftx.png" tvg-id="668e124ee76a2ac8f6d8a69baafe4b48" tvg-chno="321" group-title="ITV",财富天下 HD
+http://192.168.50.1:8888/rtp/239.49.1.76:8000 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="334" group-title="ITV",天元围棋 HD
+http://192.168.50.1:8888/rtp/239.49.1.79:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/tywq.png" tvg-id="193c33a82a3aebe76923f2d4ba92ea38" tvg-chno="334" group-title="ITV",四海钓鱼 HD
+http://192.168.50.1:8888/rtp/239.49.1.80:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jyjs.png" tvg-id=" " tvg-chno=" " group-title="ITV",金鹰纪实 HD
+http://192.168.50.1:8888/rtp/239.49.8.79:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" tvg-id="fc9088fbd79b07d0fad52dd42c5ea478" tvg-chno="143" group-title="ITV",金鹰卡通 HD
+http://192.168.50.1:8888/rtp/239.49.8.33:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/zgtq.png" tvg-id="77ab6913c94eecae4dd9ec94604dafb0" tvg-chno="329" group-title="ITV",中国天气 HD
+http://192.168.50.1:8888/rtp/239.49.0.94:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" tvg-id="61f09eebfe1c12b9484d5e3865ea843f" tvg-chno="316" group-title="ITV",第一财经 HD
+http://192.168.50.1:8888/rtp/239.49.8.37:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" tvg-id="0b08a73bb3a1e033fa6de2a8c6ad1cd2" tvg-chno="317" group-title="ITV",东方财经 HD
+http://192.168.50.1:8888/rtp/239.49.0.95:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" tvg-id="728cd3be616a9bc72a4b124fece4c1df" tvg-chno="319" group-title="ITV",法治天地 HD
+http://192.168.50.1:8888/rtp/239.49.0.96:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" tvg-id="d0e600c775083ee564daa9a2a67d3649" tvg-chno="314" group-title="ITV",生活时尚 HD
+http://192.168.50.1:8888/rtp/239.49.0.97:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" tvg-id="cafe0c487c02f02a14265f76fcebb5d0" tvg-chno="313" group-title="ITV",都市剧场 HD
+http://192.168.50.1:8888/rtp/239.49.0.99:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandongjy.png" tvg-id="835fed1db370114fe21d3520ad44f820" tvg-chno="144" group-title="ITV",山东教育 HD
+http://192.168.50.1:8888/rtp/239.49.0.252:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" tvg-id="938eebba34e152230d04b9b64f1b7293" tvg-chno="141" group-title="ITV",卡酷少儿 HD
+http://192.168.50.1:8888/rtp/239.49.0.148:8000            
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" tvg-id="1e36552c43309fe82b9e2ed65b75ed96" tvg-chno="324" group-title="ITV",快乐垂钓 HD
+http://192.168.50.1:8888/rtp/239.49.0.114:8000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/lypd.png" tvg-id="0a27b9c046cb2e7421164a35e92abf87" tvg-chno="335" group-title="ITV",梨园 HD
+http://192.168.50.1:8888/rtp/239.49.8.193:8000               
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="ITV",武术世界 HD
+http://192.168.50.1:8888/rtp/239.49.0.205:8000            
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wwbk.png" group-title="ITV",文物宝库 HD
+http://192.168.50.1:8888/rtp/239.49.0.209:8000 
+
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="ITV",江苏省城市足球联赛1
+http://192.168.50.1:8888/rtp/239.49.8.96:8000
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="ITV",江苏省城市足球联赛2
+http://192.168.50.1:8888/rtp/239.49.8.97:8000                
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="ITV",江苏省城市足球联赛3
+http://192.168.50.1:8888/rtp/239.49.8.98:8000
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="ITV",江苏省城市足球联赛4
+http://192.168.50.1:8888/rtp/239.49.8.99:8000
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="ITV",江苏省城市足球联赛5
+http://192.168.50.1:8888/rtp/239.49.8.100:8000     
+#EXTINF:-1 tvg-logo="https://storage-r4.photofinale.com/storage/8.0/photo.aspx?photo=1032779389&size=240&m=133964221927930000&x=cJSOI1aZleziDU5h9zjlOZgqXMa2v5kv" group-title="ITV",江苏省城市足球联赛6
+http://192.168.50.1:8888/rtp/239.49.8.101:8000
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",多机位1
+http://192.168.50.1:8888/rtp/239.49.8.65:9368
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",多机位3
+http://192.168.50.1:8888/rtp/239.49.8.67:9376
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",多机位2
+http://192.168.50.1:8888/rtp/239.49.8.66:9372
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",多机位6
+http://192.168.50.1:8888/rtp/239.49.0.251:8000
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",多机位7
+http://192.168.50.1:8888/rtp/239.49.0.191:8000
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",多机位5
+http://192.168.50.1:8888/rtp/239.49.8.69:9384
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",精彩推荐高清
+http://192.168.50.1:8888/rtp/239.49.8.34:8612        
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",CBA直播7
+http://192.168.50.1:8888/rtp/239.49.8.97:8000            
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",篮球世界
+http://192.168.50.1:8888/rtp/239.49.8.105:8000    
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",CBA直播8
+http://192.168.50.1:8888/rtp/239.49.8.98:8000          
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",羽毛球直播
+http://192.168.50.1:8888/rtp/239.49.8.104:8000           
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",直播室1
+http://192.168.50.1:8888/rtp/239.49.8.151:6000            
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",直播室2
+http://192.168.50.1:8888/rtp/239.49.8.63:9354
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" group-title="ITV",镇江教育民生
+http://192.168.50.1:8888/rtp/239.49.1.73:8000
 
