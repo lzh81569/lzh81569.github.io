@@ -27,6 +27,7 @@ http://192.168.50.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="d8a7254065e8cedadca63ce7e57d40a8" tvg-chno="37" group-title="电信",CCTV16
 http://192.168.50.1:8888/rtp/239.49.0.109:8000 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="电信",CCTV1
+catchup="append" catchup-source="?playseek=${start}"
 http://192.168.50.1:8888/rtp/239.49.8.19:9614          
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="32" group-title="电信",CCTV2
 http://192.168.50.1:8888/rtp/239.49.8.50:9802
