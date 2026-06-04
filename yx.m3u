@@ -384,7 +384,6 @@ http://192.168.50.66:3257/stream/channelid/985145735?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="ITV",CCTV4K
 http://192.168.50.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="ITV",CCTV1 HD
-catchup="append" catchup-source="http://112.25.198{start}"
 http://192.168.50.1:8888/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="32" group-title="ITV",CCTV2 HD
 http://192.168.50.1:8888/rtp/239.49.8.50:9802
