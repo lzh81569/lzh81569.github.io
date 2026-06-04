@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="d8a7254065e8cedadca63ce7e57d40a8" tvg-chno="17" group-title="CCTV本地",CCTV16 4K
 http://183.207.248.71/cntv/live1/-/JSGD-GW-SMS-cctv16-4K#http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv16-4K#http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8#http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD
