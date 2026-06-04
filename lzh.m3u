@@ -267,3 +267,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视" catchup="default" catchup-days="7",东方卫视
 http://ott.mobaibox.com/PLTV/1/224/3221227511/1.m3u8?playseek=${start}-${end}
+
+#EXTINF:-1 tvg-id="3221228743" tvg-name="江苏卫视" tvg-logo="http://..." catchup="default" catchup-source="http://mobaibox.com{(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
+
