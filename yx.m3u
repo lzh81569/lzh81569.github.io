@@ -381,6 +381,8 @@ http://192.168.50.66:3257/stream/channelid/1613919090?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjc4k.png" tvg-id="8721b8ba41899fb79a08b278da72c767" tvg-chno="771" group-title="市县频道",多彩文体 4K
 http://192.168.50.66:3257/stream/channelid/985145735?profile=pass
 
+#EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="ITV",AppleTV F1
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="ITV",CCTV4K
 http://192.168.50.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="ITV",CCTV1 HD
