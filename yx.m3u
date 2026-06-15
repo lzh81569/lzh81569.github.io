@@ -650,6 +650,49 @@ http://doubleclicktv.live/Lana15/tjLUeQxVL4LE/746772
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1076470
 #EXTINF:-1 tvg-logo=" " tvg-id=" " tvg-chno="335" group-title="ITV",FUSSBALL.TV1(4K杜比)
 https://drm.91porn.stream/play/RUfGbXML3FYkAo-H7gD2Tg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283565974&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" tvg-id="Telemundo4K1" group-title="ITV" drm-type="clearkey" drm-key-id="002269747b1780941bdce2864b47f369" drm-key="c84fec5b1f70acad9bc257afe46997ec",Telemundo-4K-1台新
+https://g002-sle-us-cmaf-prd-fy.cdn.peacocktv.com/v~1-0-0_e~1781486694_f~0_g~1_s~efa963ad-bf1b-47c3-84ad-c446c6136b5d_u~2fc3181d9bb490b427441c0528378166696e6f4fdd3e61a95168ae5027fde71ce139842a0314078961820ae5a33f83f9_k~A_l~78_x~f87456484fa57aa185605345d1ebb1b3/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021154-723012-4911424c4c4)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283565974&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" tvg-id="Telemundo4K2" group-title="ITV" drm-type="clearkey" drm-key-id="0022045b676b06c8da4cff795a549a76" drm-key="5ce3d600b8e5207e89bff3296abf69c9",Telemundo-4K-2台新
+https://g002-sle-us-cmaf-prd-ak.cdn.peacocktv.com/v~a-0-0_e~1781498102_s~ca1182b3-0bca-49c2-a952-20ac53bb4b45_u~2fc3181d9bb490b427441c0528378166696e6f4fdd3e61a95168ae5027fde71ce139842a0314078961820ae5a33f83f9_l~78_x~972fa1846349cabb5483b18372fd73348954f6461dab54ab593e9c0b5beb6513/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5022523-724381-49165be125d)/master.mpd
+
+#EXTINF:-1 tvg-id="Travelxp4K" tvg-name="Travelxp 4K" group-title="4K Channels" drm-type="clearkey" drm-key-id="1f5e28ed5473effa0abf80c7a5dd8d62" drm-key="5d1d93cb5c7747933dabc3cff1141cbe",Travelxp 4K UHD
+https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
+
+
+#EXTINF:-1 tvg-id="ProSiebenSat1UHD" group-title="ITV",ProSiebenSat.1 UHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=application/dash+xml
+#EXTVLCOPT:demuxer-lavf-o=decryption_key=1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
+https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="RTLUHD" group-title="ITV",RTL UHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=application/dash+xml
+#EXTVLCOPT:demuxer-lavf-o=decryption_key=17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
+https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FUSSBALLTV1UHD" group-title="ITV",FUSSBALL.TV 1 UHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=application/dash+xml
+#EXTVLCOPT:demuxer-lavf-o=decryption_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FUSSBALLTV2UHD" group-title="ITV",FUSSBALL.TV 2 UHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=application/dash+xml
+#EXTVLCOPT:demuxer-lavf-o=decryption_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FUSSBALLTV3UHD" group-title="ITV",FUSSBALL.TV 3 UHD
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.mime_type=application/dash+xml
+#EXTVLCOPT:demuxer-lavf-o=decryption_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
+
+
+
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283565974&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" tvg-id=" " tvg-chno=" " group-title="ITV",Telemundo-4K-1台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
