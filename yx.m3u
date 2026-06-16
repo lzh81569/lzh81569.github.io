@@ -383,6 +383,13 @@ http://192.168.50.66:3257/stream/channelid/985145735?profile=pass
 
 #EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="ITV",AppleTV F1
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1117785769&size=240&m=134260664554231775&x=754KKSp43JDH2IlyO5c6f3GKeuHMf6Tl" tvg-id=" " tvg-chno="335" group-title="ITV",FUSSBALL.TV1(4K杜比)
+https://drm.91porn.stream/play/RUfGbXML3FYkAo-H7gD2Tg/index.m3u8
+#EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117785768&size=240&m=134260664553404833&x=iD1PB2uwsmI6oexmSoJ78yV5W9BPPoRZ" group-title="SPORT",FOX - HDR10 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="ITV",CCTV4K
 http://192.168.50.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="ITV",CCTV1 HD
@@ -648,6 +655,4 @@ https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3
 http://doubleclicktv.live/Lana15/tjLUeQxVL4LE/746772
 #EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="ITV",AppleTV F1备2
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1076470
-#EXTINF:-1 tvg-logo=" " tvg-id=" " tvg-chno="335" group-title="ITV",FUSSBALL.TV1(4K杜比)
-https://drm.91porn.stream/play/RUfGbXML3FYkAo-H7gD2Tg/index.m3u8
 
