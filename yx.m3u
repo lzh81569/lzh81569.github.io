@@ -385,6 +385,20 @@ http://192.168.50.66:3257/stream/channelid/985145735?profile=pass
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1117785769&size=240&m=134260664554231775&x=754KKSp43JDH2IlyO5c6f3GKeuHMf6Tl" tvg-id=" " tvg-chno="335" group-title="ITV",FUSSBALL.TV1(4K杜比)
 https://drm.91porn.stream/play/RUfGbXML3FYkAo-H7gD2Tg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-id=" " tvg-chno=" " group-title="ITV",愛爾達體育1台
+https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" tvg-id=" " tvg-chno=" " group-title="ITV",广东体育
+https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1117785769&size=240&m=134260664554231775&x=754KKSp43JDH2IlyO5c6f3GKeuHMf6Tl" tvg-id=" " tvg-chno="335" group-title="ITV",FUSSBALL.TV 1 UHD  4K杜比
+https://iptv.852851.xyz/ch/9ad2c65b895ebcaa252259078ae5db64/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/tv1_tsn.png" tvg-id=" " tvg-chno=" " group-title="ITV",TSN 4K CA
+https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
+
+
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117785768&size=240&m=134260664553404833&x=iD1PB2uwsmI6oexmSoJ78yV5W9BPPoRZ" group-title="ITV",FOX 4K HDR10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
