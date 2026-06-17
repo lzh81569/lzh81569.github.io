@@ -647,8 +647,6 @@ https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3
 
 #EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1117785769&size=240&m=134260664554231775&x=754KKSp43JDH2IlyO5c6f3GKeuHMf6Tl" tvg-id=" " tvg-chno="335" group-title="体育",FUSSBALL.TV1(4K杜比)
-https://drm.91porn.stream/play/RUfGbXML3FYkAo-H7gD2Tg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 41 UHD
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
@@ -668,7 +666,7 @@ https://iptv.852851.xyz/ch/6e6fbc3c7498ef8dd68ef39fa6ba39d3/master.m3u8
 #EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117785768&size=240&m=134260664553404833&x=iD1PB2uwsmI6oexmSoJ78yV5W9BPPoRZ" group-title="体育",FOX 4K HDR10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/pdx-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283570000&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" group-title="体育",美国西班牙语频道1台4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
