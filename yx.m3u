@@ -653,6 +653,8 @@ https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-id=" " tvg-chno=" " group-title="体育",愛爾達體育1台
 https://iptv.852851.xyz/ch/a1e1f83bd470bec31e1540093438a5c7/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-id=" " tvg-chno=" " group-title="体育",愛爾達體育2台
+https://iptv.852851.xyz/ch/667741f228996f28da24100c4dc78630/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" tvg-id=" " tvg-chno=" " group-title="体育",广东体育
 https://iptv.852851.xyz/ch/980212015e30f3168d4823ea3d79f278/master.m3u8
