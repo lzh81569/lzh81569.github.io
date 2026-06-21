@@ -25,7 +25,7 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
 https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="FOX - HDR10 4K" tvg-name="FOX - HDR10 4K" tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117785768&size=240&m=134260664553404833&x=iD1PB2uwsmI6oexmSoJ78yV5W9BPPoRZ" group-title="体育",FOX UHD
+#EXTINF:-1 tvg-id="FFOX UHD" tvg-name="FOX UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="体育",FOX UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9crxia693u/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
