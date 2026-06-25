@@ -26,17 +26,20 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
 #EXTINF:-1 tvg-id="FFOX UHD" tvg-name="FOX UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="体育",FOX UHD
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9crxia693u/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283570000&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" group-title="体育",美国西班牙语频道1台4K
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002269747b1780941bdce2864b47f369:c84fec5b1f70acad9bc257afe46997ec
 https://g002-sle-us-cmaf-prd-fy.cdn.peacocktv.com/v~1-0-0_e~1781486694_f~0_g~1_s~efa963ad-bf1b-47c3-84ad-c446c6136b5d_u~2fc3181d9bb490b427441c0528378166696e6f4fdd3e61a95168ae5027fde71ce139842a0314078961820ae5a33f83f9_k~A_l~78_x~f87456484fa57aa185605345d1ebb1b3/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021154-723012-4911424c4c4)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://storage-r2.photofinale.com/storage/8.0/photo.aspx?photo=1117325057&size=240&m=134259134283570000&x=1eR4if1FvlxYClsmexG13RVz3HTYyhN5" group-title="体育",美国西班牙语频道2台4K
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0022045b676b06c8da4cff795a549a76:5ce3d600b8e5207e89bff3296abf69c9
