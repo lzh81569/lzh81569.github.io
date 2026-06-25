@@ -74,17 +74,17 @@ http://192.168.50.66:3257/stream/channelid/369685281?profile=pass
 http://192.168.50.66:3257/stream/channelid/653196726?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="4314812dc7811a7192283b1271678575" tvg-chno="51" group-title="CCTV本地",江苏卫视4K
 http://192.168.50.66:3257/stream/channelid/763434051?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="53" group-title="CCTV本地",江苏体育 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="53" group-title="CCTV本地",江苏体育 HD
 http://192.168.50.66:3257/stream/channelid/339788129?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="CCTV本地",江苏新闻 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="CCTV本地",江苏新闻 HD
 http://192.168.50.66:3257/stream/channelid/501650765?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="54" group-title="CCTV本地",江苏城市 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="54" group-title="CCTV本地",江苏城市 HD
 http://192.168.50.66:3257/stream/channelid/1503807087?profile=pass
-#EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1052875714&size=240&m=134027254831430000&x=4E126GawUVE2DcPJgnw2fVmeusFoeHUQ" tvg-id="89459ecdf9e7a457c77aaab7426d1640" tvg-chno="55" group-title="CCTV本地",电信分屏 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="89459ecdf9e7a457c77aaab7426d1640" tvg-chno="55" group-title="CCTV本地",电信分屏 HD
 http://192.168.50.1:8888/rtp/239.49.8.73:8000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="56" group-title="CCTV本地",江苏教育 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="56" group-title="CCTV本地",江苏教育 HD
 http://192.168.50.66:3257/stream/channelid/1438150384?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" tvg-id="7b48384eccf0c5b523b2a8feab1de576" tvg-chno="57" group-title="CCTV本地",江苏综艺 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="7b48384eccf0c5b523b2a8feab1de576" tvg-chno="57" group-title="CCTV本地",江苏综艺 HD
 http://192.168.50.66:3257/stream/channelid/1312311419?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" tvg-id="ad4ab312b0d0682e8256a9349c1cf340" tvg-chno="61" group-title="CCTV本地",上海新闻综合 HD
 http://192.168.50.66:3257/stream/channelid/313739949?profile=pass
