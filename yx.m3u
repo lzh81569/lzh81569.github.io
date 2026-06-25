@@ -646,7 +646,7 @@ https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001690/index.m3
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001490/index.m3u8?streamid=9ca725ba158e786e5bc6f2bbdcc209bf&streamkey=0AGMO6LiBIxyH4EhXQA4CyyBB6GWkVdx4wZhM6J1AywT63McWrpsYW9yLXS08YubrPIfbHwZLLnp7So4ZwIBrnd0XfZRr8BbmzbuifkWu2isG4qQh6gE8sxMfPTZh3ri&token=1775939208-d56ed9c8bb67d5e7-0-2a1d1f2081da3c539979b1c938effb5f
 
 #EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
+http://iptv.watchhd.to:5050/YannB/7krzj7gqFiel/475271
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 41 UHD
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
@@ -685,6 +685,8 @@ https://g002-sle-us-cmaf-prd-ak.cdn.peacocktv.com/v~a-0-0_e~1781498102_s~ca1182b
 http://doubleclicktv.live/Lana15/tjLUeQxVL4LE/746772
 #EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1备2
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1076470
+#EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1备3
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 42 UHD
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_042/iptv_uhd_v1.mpd
