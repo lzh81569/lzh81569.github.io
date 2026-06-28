@@ -35,5 +35,17 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
 https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
+#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://1000logos.net/wp-content/uploads/2021/06/F1-logo.png" group-title="体育",F1 Austria Race 4K Dolby Vision
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f592da6b40339728d4c9c6a24e769dd:ff4c61eeb2aa4df09d44cfdcb12296cb
+https://linear.tv.apple.com/v1/hls/playlist.m3u8?serviceId=tvs.vds.241105&l=en-US&referenceId=umc.cmr.f1live.sp.4aoj1m0xj9h397h6msn3cbrnw&drmUsed=playready&linearScrubbingSupported=true
+
+#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://city-png.b-cdn.net/preview/preview_public/uploads/preview/hd-official-fifa-world-cup-26-trophy-transparent-background-701751712076887htawzli3zs.png" group-title="体育",FIFA World Cup
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="体育",NHK G
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
