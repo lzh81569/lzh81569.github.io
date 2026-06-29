@@ -41,9 +41,9 @@ https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_c
 
 #EXTINF:-1 tvg-id="bbc_parliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/960px-BBC_Parliament_2022.svg.png?_=20230426191812" group-title="BBC National",BBC Parliament🇬🇧英国
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="cbbc_hd.uk" tvg-logo="https://1000logos.net/wp-content/uploads/2025/11/CBBC-Logo.png" group-title="BBC National",CBBC🇬🇧英国
+#EXTINF:-1 tvg-id="cbbc_hd.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNPcFnbYJG8mPIzuqx-PInX1fhUNn0YSTlVhJdUYKeouFE4frn47CwXc&s=10" group-title="BBC National",CBBC🇬🇧英国
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="cbeebies_hd.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/CBeebies_logo_with_outline.svg" group-title="BBC National",CBeebies🇬🇧英国
+#EXTINF:-1 tvg-id="cbeebies_hd.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/3840px-CBeebies.svg.png" group-title="BBC National",CBeebies🇬🇧英国
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="s4cpbs.uk" tvg-logo="https://p7.hiclipart.com/preview/778/280/991/s4c-cardiff-television-logo-welsh-english-channel.jpg" group-title="BBC National",S4C🇬🇧英国
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/hevc_iptv_mse_v0.mpd
