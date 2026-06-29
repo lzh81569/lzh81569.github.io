@@ -26,15 +26,72 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
 https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="体育",BBC One UK
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="BBC National",BBC One UK
 https://ve-cmaf-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/hevc_iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="体育",BBC One UK
-https://vs-cmaf-push-uk-live.akamaized.net/.../bbc_one_london/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="体育",BBC Two UK
-https://vs-cmaf-push-uk-live.akamaized.net/.../bbc_two_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="体育",BBC Three UK
-https://vs-cmaf-pushb-uk-live.akamaized.net/.../bbc_three_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="体育",BBC Four UK
-https://vs-cmaf-pushb-uk-live.akamaized.net/.../bbc_four_hd/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="体育",BBC News
-https://vs-cmaf-push-uk-live.akamaized.net/.../bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="BBC National",BBC One UK
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="BBC National",BBC Two UK
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" group-title="BBC National",BBC Three UK
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-four-uk.png?raw=true" group-title="BBC National",BBC Four UK
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News International" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="BBC National",BBC News
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_parliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/BBC_Parliament_2022.svg/960px-BBC_Parliament_2022.svg.png?_=20230426191812" group-title="BBC National",BBC Parliament (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="cbbc_hd.uk" tvg-logo="https://1000logos.net/wp-content/uploads/2025/11/CBBC-Logo.png" group-title="BBC National",CBBC (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="cbeebies_hd.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/CBeebies_logo_with_outline.svg" group-title="BBC National",CBeebies (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="s4cpbs.uk" tvg-logo="https://p7.hiclipart.com/preview/778/280/991/s4c-cardiff-television-logo-welsh-english-channel.jpg" group-title="BBC National",S4C (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:s4cpbs/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="red_button_one.uk" tvg-logo="https://www.vhv.rs/dpng/d/509-5096448_bbc-red-button-bbc-red-button-tv-hd.png" group-title="BBC National",BBC Red Button 1 (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_alba.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/BBC_Alba_%28older_version%29.svg/1280px-BBC_Alba_%28older_version%29.svg.png" group-title="BBC Nations",BBC Alba (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_scotland_hd.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/3840px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="BBC Nations",BBC Scotland (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_scotland_hd.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Nations",BBC One Scotland (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_wales_hd.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Nations",BBC One Wales (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_northern_ireland_hd.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Nations",BBC One NI (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_two_wales_digital.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Nations",BBC Two Wales (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_two_northern_ireland_hd.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Nations",BBC Two NI (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_one_channel_islands.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One Channel Islands (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_east.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One East (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_east_midlands.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One East Midlands (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_north_east.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One North East (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_north_west.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One North West (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_one_south.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One South (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_south_east.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One South East (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_south_west.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One South West (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_west.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One West (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_west_midlands.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One West Midlands (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_yorks.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One Yorkshire (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_one_east_yorkshire.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC Regions",BBC One East Yorkshire (1080p HEVC)
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/hevc_iptv_mse_v0.mpd
+
+#EXTINF:-1 tvg-id="bbc_arabic_tv.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC World",BBC Arabic (1080p HEVC)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="bbc_persian_tv.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC World",BBC Persian (1080p HEVC)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
