@@ -630,7 +630,9 @@ http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1076470
 #EXTINF:-1 tvg-logo="https://americanbazaaronline.com/wp-content/uploads/2025/10/0521447b-27ec-4aeb-9243-925d9b7552c8.png" tvg-id=" " tvg-chno=" " group-title="体育",AppleTV F1备3
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119317
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/500px-NHKBSP4KHorizontal.svg.png" tvg-id=" " tvg-chno=" " group-title="体育",NHK BS4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/500px-NHKBSP4KHorizontal.svg.png" tvg-id=" " tvg-chno=" " group-title="体育",NHK BSP4K
 https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/500px-NHKBSP4KHorizontal.svg.png" tvg-id=" " tvg-chno=" " group-title="体育",NHK BS4K-1080P
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NHKBSP4KHorizontal.svg/500px-NHKBSP4KHorizontal.svg.png" tvg-id=" " tvg-chno=" " group-title="体育",NHK BSPHD
 https://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NHK_BS8K_2020_logo.svg/500px-NHK_BS8K_2020_logo.svg.png" tvg-id=" " tvg-chno=" " group-title="体育",NHK BS8K
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
