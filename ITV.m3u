@@ -31,7 +31,7 @@ http://192.168.50.1:8888/rtp/239.49.8.19:9614
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" tvg-id="13a45e88200db2d129f087fa0cb7da5a" tvg-chno="32" group-title="电信",CCTV2
 http://192.168.50.1:8888/rtp/239.49.8.50:9802
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV3.png" tvg-id="0b55ae4d4d403048a25a63da24ea2033" tvg-chno="33" group-title="电信",CCTV3
-http://192.168.50.1:8888/rtp/239.49.0.28:8000
+http://192.168.50.1:8888/rtp/239.49.8.74:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4.png" tvg-id="556043f9e6d0ef990ea6819297c789c8" tvg-chno="34" group-title="电信",CCTV4
 http://192.168.50.1:8888/rtp/239.49.8.51:9806
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="35" group-title="电信",CCTV5
@@ -41,11 +41,11 @@ http://192.168.50.1:8888/rtp/239.49.0.206:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="36" group-title="电信",CCTV5+
 http://192.168.50.1:8888/rtp/239.49.8.18:9610
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV6.png" tvg-id="e31f3878c650efd69221a2abe91ccbaf" tvg-chno="38" group-title="电信",CCTV6
-http://192.168.50.1:8888/rtp/239.49.0.73:8000
+http://192.168.50.1:8888/rtp/239.49.8.76:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV7.png" tvg-id="17e0f960432f0f09da92ab78c532be0d" tvg-chno="39" group-title="电信",CCTV7
 http://192.168.50.1:8888/rtp/239.49.0.126:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8.png" tvg-id="0624d8152b44b94e831557942fdcfd6d" tvg-chno="40" group-title="电信",CCTV8
-http://192.168.50.1:8888/rtp/239.49.0.79:8000
+http://192.168.50.1:8888/rtp/239.49.8.77:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV9.png" tvg-id="9451a35ec23360d8fff5a244776bcffe" tvg-chno="41" group-title="电信",CCTV9
 http://192.168.50.1:8888/rtp/239.49.8.53:9814
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV10.png" tvg-id="396ac0749047d6cb4d1e355dc9496d27" tvg-chno="42" group-title="电信",CCTV10
