@@ -14,9 +14,9 @@ http://192.168.50.66:3257/stream/channelid/1303270667?auth=PQgplJJUrpQdu9Uk6VeO8
 http://192.168.50.66:3257/stream/channelid/2034458709?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD
 http://192.168.50.66:3257/stream/channelid/388043606?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ef3c7adce37a214664dcd94cd05f39e3" tvg-chno="15" group-title="CCTV本地",CCTV5 HD-IP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD-IP
 http://192.168.50.66:3257/stream/channelid/1551514863?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ff1b45493db1f940b129aea9f8764a51" tvg-chno="15" group-title="CCTV本地",CCTV5 HD-ITV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD-ITV
 http://192.168.50.66:3257/stream/channelid/1229265919?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="16" group-title="CCTV本地",CCTV5+ HD
@@ -287,7 +287,7 @@ http://192.168.50.66:3257/stream/channelid/1672967109?auth=PQgplJJUrpQdu9Uk6VeO8
 http://192.168.50.66:3257/stream/channelid/42838922?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="e3f457620db5ad2407e2216591f50ef7" tvg-chno="536" group-title="ITV",CCTV5+ HD
 http://192.168.50.66:3257/stream/channelid/1649931491?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="355a874f80c4a1d07887f4dcbc599e0d" tvg-chno="561" group-title="ITV",江苏新闻 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="ITV",江苏新闻 HD
 http://192.168.50.66:3257/stream/channelid/1334270517?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="405a68939bd99b2240669ef0c5129584" tvg-chno="562" group-title="ITV",江苏体育休闲 HD
 http://192.168.50.66:3257/stream/channelid/325605952?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
