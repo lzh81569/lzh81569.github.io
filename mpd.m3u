@@ -105,7 +105,7 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=bc9238583b9c4c619683cdb633ba3d12:84a756647f362c601502ef6bb4a013da
 https://ucdn.starhubgo.com/bpk-tv/FightSportsHD/output/manifest.mpd
 
-#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png" group-title="体育",Hub Sports 1 HD
+#EXTINF:-1 tvg-id="Hub.Sports.1.HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/201_1920x1080_HTV.png" group-title="体育",Hub Sports 1 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
