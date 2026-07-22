@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz"
 
-#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" group-title="体育",BBC Stream 41 UHD🇬🇧英国
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="体育",BBC Stream 41 UHD🇬🇧英国
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_041/iptv_uhd_v1.mpd
 
 #EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="Fussball TV 1 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="体育",FUSSBALL.TV 1 UHD🇩🇪德国
@@ -84,19 +84,6 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="bbc_persian_tv.uk" tvg-logo="https://icon2.cleanpng.com/20180620/cf/kisspng-united-kingdom-director-general-of-the-bbc-bbc-wor-5b2b17cdf3a2a3.2833457015295507979979.jpg" group-title="BBC World",BBC Persian🇬🇧英国
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
-
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="体育",FUSSBALL.TV 2 UHD🇩🇪德国
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="体育",FUSSBALL.TV 3 UHD🇩🇪德国
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
-https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
 #EXTINF:-1 tvg-id="Fight.Sports.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/241_1920x1080_HTV.png" group-title="体育",FIGHT SPORTS HD🇸🇬新加坡
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -279,4 +266,18 @@ https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_b
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_043/iptv_uhd_v1.mpd  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-uhd-uk.png" tvg-id=" " tvg-chno=" " group-title="体育",BBC Stream 44 UHD🇬🇧英国
 https://ve-uhd-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:uk_bbc_stream_044/iptv_uhd_v1.mpd
+
+
+
+#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="Fussball TV 2 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="体育",FUSSBALL.TV 2 UHD🇩🇪德国
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="Fussball TV 3 4K DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sportdigital_Fu%C3%9Fball_Logo_2019.svg/1280px-Sportdigital_Fu%C3%9Fball_Logo_2019.svg.png?_=20250101230447" group-title="体育",FUSSBALL.TV 3 UHD🇩🇪德国
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
 
