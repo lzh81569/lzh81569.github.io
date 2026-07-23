@@ -289,12 +289,13 @@ http://192.168.50.66:3257/stream/channelid/42838922?auth=PQgplJJUrpQdu9Uk6VeO882
 http://192.168.50.66:3257/stream/channelid/1649931491?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="ITV",江苏新闻 HD
 http://192.168.50.66:3257/stream/channelid/1334270517?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="405a68939bd99b2240669ef0c5129584" tvg-chno="562" group-title="ITV",江苏体育休闲 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="53" group-title="ITV",江苏体育休闲 HD
 http://192.168.50.66:3257/stream/channelid/325605952?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="be16812596fb84beaf4d8e629eec868e" tvg-chno="563" group-title="ITV",江苏城市 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="54" group-title="ITV",江苏城市 HD
 http://192.168.50.66:3257/stream/channelid/629216958?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="b08f9d020fc1ef8c1f1af9a6704bfa2b" tvg-chno="564" group-title="ITV",江苏教育 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="56" group-title="ITV",江苏教育 HD
 http://192.168.50.66:3257/stream/channelid/43880368?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-id="5bb19623646146a64e2f6dd9da154ecf" tvg-chno="698" group-title="市县频道",鳳凰衛視中文台 HD
 http://192.168.50.66:3257/stream/channelid/597078363?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-id="bf07b9fcc1737d421c338a5830ee1cf2" tvg-chno="699" group-title="市县频道",鳳凰衛視資訊台 HD
