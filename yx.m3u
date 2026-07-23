@@ -279,24 +279,24 @@ http://192.168.50.66:3257/stream/channelid/708527399?auth=PQgplJJUrpQdu9Uk6VeO88
 http://192.168.50.66:3257/stream/channelid/1148160531?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jingcai03.png" tvg-id="a455c614c2d1b44fd8be8dba060fa587" tvg-chno="505" group-title="卫视频道",睛彩篮球
 http://192.168.50.66:3257/stream/channelid/348542372?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="16" group-title="ITV",CCTV5+ HD
+http://192.168.50.66:3257/stream/channelid/1649931491?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="53" group-title="ITV",江苏体育休闲 HD
+http://192.168.50.66:3257/stream/channelid/325605952?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="ITV",江苏新闻 HD
+http://192.168.50.66:3257/stream/channelid/1334270517?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="54" group-title="ITV",江苏城市 HD
+http://192.168.50.66:3257/stream/channelid/629216958?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" tvg-id="85186b395ee2f2fa9c0193c2f8332d0e" tvg-chno="530" group-title="ITV",江苏影视 HD
 http://192.168.50.66:3257/stream/channelid/963319941?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" tvg-id="c573b7634108bc50236fdb76a85da4e4" tvg-chno="531" group-title="ITV",优漫卡通 HD
 http://192.168.50.66:3257/stream/channelid/1672967109?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu6.png" tvg-id="8aab8d022473ab7629ec39fa9a0bc6ab" tvg-chno="532" group-title="ITV",江苏国际 HD
-http://192.168.50.66:3257/stream/channelid/42838922?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="e3f457620db5ad2407e2216591f50ef7" tvg-chno="536" group-title="ITV",CCTV5+ HD
-http://192.168.50.66:3257/stream/channelid/1649931491?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" tvg-id="4d95e61dcca9cd1d312e4bc4521cb3ce" tvg-chno="52" group-title="ITV",江苏新闻 HD
-http://192.168.50.66:3257/stream/channelid/1334270517?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" tvg-id="61c1401432ca7b8323048b4f4781c21a" tvg-chno="53" group-title="ITV",江苏体育休闲 HD
-http://192.168.50.66:3257/stream/channelid/325605952?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" tvg-id="6f46a2d9275961688ab025794fe5f8ee" tvg-chno="54" group-title="ITV",江苏城市 HD
-http://192.168.50.66:3257/stream/channelid/629216958?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" tvg-id="f06eb855b912b8840c32da7850be208c" tvg-chno="56" group-title="ITV",江苏教育 HD
 http://192.168.50.66:3257/stream/channelid/43880368?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" tvg-id="7b48384eccf0c5b523b2a8feab1de576" tvg-chno="57" group-title="ITV",江苏综艺 HD
 http://192.168.50.66:3257/stream/channelid/261143621?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu6.png" tvg-id="8aab8d022473ab7629ec39fa9a0bc6ab" tvg-chno="532" group-title="ITV",江苏国际 HD
+http://192.168.50.66:3257/stream/channelid/42838922?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" tvg-id="5bb19623646146a64e2f6dd9da154ecf" tvg-chno="698" group-title="市县频道",鳳凰衛視中文台 HD
 http://192.168.50.66:3257/stream/channelid/597078363?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" tvg-id="bf07b9fcc1737d421c338a5830ee1cf2" tvg-chno="699" group-title="市县频道",鳳凰衛視資訊台 HD
