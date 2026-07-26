@@ -385,8 +385,6 @@ http://192.168.50.66:3257/stream/channelid/1370302479?auth=PQgplJJUrpQdu9Uk6VeO8
 http://192.168.50.66:3257/stream/channelid/1486762926?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://storage-r3.photofinale.com/storage/8.0/photo.aspx?photo=1039901853&size=240&m=133985789794995158&x=GMXBmuqeSA88crRnBQO5g2zjgcl7Ejt7" tvg-id="c0eca21cca2590e9767931b912123836" tvg-chno="743" group-title="市县频道",昆山电视剧
 http://192.168.50.66:3257/stream/channelid/480439488?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="46e702fbbc97d9173744d257baa62760" tvg-chno="744" group-title="广电市县",江苏新闻 HD
-http://192.168.50.66:3257/stream/channelid/2063787846?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" tvg-id="37df0c3823f49f472f51f3dc9a421adb" tvg-chno="759" group-title="市县频道",CCTV16 4K
 http://192.168.50.66:3257/stream/channelid/940367671?auth=PQgplJJUrpQdu9Uk6VeO882x78iQ&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu.png" tvg-id="1db664b6047160971161a14a1ab8512d" tvg-chno="762" group-title="市县频道",江苏卫视 4K
