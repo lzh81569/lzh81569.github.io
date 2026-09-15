@@ -414,7 +414,8 @@ http://192.168.50.1:8888/rtp/239.49.1.81:8000
 http://192.168.50.1:8888/rtp/239.49.8.118:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ymkt.png" tvg-id="c573b7634108bc50236fdb76a85da4e4" tvg-chno="09" group-title="ITV",优漫卡通 HD
 http://192.168.50.1:8888/rtp/239.49.8.119:8000
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" tvg-id="70400df4d3c0c1223f86190974d6d8c2" tvg-chno="01" group-title="ITV",江苏IPTV 4K
+http://192.168.50.1:8888/rtp/239.49.8.38:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" tvg-id="fb07ac3fb49943c027ad2a72db38e866" tvg-chno="30" group-title="ITV",CCTV4K
 http://192.168.50.1:8888/rtp/239.49.0.82:8000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" tvg-id="b4f081337809e963332c60c204538cb5" tvg-chno="31" group-title="ITV",CCTV1 HD
