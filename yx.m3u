@@ -411,7 +411,8 @@ http://192.168.50.66:3257/stream/channelid/124662547?profile=pass
 http://192.168.50.66:3257/stream/channelid/1111844982?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" tvg-id="0af20b36c80a0173ced83de5e7526bfd" tvg-chno="775" group-title="市县频道",四川卫视 4K
 http://192.168.50.66:3257/stream/channelid/906752522?profile=pass
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" tvg-id="103979d537ea116e93c0bfaabbf65f04" tvg-chno="777" group-title="市县频道",上海新闻综合
+http://192.168.50.66:3257/stream/channelid/1434007824?profile=pass
 
 
 
