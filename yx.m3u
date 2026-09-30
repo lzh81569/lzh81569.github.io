@@ -16,7 +16,7 @@ http://192.168.50.66:3257/stream/channelid/2034458709?profile=pass
 http://192.168.50.66:3257/stream/channelid/388043606?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ef3c7adce37a214664dcd94cd05f39e3" tvg-chno="15" group-title="CCTV本地",CCTV5 HD-IP
 http://192.168.50.66:3257/stream/channelid/1551514863?profile=pass
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="ff1b45493db1f940b129aea9f8764a51" tvg-chno="15" group-title="CCTV本地",CCTV5 HD电信
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5.png" tvg-id="56132197d1216ead5fdc96d7b0638c70" tvg-chno="15" group-title="CCTV本地",CCTV5 HD电信
 http://192.168.50.66:3257/stream/channelid/1229265919?profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV5plus.png" tvg-id="01405c9ad3c56301a1d59085ef759808" tvg-chno="16" group-title="CCTV本地",CCTV5+ HD
